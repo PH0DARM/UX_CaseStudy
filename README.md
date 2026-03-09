@@ -96,7 +96,7 @@ La combinación de todas estas estrategias metodológicas asegura una aproximaci
 ![Método UX](img/Persona.png) 
 -----
 
->>> Para esta practica hemos elegido dos perfiles de persona distintas pero que entran dentro de los objetivos. Por un lado tendremos a un joven el cual esta metido dentro de el mundo de las series japonesas y videojuegos lo cual entra dentro de un grupo muy extendido de estos locales
+Para esta practica hemos elegido dos perfiles de persona distintas pero que entran dentro de los objetivos. Por un lado tendremos a un joven el cual esta metido dentro de el mundo de las series japonesas y videojuegos lo cual entra dentro de un grupo muy extendido de estos locales
 
 ![Persona 1](P1/Persona1.png)
 

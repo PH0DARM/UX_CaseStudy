@@ -16,11 +16,9 @@ Actualizado: 14/01/2026
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 
-Grupo: DIUx_AABB.  Curso: 2025/26 
+Grupo: DIU1_PAYA.  Curso: 2025/26 
 
-Nombre del Proyecto: 
-
-Ramen & Noodles Pa'ya
+Nombre del Proyecto: Ramen & Noodles Pa'ya
 
 Descripción: 
 

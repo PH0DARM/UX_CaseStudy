@@ -23,7 +23,6 @@ Nombre del Proyecto: Ramen & Noodles Pa'ya
 Descripción: 
 
 Este proyecto lo vamos a enfocar como una plataforma web enfocada en fomentar la creacion de lazos y actividades sociales en Granada. Este proyecto estara en base a la comida japonesa.
-El restaurante elegido como caso de estudio y referencia para el diseño de la nueva página web es "Buga Ramen". Se trata de una cadena de restauración conocida y establecida en diversas ciudades de España, lo que proporciona una base sólida y reconocible para el proyecto.
 
 La plataforma web se centrara en varias cosas poder para empezar lo mas general que se pueden hacer dentro de una pagina de un restaurante como ver la carta, hacer reservas para asistir alli, consultar la ubicacion de el restaurante, numero de telefono de el restautante, etc.
 

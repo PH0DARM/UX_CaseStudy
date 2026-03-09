@@ -24,12 +24,35 @@ Ramen & Noodles Pa'ya
 
 Descripción: 
 
-Este proyecto lo vamos a enfocar como una plataforma web enfocada en fomentar la creacion de lazos y actividades sociales en Granada. Este proyecto estara en base a la comida japonesa.
+El restaurante elegido como caso de estudio y referencia para el diseño de la nueva página web es "Buga Ramen". Se trata de una cadena de restauración conocida y establecida en diversas ciudades de España, lo que proporciona una base sólida y reconocible para el proyecto.
 
-La plataforma web se centrara en poder para empezar lo mas general que se pueden hacer dentro de una pagina de un restaurante como ver la carta, hacer reservas para asistir alli, consultar la ubicacion de el restaurante, numero de telefono de el restautante, etc.
 
-Ahora lo que implementaremos que nos separara de el resto de los competidores es la fomentacion de actividades sociales y para ello implementaremos actividades como la organizacion una vez a la semana eventos sociales en los que se hara debates sobre distintas series de anime, concursos de disfraces relacionados a lo que se este debatiendo en los que a los ganadores se le otorgaran descuentos y la posibilidad de crear grupos para ir a comer con gente desconocida para crear relaciones.
+La elección no es casual, sino estratégica, ya que el proyecto busca adoptar y replicar dos de sus elementos clave para asentar la identidad digital:
+Identidad Visual: Se utilizará una paleta de colores muy llamativa de Buga Ramen. Esta elección busca generar una seña de identidad visual potente y distintiva en el entorno digital, esencial para la memorabilidad de la marca y para destacar frente a la competencia.
+Calidad de Producto: La alta calidad alimentaria del restaurante es un pilar crucial que se pretende mantener. El proyecto replicará este valor a través de la selección de un proveedor de confianza, asegurando que el estándar de calidad se refleje tanto en el servicio como en la percepción del cliente.
+Objetivo Central de la Investigación
 
+
+El propósito fundamental de la investigación es doble, enfocándose tanto en la funcionalidad de la plataforma como en el posicionamiento de la marca:
+Mejora de la Experiencia de Usuario (UX) y Conversión: El objetivo principal es optimizar la plataforma web para el usuario. Esto implica diseñar un sitio intuitivo, rápido y accesible que haga el proceso de navegación, reserva o pedido lo más sencillo y agradable posible. Una Mejora de la Experiencia de Usuario (UX) efectiva se espera que se traduzca directamente en un incremento de las ventas y en una mayor fidelización.
+Creación de una Marca Reconocible: Se busca desarrollar una imagen de marca memorable, que puede materializarse, por ejemplo, en un logo distintivo y en un tono de comunicación coherente. Una marca fuerte facilita la penetración en el público objetivo, genera confianza y, en última instancia, contribuye a aumentar la base de clientes a largo plazo.
+Estrategia de Estudio y Recopilación de Información
+
+
+La metodología para el estudio y la recopilación de información es una combinación de análisis estratégico digital y métodos de feedback directo.Análisis de Datos y Planificación Estratégica (Fase Inicial)
+
+
+Esta fase se centra en entender el entorno digital y al público objetivo antes del diseño:
+Análisis Digital: Se realizarán análisis exhaustivos para monitorear la percepción de la imagen de la marca en las redes sociales. Esto permite identificar tendencias, opiniones de los usuarios, puntos fuertes y áreas de mejora en el ámbito digital.
+Segmentación de Audiencia (Personas): Se procederá a la creación de personas ficticias. Estas representaciones de clientes ideales se basan en datos demográficos, comportamientos, motivaciones y objetivos. La segmentación es vital para definir y entender al público objetivo y adaptar el diseño web y la comunicación a sus necesidades reales.
+Mapeo de Experiencia (Journey Maps): Se elaborarán journey maps para trazar el recorrido completo del usuario con la marca, desde que surge la necesidad hasta la post-compra. Este mapeo ayuda a identificar los puntos de dolor (momentos de frustración o dificultad) y los puntos de placer (momentos de satisfacción) para optimizar cada interacción.
+Recopilación de Información y Feedback Directo (Fase de Complemento)
+
+
+Para complementar el análisis digital y obtener datos cualitativos de primera mano, se utilizarán métodos físicos de interacción con los usuarios:
+Entrevistas: Las entrevistas con clientes actuales y potenciales proporcionan feedback directo y en profundidad sobre sus experiencias, expectativas y percepciones. Es un método clave para entender el "por qué" detrás de los datos cuantitativos.
+Encuestas: Las encuestas permiten recoger una gran cantidad de datos cuantitativos de manera eficiente, midiendo la satisfacción, las preferencias y las necesidades de un grupo más amplio de usuarios.
+La combinación de todas estas estrategias metodológicas asegura una aproximación integral para mejorar la experiencia de los usuarios y construir un proyecto web sólido y enfocado al éxito comercial.
 Logotipo: 
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí

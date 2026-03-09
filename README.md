@@ -102,7 +102,7 @@ La combinación de todas estas estrategias metodológicas asegura una aproximaci
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
 
-![Texto alternativo](P1/Personaje #1.png)
+![Persona 1](P1/Persona #1.png)
 
 
 ### 1.d User Journey Map

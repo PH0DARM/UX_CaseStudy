@@ -20,17 +20,21 @@ Grupo: DIUx_AABB.  Curso: 2025/26
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Ramen & Noodles Pa'ya
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Este proyecto lo vamos a enfocar como una plataforma web enfocada en fomentar la creacion de lazos y actividades sociales en Granada. Este proyecto estara en base a la comida japonesa.
+
+La plataforma web se centrara en poder para empezar lo mas general que se pueden hacer dentro de una pagina de un restaurante como ver la carta, hacer reservas para asistir alli, consultar la ubicacion de el restaurante, numero de telefono de el restautante, etc.
+
+Ahora lo que implementaremos que nos separara de el resto de los competidores es la fomentacion de actividades sociales y para ello implementaremos actividades como la organizacion una vez a la semana eventos sociales en los que se hara debates sobre distintas series de anime, concursos de disfraces relacionados a lo que se este debatiendo en los que a los ganadores se le otorgaran descuentos y la posibilidad de crear grupos para ir a comer con gente desconocida para crear relaciones.
 
 Logotipo: 
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
-Miembros y nombre del equipo:
+Miembros y nombre del equipo: DIU1_PAYA
  * :bust_in_silhouette:  Pablo Hodar Molina     :octocat:     
  * :bust_in_silhouette:  Yaiza Perez Ocaña     :octocat:
 
@@ -57,8 +61,11 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+El restaurante que hemos seleccionado para la investigacion de nuestra pagina web es "Buga Ramen", el cual es una gran cadena la cual podemos encontrar en muchas ciudades de España y tomaremos muchas de sus bases para nuestro proyecto como el utilizar una gama de colores muy llamativos y elegiremos una combinacion la cual sera nuestra seña de identidad y tambien su gran calidad de alimentos lo cual pensamos que es muy importante, por lo que buscaremos un proveedor de confianza para asegurar esa calidad.
 
+El objetivo principal de la investigacion es, a parte de mejorar la experiencia de usuario en la plataforma lo que deberia llevar a un incremento de ventas, crear una imagen de marca la cual sea reconocible que nos ayudaria a aumentar la base de clientes ya que sera mas facil calar en la gente con una imagen facil de recordar como un logo.
+
+La estrategia que seguiremos para el estudio principalmente se basara en realizar analisis para ver como va nuestra imagen en el mundo de redes sociales, la creacion de personas ficticias para ver nuestro publico, journey maps. Finalmente recopilaremos informacion de forma fisica mediante entrevistas, encuestas para poder recibir feedback y poder mejorar la experiencia de los usuarios.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 

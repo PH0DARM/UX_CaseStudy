@@ -96,7 +96,7 @@ La combinación de todas estas estrategias metodológicas asegura una aproximaci
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
+>>> Para esta practica hemos elegido dos perfiles de persona distintas pero que entran dentro de los objetivos. Por un lado tendremos a un joven el cual esta metido dentro de el mundo de las series japonesas y videojuegos lo cual entra dentro de un grupo muy extendido de estos locales
 
 ![Persona 1](P1/Persona1.png)
 

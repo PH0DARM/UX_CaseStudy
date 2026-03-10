@@ -22,11 +22,11 @@ Nombre del Proyecto: Ramen & Noodles Pa'ya
 
 Descripción: 
 
-Este proyecto lo vamos a enfocar como una plataforma web enfocada en fomentar la creacion de lazos y actividades sociales en Granada. Este proyecto estara en base a la comida japonesa.
+Hemos decidido enfocar el proyecto como una plataforma web orientada a fomentar la creación de lazos y actividades sociales en Granada, tomando como base la gastronomía japonesa.
 
-La plataforma web se centrara en varias cosas poder para empezar lo mas general que se pueden hacer dentro de una pagina de un restaurante como ver la carta, hacer reservas para asistir alli, consultar la ubicacion de el restaurante, numero de telefono de el restautante, etc.
+La plataforma incluirá las funcionales habituales de la página web de un restaurante, como consultar la carta, hacer reservas para acudir al local, ver la ubicación de el restaurante o acceder a información de contacto como el número de telefono.
 
-Ahora lo que implementaremos que nos separara de el resto de los competidores es la fomentacion de actividades sociales y para ello implementaremos actividades como la organizacion una vez a la semana eventos sociales en los que se hara debates sobre distintas series de anime, concursos de disfraces relacionados a lo que se este debatiendo en los que a los ganadores se le otorgaran descuentos y la posibilidad de crear grupos para ir a comer con gente desconocida para crear relaciones.
+Ahora bien, el elemento que nos diferenciará de los competidores será la promoción de actividades sociales. Para ello, se organizarán eventos semanales en los que los asistentes podrán participar en debates sobre diferentes series de anime, así como concursos de disfraces relacionados con lo la tématica tratada esa semana. Los ganadores obtendrán descuentos en el restaurante. Además, nuestra plataforma permitirá a los usuarios crear o unirse a grupos para ir a comer al restaurante con otras personas, fomentando la creación de nuevas relaciones.
 
 Logotipo: 
 
@@ -55,15 +55,14 @@ Miembros y nombre del equipo: DIU1_PAYA
 ![Método UX](img/Competitive.png) 
 -----
 
-El restaurante elegido como caso de estudio y referencia para el diseño de la nueva página web es "Buga Ramen". Se trata de una cadena de restauración conocida y establecida en diversas ciudades de España, lo que proporciona una base sólida y reconocible para el proyecto.
+El restaurante elegido como referencia para el diseño de la nueva página web es "Buga Ramen", una cadena de restauración japonesa presente en varias ciudades de España. Su popularidad y reconocimiento la convierten en un caso de estudio adecuado para analizar estrategias de diseño digital, identidad visual y experiencia de usuario aplicadas a restaurantes temáticos.
 
-
-La elección no es casual, sino estratégica, ya que el proyecto busca adoptar y replicar dos de sus elementos clave para asentar la identidad digital:
+La elección responde a la intención de estudiar los elementos que han contribuido a su éxito. El proyecto buscará inspiración en ellos para desarrollar una propuesta de diseño web que sea reconocible y diferenciadora en el entorno digital.
 Identidad Visual: Se utilizará una paleta de colores muy llamativa de Buga Ramen. Esta elección busca generar una seña de identidad visual potente y distintiva en el entorno digital, esencial para la memorabilidad de la marca y para destacar frente a la competencia.
 Calidad de Producto: La alta calidad alimentaria del restaurante es un pilar crucial que se pretende mantener. El proyecto replicará este valor a través de la selección de un proveedor de confianza, asegurando que el estándar de calidad se refleje tanto en el servicio como en la percepción del cliente.
+
+
 Objetivo Central de la Investigación
-
-
 El propósito fundamental de la investigación es doble, enfocándose tanto en la funcionalidad de la plataforma como en el posicionamiento de la marca:
 Mejora de la Experiencia de Usuario (UX) y Conversión: El objetivo principal es optimizar la plataforma web para el usuario. Esto implica diseñar un sitio intuitivo, rápido y accesible que haga el proceso de navegación, reserva o pedido lo más sencillo y agradable posible. Una Mejora de la Experiencia de Usuario (UX) efectiva se espera que se traduzca directamente en un incremento de las ventas y en una mayor fidelización.
 Creación de una Marca Reconocible: Se busca desarrollar una imagen de marca memorable, que puede materializarse, por ejemplo, en un logo distintivo y en un tono de comunicación coherente. Una marca fuerte facilita la penetración en el público objetivo, genera confianza y, en última instancia, contribuye a aumentar la base de clientes a largo plazo.

@@ -55,34 +55,29 @@ Miembros y nombre del equipo: DIU1_PAYA
 ![Método UX](img/Competitive.png) 
 -----
 
-El restaurante elegido como referencia para el diseño de la nueva página web es "Buga Ramen", una cadena de restauración japonesa presente en varias ciudades de España. Su popularidad y reconocimiento la convierten en un caso de estudio adecuado para analizar estrategias de diseño digital, identidad visual y experiencia de usuario aplicadas a restaurantes temáticos.
+El restaurante elegido como referencia para el diseño de la nueva página web es _Buga Ramen_, una cadena de restauración japonesa presente en varias ciudades de España. Su popularidad y reconocimiento la convierten en un caso de estudio adecuado para analizar estrategias de diseño digital, identidad visual y experiencia de usuario aplicadas a restaurantes temáticos.
 
-La elección responde a la intención de estudiar los elementos que han contribuido a su éxito. El proyecto buscará inspiración en ellos para desarrollar una propuesta de diseño web que sea reconocible y diferenciadora en el entorno digital.
+
+Esta elección responde a la intención de estudiar los elementos que han contribuido a su éxito. El proyecto buscará inspiración en ellos para desarrollar una propuesta de diseño web que sea reconocible y diferenciadora en el entorno digital.
 Identidad Visual: Se utilizará una paleta de colores muy llamativa de Buga Ramen. Esta elección busca generar una seña de identidad visual potente y distintiva en el entorno digital, esencial para la memorabilidad de la marca y para destacar frente a la competencia.
 Calidad de Producto: La alta calidad alimentaria del restaurante es un pilar crucial que se pretende mantener. El proyecto replicará este valor a través de la selección de un proveedor de confianza, asegurando que el estándar de calidad se refleje tanto en el servicio como en la percepción del cliente.
 
 
-Objetivo Central de la Investigación
-El propósito fundamental de la investigación es doble, enfocándose tanto en la funcionalidad de la plataforma como en el posicionamiento de la marca:
-Mejora de la Experiencia de Usuario (UX) y Conversión: El objetivo principal es optimizar la plataforma web para el usuario. Esto implica diseñar un sitio intuitivo, rápido y accesible que haga el proceso de navegación, reserva o pedido lo más sencillo y agradable posible. Una Mejora de la Experiencia de Usuario (UX) efectiva se espera que se traduzca directamente en un incremento de las ventas y en una mayor fidelización.
-Creación de una Marca Reconocible: Se busca desarrollar una imagen de marca memorable, que puede materializarse, por ejemplo, en un logo distintivo y en un tono de comunicación coherente. Una marca fuerte facilita la penetración en el público objetivo, genera confianza y, en última instancia, contribuye a aumentar la base de clientes a largo plazo.
-Estrategia de Estudio y Recopilación de Información
+El **Objetivo Principal de la Investigación** es comprender cómo interactúan los usuarios con plataformas digitales de restaurantes de este tipo, con el fin de diseñar un sitio web intuitivo y accesible que haga del proceso de navegación una expriencia agradable y sencilla.
+Para ello se analizarán las necesidades, expectativas y comportamientos de los usuarios durante acciones habituales como consultar la carta, buscar información del local o realizar una reserva.
+
+También buscamos crear una marca reconocible ya que una marca fuerte facilita la penetración en el público objetivo, genera confianza y, en última instancia, contribuye a aumentar la base de clientes a largo plazo.
 
 
-La metodología para el estudio y la recopilación de información es una combinación de análisis estratégico digital y métodos de feedback directo.Análisis de Datos y Planificación Estratégica (Fase Inicial)
+La **estrategia de investigación** combinará métodos de análisis digital con técnicas de recopilación de información directa de los usuarios.
 
+En primer lugar, se realizará un análisis del entorno digital y de la presencia de la marca en redes sociales para identificar tendencias, opiniones de los clientes y oportunidades de mejora. Posteriormente, vamos a desarrollar personas que representen a los principales tipos de usuarios del servicio, lo que permitirá comprender mejor sus motivaciones y necesidades.
+Además, elaboraremos **Journey Maps** para analizar el recorrido del usuario con la marca, desde desde el momento en que surge la intención de visitar el restaurante hasta la finalización de la experiencia. Este mapeo ayuda a identificar los momentos de frustración o dificultad y los momentos de satisfacción para optimizar cada interacción.
 
-Esta fase se centra en entender el entorno digital y al público objetivo antes del diseño:
-Análisis Digital: Se realizarán análisis exhaustivos para monitorear la percepción de la imagen de la marca en las redes sociales. Esto permite identificar tendencias, opiniones de los usuarios, puntos fuertes y áreas de mejora en el ámbito digital.
-Segmentación de Audiencia (Personas): Se procederá a la creación de personas ficticias. Estas representaciones de clientes ideales se basan en datos demográficos, comportamientos, motivaciones y objetivos. La segmentación es vital para definir y entender al público objetivo y adaptar el diseño web y la comunicación a sus necesidades reales.
-Mapeo de Experiencia (Journey Maps): Se elaborarán journey maps para trazar el recorrido completo del usuario con la marca, desde que surge la necesidad hasta la post-compra. Este mapeo ayuda a identificar los puntos de dolor (momentos de frustración o dificultad) y los puntos de placer (momentos de satisfacción) para optimizar cada interacción.
-Recopilación de Información y Feedback Directo (Fase de Complemento)
+Finalmente,se complementará el estudio mediante entrevistas y encuestas a usuarios, con el objetivo de obtener información directa sobre sus expectativas, preferencias y posibles dificultades al interactuar con este tipo de plataformas.
 
+La combinación de estos métodos permitirá obtener una visión completa del comportamiento de los usuarios y facilitará el desarrollo de nuestra propuesta de diseño centrada en mejorar la experiencia de uso de la plataforma web.
 
-Para complementar el análisis digital y obtener datos cualitativos de primera mano, se utilizarán métodos físicos de interacción con los usuarios:
-Entrevistas: Las entrevistas con clientes actuales y potenciales proporcionan feedback directo y en profundidad sobre sus experiencias, expectativas y percepciones. Es un método clave para entender el "por qué" detrás de los datos cuantitativos.
-Encuestas: Las encuestas permiten recoger una gran cantidad de datos cuantitativos de manera eficiente, midiendo la satisfacción, las preferencias y las necesidades de un grupo más amplio de usuarios.
-La combinación de todas estas estrategias metodológicas asegura una aproximación integral para mejorar la experiencia de los usuarios y construir un proyecto web sólido y enfocado al éxito comercial.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 

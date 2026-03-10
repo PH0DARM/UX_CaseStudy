@@ -104,6 +104,9 @@ Alberto busca por granada que opciones pueden ser interesantes a la hora de ir a
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
+![Usuability Review](P1/Usability-review-template-Puntuado.xls)
+
+Buga ramen obtiene 64 puntos de 100 posibles, dejando claro que su página web cumple los requisitos mínimos exigibles para ser agradable al usuario.Lo cual muestra el como es una pagina funcional pero tiene fallos bastante notables como los problemas de la falta de claridad en la informacion y como suele se muy simple a veces.
 
 <br>
 

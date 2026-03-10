@@ -103,15 +103,12 @@ Para esta practica hemos elegido dos perfiles de persona distintas pero que entr
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
+Alberto busca por granada que opciones pueden ser interesantes a la hora de ir a comer a un restaurante, el valora el poder disfrutar de nuevas experiencias ya que esta aburrido de lo mismo de siempre por lo que Ramen & Noodles Pa'ya le llama la atencion de primeras. Aunque hay que decir que cuando vio las opciones en la pagina no le quedo muy claro como iba lo cual le echo un poco para atras aunque acabase dandole una oportunidad.
+![UserJourney1](P1/UserJourney1.png)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-
-![UserJourney1](P1/UserJourney1.png)
 
 <br>
 

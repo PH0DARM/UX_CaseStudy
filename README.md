@@ -66,7 +66,7 @@ La combinación de estos métodos permitirá obtener una visión completa del co
 
 Para entender a nuestro público, hemos desarrollado dos perfiles representativos. 
 
-Por un lado tenemos a un joven que está metido dentro del mundo de las series japonesas y los videojuegos.
+Por un lado, tenemos a Alberto un joven apasionado del Anime y de los videojuegos.
 
 ![Persona 1](P1/Persona1.png)
 

@@ -20,9 +20,6 @@ El objetivo principal de la investigación es comprender cómo interactúan los 
 Para ello se analizarán las necesidades, expectativas y comportamientos de los usuarios durante acciones habituales como consultar la carta, buscar información del local o realizar una reserva.
 
 
-También buscamos crear una marca reconocible ya que una marca fuerte facilita la penetración en el público objetivo, genera confianza y, en última instancia, contribuye a aumentar la base de clientes a largo plazo.
-
-
 ### Metodología
 Combinaremos métodos de análisis digital con técnicas de recopilación de información directa de los usuarios.
 

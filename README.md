@@ -19,7 +19,6 @@ Miembros y nombre del equipo: DIU1_PAYA
  * :bust_in_silhouette:  Pablo Hodar Molina     — [:octocat: GitHub](https://github.com/ph0darm)   
  * :bust_in_silhouette:  Yaiza Perez Ocaña      — [:octocat: GitHub](https://github.com/yaizaperez)
 
----
 
 ## Prácticas 
 

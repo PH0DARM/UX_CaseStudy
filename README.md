@@ -1,19 +1,8 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+--- 
+## Práctica 1
 
-* [Guiones de prácticas](GuionesPracticas/)
-* [Guía para crea tu Case Study](Guia_CaseStudy.md)
-* Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
-
-
-
-
-Actualizado: 14/01/2026
-
-
-
-
-## Paso 0 My UX-Case Study
+### Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 
 Grupo: DIU1_PAYA.  Curso: 2025/26 
@@ -50,8 +39,8 @@ Miembros y nombre del equipo: DIU1_PAYA
 
 <br>
 
-## Paso 1. UX User & Desk Research & Analisis 
-### 1.a User Reseach Plan
+### Paso 1. UX User & Desk Research & Analisis 
+#### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
@@ -79,14 +68,14 @@ Finalmente,se complementará el estudio mediante entrevistas y encuestas a usuar
 La combinación de estos métodos permitirá obtener una visión completa del comportamiento de los usuarios y facilitará el desarrollo de nuestra propuesta de diseño centrada en mejorar la experiencia de uso de la plataforma web.
 
 
-### 1.b Competitive Analysis
+#### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
-### 1.c Personas
+#### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
@@ -95,13 +84,13 @@ Para esta practica hemos elegido dos perfiles de persona distintas pero que entr
 ![Persona 1](P1/Persona1.png)
 
 
-### 1.d User Journey Map
+#### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 Alberto busca por granada que opciones pueden ser interesantes a la hora de ir a comer a un restaurante, el valora el poder disfrutar de nuevas experiencias ya que esta aburrido de lo mismo de siempre por lo que Ramen & Noodles Pa'ya le llama la atencion de primeras. Aunque hay que decir que cuando vio las opciones en la pagina no le quedo muy claro como iba lo cual le echo un poco para atras aunque acabase dandole una oportunidad.
 ![UserJourney1](P1/UserJourney1.png)
 
-### 1.e Usability Review
+#### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 ![Usuability Review](P1/Usability-review-template-Puntuado.xls)

@@ -42,7 +42,7 @@ La combinación de estos métodos permitirá obtener una visión completa del co
 ## 👤 1.c Personas
 Para entender a nuestro público, hemos desarrollado dos perfiles representativos. 
 
-Para representar a uno de los principales perfiles de usuarios, presentamos a **Alberto**, un joven universitario interesado en la cultura japonesa, el anime y los videojuegos.
+Para representar a uno de los principales perfiles de usuarios, presentamos a **Alberto**, un joven interesado en el anime y los videojuegos.
 ![Persona 1](Persona1.png)
 
 
@@ -51,18 +51,23 @@ Por otro lado, presentamos a **Eva**, profesora de latín interesada en activida
 
 
 ## 1.d User Journey Map
-Analizamos el recorrido de **Alberto**, este usuario busca nuevas experiencias.
-El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la página web le generó dudas antes de la visita.
+Analizamos los recorridos de nuestros dos perfiles principales para identificar puntos críticos en su experiencia:
 
+* **Alberto:** Busca nuevas experiencias y salir de la monotonía. El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la página web le generó dudas antes de la visita.
 ![UserJourney1](UserJourney1.png)
 
+* **Eva:** Busca desconectar y conocer personas afines a ella. Su mapa muestra una evolución positiva: tras una fase de búsqueda de planes en Granada, logra una inmersión total gracias a los eventos temáticos del local, transformando una cena individual en una experiencia social satisfactoria..
 ![UserJourney2](UserJourneyMap2.png)
 
 ## 1.e Usability Review
-![Usuability Review](UsabilityreviewPuntuado.pdf)
+[:page_facing_up: Ver Usuability Review](UsabilityreviewPuntuado.pdf)
 
-**Puntación obtenida por Buga Ramen: 64/100** 
-Su página web cumple los requisitos mínimos exigibles para ser agradable al usuario. El sitio web es funcional pero presenta fallos de usabilidad notables.
-La jerarquía de información es confusa y la estética a veces sacrifica la legibilidad. Esto nos da una ventaja competitiva: podemos ofrecer la misma potencia visual pero con una arquitectura de información más clara.
+**Puntación obtenida por Buga Ramen: 64/100 (Moderate)** 
+Tras realizar el análisis hemos concluido que, aunque la página es funcional y cumple con los requisitos mínimos, presenta fallos de usabilidad que afectan a la experiencia del usuario.
+
+
+En particular, la jerarquía de información es confusa y la estética a veces sacrifica la legibilidad del contenido. 
+Esto nos da una **oportunidad de mejora**: podemos ofrecer la misma potencia visual pero con una arquitectura de información más clara y una navegación más intuitiva.
+
 
 ---

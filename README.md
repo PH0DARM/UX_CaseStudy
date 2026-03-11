@@ -22,7 +22,8 @@ Miembros y nombre del equipo: DIU1_PAYA
 ---
 
 ## Prácticas 
-
-| P1 | [Ver práctica](P1/README.md) |
+| Práctica | Enlace |
+|---------|--------|--------|
+| P1 | [Ver](P1/README.md) |
 
 ---

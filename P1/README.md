@@ -1,4 +1,4 @@
-# Práctica 1 🍜 
+# Práctica 1 :ramen:
 ## 1.a User Reseach Plan
 El objetivo de este plan de investigación es comprender cómo interactúan los usuarios con las plataformas web de restaurantes temáticos y detectar posibles problemas de usabilidad antes de diseñar nuestra propuesta.
 
@@ -39,7 +39,7 @@ La combinación de estos métodos permitirá obtener una visión completa del co
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
-## 👤 1.c Personas
+## 1.c Personas 
 Para entender a nuestro público, hemos desarrollado dos perfiles representativos. 
 
 Para representar a uno de los principales perfiles de usuarios, presentamos a **Alberto**, un joven interesado en el anime y los videojuegos.

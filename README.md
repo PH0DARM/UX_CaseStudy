@@ -1,4 +1,4 @@
-# DIU 26 🍜 Ramen & Noodles Pa'ya
+# DIU 26 :ramen: Ramen & Noodles Pa'ya
 **Grupo:** DIU1_PAYA | **Curso:** 2025/26  
 
 ---

@@ -53,18 +53,20 @@ Finalmente,se complementará el estudio mediante entrevistas y encuestas a usuar
 La combinación de estos métodos permitirá obtener una visión completa del comportamiento de los usuarios y facilitará el desarrollo de nuestra propuesta de diseño centrada en mejorar la experiencia de uso de la plataforma web.
 
 
-#### 1.b Competitive Analysis
+### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
-#### 1.c Personas
+### 👤 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
-Para esta practica hemos elegido dos perfiles de persona distintas pero que entran dentro de los objetivos. Por un lado tendremos a un joven el cual esta metido dentro de el mundo de las series japonesas y videojuegos lo cual entra dentro de un grupo muy extendido de estos locales
+Para entender a nuestro público, hemos desarrollado dos perfiles representativos. 
+
+Por un lado tenemos a un joven que está metido dentro del mundo de las series japonesas y los videojuegos.
 
 ![Persona 1](P1/Persona1.png)
 
@@ -72,17 +74,22 @@ Para esta practica hemos elegido dos perfiles de persona distintas pero que entr
 #### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-Alberto busca por granada que opciones pueden ser interesantes a la hora de ir a comer a un restaurante, el valora el poder disfrutar de nuevas experiencias ya que esta aburrido de lo mismo de siempre por lo que Ramen & Noodles Pa'ya le llama la atencion de primeras. Aunque hay que decir que cuando vio las opciones en la pagina no le quedo muy claro como iba lo cual le echo un poco para atras aunque acabase dandole una oportunidad.
+
+Analizamos el recorrido de **Alberto**, este usuario busca nuevas experiencias.
+El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la página web le generó dudas antes de la visita.
+
 ![UserJourney1](P1/UserJourney1.png)
 
-#### 1.e Usability Review
+### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 ![Usuability Review](P1/Usability-review-template-Puntuado.xls)
 
-Buga ramen obtiene 64 puntos de 100 posibles, dejando claro que su página web cumple los requisitos mínimos exigibles para ser agradable al usuario.Lo cual muestra el como es una pagina funcional pero tiene fallos bastante notables como los problemas de la falta de claridad en la informacion y como suele se muy simple a veces.
+**Puntación obtenida por Buga Ramen: 64/100** 
+Su página web cumple los requisitos mínimos exigibles para ser agradable al usuario. El sitio web es funcional pero presenta fallos de usabilidad notables.
+La jerarquía de información es confusa y la estética a veces sacrifica la legibilidad. Esto nos da una ventaja competitiva: podemos ofrecer la misma potencia visual pero con una arquitectura de información más clara.
 
-<br>
+---
 
 ## Paso 2. UX Design  
 

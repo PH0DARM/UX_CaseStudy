@@ -4,8 +4,6 @@
 ---
 
 ## 0. My UX-Case Study
-![Método UX](img/caseStudy.png) 
-
 ### Descripción del Proyecto
 **Ramen & Noodles Pa'ya** es una propuesta que se aleja del concepto de restaurante convencional en Granada. Nuestra plataforma web estará orientada a fomentar la creación de lazos y actividades sociales en Granada, tomando como base la gastronomía japonesa.
 

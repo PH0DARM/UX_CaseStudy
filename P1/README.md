@@ -43,7 +43,7 @@ La combinación de estos métodos permitirá obtener una visión completa del co
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
-### 👤 1.c Personas
+## 👤 1.c Personas
 Para entender a nuestro público, hemos desarrollado dos perfiles representativos. 
 
 Por un lado, tenemos a Alberto un joven apasionado del Anime y de los videojuegos.
@@ -53,7 +53,7 @@ Por un lado, tenemos a Alberto un joven apasionado del Anime y de los videojuego
 ![Persona 2](Persona2.png)
 
 
-#### 1.d User Journey Map
+## 1.d User Journey Map
 Analizamos el recorrido de **Alberto**, este usuario busca nuevas experiencias.
 El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la página web le generó dudas antes de la visita.
 
@@ -61,7 +61,7 @@ El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la
 
 ![UserJourney2](UserJourneyMap2.png)
 
-### 1.e Usability Review
+## 1.e Usability Review
 ![Usuability Review](UsabilityreviewPuntuado.pdf)
 
 **Puntación obtenida por Buga Ramen: 64/100** 

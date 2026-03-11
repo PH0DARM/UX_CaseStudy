@@ -1,4 +1,4 @@
-# Práctica 1 
+# Práctica 1 🍜 
 ## 1.a User Reseach Plan
 El objetivo de este plan de investigación es comprender cómo interactúan los usuarios con las plataformas web de restaurantes temáticos y detectar posibles problemas de usabilidad antes de diseñar nuestra propuesta.
 

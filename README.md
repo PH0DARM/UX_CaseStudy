@@ -1,4 +1,4 @@
-# DIU 26 🍜 Proyecto: Ramen & Noodles Pa'ya
+# DIU 26 🍜 Ramen & Noodles Pa'ya
 **Grupo:** DIU1_PAYA | **Curso:** 2025/26  
 
 ---
@@ -18,7 +18,7 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo: DIU1_PAYA
- * :bust_in_silhouette:  Pablo Hodar Molina     :octocat:     
+ * :bust_in_silhouette:  Pablo Hodar Molina     — [:octocat: GitHub](https://github.com/ph0darm)   
  * :bust_in_silhouette:  Yaiza Perez Ocaña      — [:octocat: GitHub](https://github.com/yaizaperez)
 
 ---

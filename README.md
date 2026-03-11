@@ -29,16 +29,18 @@ Miembros y nombre del equipo: DIU1_PAYA
 ![Método UX](img/Competitive.png) 
 -----
 
-El restaurante elegido como referencia para el diseño de la nueva página web es _Buga Ramen_, una cadena de restauración japonesa presente en varias ciudades de España. Su popularidad y reconocimiento la convierten en un caso de estudio adecuado para analizar estrategias de diseño digital, identidad visual y experiencia de usuario aplicadas a restaurantes temáticos.
+El restaurante elegido como referencia para el análisis es _Buga Ramen_, una cadena de restauración japonesa presente en varias ciudades de España. Su popularidad y reconocimiento la convierten en un caso de estudio adecuado para analizar estrategias de diseño digital, identidad visual y experiencia de usuario aplicadas a restaurantes temáticos.
 
 
 Esta elección responde a la intención de estudiar los elementos que han contribuido a su éxito. El proyecto buscará inspiración en ellos para desarrollar una propuesta de diseño web que sea reconocible y diferenciadora en el entorno digital.
-Identidad Visual: Se utilizará una paleta de colores muy llamativa de Buga Ramen. Esta elección busca generar una seña de identidad visual potente y distintiva en el entorno digital, esencial para la memorabilidad de la marca y para destacar frente a la competencia.
-Calidad de Producto: La alta calidad alimentaria del restaurante es un pilar crucial que se pretende mantener. El proyecto replicará este valor a través de la selección de un proveedor de confianza, asegurando que el estándar de calidad se refleje tanto en el servicio como en la percepción del cliente.
+ * **Identidad Visual:** La web de Buga Ramen utiliza una paleta de colores muy llamativa y una estética fuertemente asociada a la cultura japonesa.
+   
+ * **Calidad de Producto:** La reputación del restaurante está asociada a la calidad de sus productos. Nuestro objetivo es trasladar esta percepción positiva también al diseño digital, creando una experiencia coherente entre el producto y la interfaz web.
 
 
 El **Objetivo Principal de la Investigación** es comprender cómo interactúan los usuarios con plataformas digitales de restaurantes de este tipo, con el fin de diseñar un sitio web intuitivo y accesible que haga del proceso de navegación una expriencia agradable y sencilla.
 Para ello se analizarán las necesidades, expectativas y comportamientos de los usuarios durante acciones habituales como consultar la carta, buscar información del local o realizar una reserva.
+
 
 También buscamos crear una marca reconocible ya que una marca fuerte facilita la penetración en el público objetivo, genera confianza y, en última instancia, contribuye a aumentar la base de clientes a largo plazo.
 
@@ -70,6 +72,8 @@ Por un lado, tenemos a Alberto un joven apasionado del Anime y de los videojuego
 
 ![Persona 1](P1/Persona1.png)
 
+![Persona 2](P1/Persona2.png)
+
 
 #### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
@@ -80,10 +84,12 @@ El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la
 
 ![UserJourney1](P1/UserJourney1.png)
 
+![UserJourney2](P1/UserJourneyMap2.png)
+
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-![Usuability Review](P1/Usability-review-template-Puntuado.xls)
+![Usuability Review](P1/UsabilityreviewPuntuado.pdf)
 
 **Puntación obtenida por Buga Ramen: 64/100** 
 Su página web cumple los requisitos mínimos exigibles para ser agradable al usuario. El sitio web es funcional pero presenta fallos de usabilidad notables.

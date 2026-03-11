@@ -26,8 +26,7 @@ Combinaremos métodos de análisis digital con técnicas de recopilación de inf
 En primer lugar, se realizará un **análisis del entorno digital** y de la presencia de la marca en redes sociales para identificar tendencias, opiniones de los clientes y oportunidades de mejora. 
 
 Posteriormente, vamos a desarrollar **personas** que representen a los principales tipos de usuarios del servicio, lo que permitirá comprender mejor sus motivaciones y necesidades.
-
-Además, elaboraremos **Journey Maps** para analizar el recorrido del usuario con la marca, desde desde el momento en que surge la intención de visitar el restaurante hasta la finalización de la experiencia. 
+Además, para cada persona elaboraremos su **Journey Map** para analizar su recorrido con la marca, desde desde el momento en que surge la intención de visitar el restaurante hasta la finalización de la experiencia. 
 
 Finalmente,se complementará el estudio mediante **entrevistas y encuestas** a usuarios, con el objetivo de obtener información directa sobre sus expectativas, preferencias y posibles dificultades al interactuar con este tipo de plataformas.
 
@@ -43,10 +42,11 @@ La combinación de estos métodos permitirá obtener una visión completa del co
 ## 👤 1.c Personas
 Para entender a nuestro público, hemos desarrollado dos perfiles representativos. 
 
-Por un lado, tenemos a Alberto un joven apasionado del Anime y de los videojuegos.
-
+Para representar a uno de los principales perfiles de usuarios, presentamos a **Alberto**, un joven universitario interesado en la cultura japonesa, el anime y los videojuegos.
 ![Persona 1](Persona1.png)
 
+
+Por otro lado, presentamos a **Eva**, profesora de latín interesada en actividades culturales que le permitan socializar y conocer gente con intereses similares. 
 ![Persona 2](Persona2.png)
 
 

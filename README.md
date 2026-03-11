@@ -15,7 +15,7 @@ Hemos decidido enfocar el proyecto como una plataforma web orientada a fomentar 
 
 La plataforma incluirá las funcionales habituales de la página web de un restaurante, como consultar la carta, hacer reservas para acudir al local, ver la ubicación de el restaurante o acceder a información de contacto como el número de telefono.
 
-Ahora bien, el elemento que nos diferenciará de los competidores será la promoción de actividades sociales. Para ello, se organizarán eventos semanales en los que los asistentes podrán participar en debates sobre diferentes series de anime, así como concursos de disfraces relacionados con lo la tématica tratada esa semana. Los ganadores obtendrán descuentos en el restaurante. Además, nuestra plataforma permitirá a los usuarios crear o unirse a grupos para ir a comer al restaurante con otras personas, fomentando la creación de nuevas relaciones.
+Ahora bien, el elemento que nos diferenciará de los competidores será la promoción de actividades sociales. Para ello, se organizarán eventos semanales en los que los asistentes podrán participar en talleres o en debates sobre diferentes series de anime, así como concursos de disfraces relacionados con lo la tématica tratada esa semana. Los ganadores obtendrán descuentos en el restaurante. Además, nuestra plataforma permitirá a los usuarios crear o unirse a grupos para ir a comer al restaurante con otras personas, fomentando la creación de nuevas relaciones.
 
 Logotipo: 
 

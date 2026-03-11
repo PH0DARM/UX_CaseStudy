@@ -1,21 +1,17 @@
-# DIU26
+# DIU 26 🍜 Proyecto: Ramen & Noodles Pa'ya
+**Grupo:** DIU1_PAYA | **Curso:** 2025/26  
 
-## Práctica 1
+---
 
-### Paso 0 My UX-Case Study
+## 0. My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 
-Grupo: DIU1_PAYA.  Curso: 2025/26 
-
-Nombre del Proyecto: Ramen & Noodles Pa'ya
-
-Descripción: 
-
-Hemos decidido enfocar el proyecto como una plataforma web orientada a fomentar la creación de lazos y actividades sociales en Granada, tomando como base la gastronomía japonesa.
+### Descripción del Proyecto
+**Ramen & Noodles Pa'ya** es una propuesta que se aleja del concepto de restaurante convencional en Granada. Nuestra plataforma web estará orientada a fomentar la creación de lazos y actividades sociales en Granada, tomando como base la gastronomía japonesa.
 
 La plataforma incluirá las funcionales habituales de la página web de un restaurante, como consultar la carta, hacer reservas para acudir al local, ver la ubicación de el restaurante o acceder a información de contacto como el número de telefono.
 
-Ahora bien, el elemento que nos diferenciará de los competidores será la promoción de actividades sociales. Para ello, se organizarán eventos semanales en los que los asistentes podrán participar en talleres o en debates sobre diferentes series de anime, así como concursos de disfraces relacionados con lo la tématica tratada esa semana. Los ganadores obtendrán descuentos en el restaurante. Además, nuestra plataforma permitirá a los usuarios crear o unirse a grupos para ir a comer al restaurante con otras personas, fomentando la creación de nuevas relaciones.
+Ahora bien, el elemento que nos diferenciará de los competidores será la promoción de actividades sociales. Para ello, se organizarán eventos semanales (talleres de manga, debates de anime, concursos de cosplay...). Además, nuestra plataforma permitirá a los usuarios crear o unirse a grupos para ir a comer al restaurante con otras personas, fomentando la creación de nuevas relaciones.
 
 Logotipo: 
 
@@ -23,24 +19,13 @@ Logotipo:
 
 Miembros y nombre del equipo: DIU1_PAYA
  * :bust_in_silhouette:  Pablo Hodar Molina     :octocat:     
- * :bust_in_silhouette:  Yaiza Perez Ocaña     :octocat:
+ * :bust_in_silhouette:  Yaiza Perez Ocaña      — [:octocat: GitHub](https://github.com/yaizaperez)
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+---
 
------ 
+## 1. UX User & Analisis 
 
-<br>
-
-# Proceso de Diseño 
-
-
-
-
-
-<br>
-
-### Paso 1. UX User & Desk Research & Analisis 
-#### 1.a User Reseach Plan
+### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 

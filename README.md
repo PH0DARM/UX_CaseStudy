@@ -1,5 +1,5 @@
 # DIU26
---- 
+
 ## Práctica 1
 
 ### Paso 0 My UX-Case Study

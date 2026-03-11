@@ -48,21 +48,21 @@ Para entender a nuestro público, hemos desarrollado dos perfiles representativo
 
 Por un lado, tenemos a Alberto un joven apasionado del Anime y de los videojuegos.
 
-![Persona 1](P1/Persona1.png)
+![Persona 1](Persona1.png)
 
-![Persona 2](P1/Persona2.png)
+![Persona 2](Persona2.png)
 
 
 #### 1.d User Journey Map
 Analizamos el recorrido de **Alberto**, este usuario busca nuevas experiencias.
 El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la página web le generó dudas antes de la visita.
 
-![UserJourney1](P1/UserJourney1.png)
+![UserJourney1](UserJourney1.png)
 
-![UserJourney2](P1/UserJourneyMap2.png)
+![UserJourney2](UserJourneyMap2.png)
 
 ### 1.e Usability Review
-![Usuability Review](P1/UsabilityreviewPuntuado.pdf)
+![Usuability Review](UsabilityreviewPuntuado.pdf)
 
 **Puntación obtenida por Buga Ramen: 64/100** 
 Su página web cumple los requisitos mínimos exigibles para ser agradable al usuario. El sitio web es funcional pero presenta fallos de usabilidad notables.

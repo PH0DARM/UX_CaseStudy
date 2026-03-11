@@ -56,7 +56,7 @@ Analizamos los recorridos de nuestros dos perfiles principales para identificar 
 * **Alberto:** Busca nuevas experiencias y salir de la monotonía. El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la página web le generó dudas antes de la visita.
 ![UserJourney1](UserJourney1.png)
 
-* **Eva:** Busca desconectar y conocer personas afines a ella. Su mapa muestra una evolución positiva: tras una fase de búsqueda de planes en Granada, logra una inmersión total gracias a los eventos temáticos del local, transformando una cena individual en una experiencia social satisfactoria..
+* **Eva:** Busca desconectar y conocer personas afines a ella. Su mapa muestra una evolución positiva: tras una fase de búsqueda de planes en Granada, logra una inmersión total gracias a los eventos temáticos del local, transformando una cena individual en una experiencia social satisfactoria.
 ![UserJourney2](UserJourneyMap2.png)
 
 ## 1.e Usability Review

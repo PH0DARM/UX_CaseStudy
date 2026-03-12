@@ -36,7 +36,8 @@ La combinación de estos métodos permitirá obtener una visión completa del co
 
 ## 1.b Competitive Analysis
 Hemos realizado un análisis comparativo de tres referentes del sector.
-![Competitive Analisis](CompetitorAnalysis.png)
+![Competitive Analysis](CompetitorAnalysis.png)
+[:page_facing_up: Ver Competitive Analysis](CompetitorAnalysis.png)
 Tras el analisis, observamos una clara oportunidad de mercado: **la mayoría de los competidores fallan en la integración total de servicios o en la accesibilidad**. 
 Nuestra propuesta se diferenciará por combinar la inmersión visual de *Uzumaki* con la robustez técnica de *Shifu*, añadiendo la capa social de eventos que ninguna de estas plataformas ofrece actualmente
 

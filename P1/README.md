@@ -35,8 +35,10 @@ La combinación de estos métodos permitirá obtener una visión completa del co
 
 
 ## 1.b Competitive Analysis
-
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Hemos realizado un análisis comparativo de tres referentes del sector.
+![Competitive Analisis](CompetitorAnalysis.png)
+Tras el analisis, observamos una clara oportunidad de mercado: **la mayoría de los competidores fallan en la integración total de servicios o en la accesibilidad**. 
+Nuestra propuesta se diferenciará por combinar la inmersión visual de *Uzumaki* con la robustez técnica de *Shifu*, añadiendo la capa social de eventos que ninguna de estas plataformas ofrece actualmente
 
 
 ## 1.c Personas 

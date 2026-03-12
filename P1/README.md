@@ -49,10 +49,12 @@ Para entender a nuestro público, hemos desarrollado dos perfiles representativo
 
 Para representar a uno de los principales perfiles de usuarios, presentamos a **Alberto**, un joven interesado en el anime y los videojuegos.
 ![Persona 1](Persona1.png)
+[:page_facing_up: Ver Alberto](Persona1.png)
 
 
 Por otro lado, presentamos a **Eva**, profesora de latín interesada en actividades culturales que le permitan socializar y conocer gente con intereses similares. 
 ![Persona 2](Persona2.png)
+[:page_facing_up: Ver Eva](Persona2.png)
 
 
 ## 1.d User Journey Map
@@ -60,9 +62,13 @@ Analizamos los recorridos de nuestros dos perfiles principales para identificar 
 
 * **Alberto:** Busca nuevas experiencias y salir de la monotonía. El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la página web le generó dudas antes de la visita.
 ![UserJourney1](UserJourney1.png)
+[:page_facing_up: Ver Journey Map de Alberto](UserJourney1.png)
+
 
 * **Eva:** Busca desconectar y conocer personas afines a ella. Su mapa muestra una evolución positiva: tras una fase de búsqueda de planes en Granada, logra una inmersión total gracias a los eventos temáticos del local, transformando una cena individual en una experiencia social satisfactoria.
 ![UserJourney2](UserJourneyMap2.png)
+[:page_facing_up: Ver Journey Map de Eva](UserJourneyMap2.png)
+
 
 ## 1.e Usability Review
 [:page_facing_up: Ver Usuability Review](UsabilityreviewPuntuado.pdf)

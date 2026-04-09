@@ -23,6 +23,7 @@ Miembros y nombre del equipo: DIU1_PAYA
 
 # Proceso de Diseño 
 
+---
 
 ## 1. UX User & Desk Research & Analisis 
 ### 1.a User Reseach Plan
@@ -61,15 +62,15 @@ Por otro lado, presentamos a **Eva**, profesora de latín interesada en activida
 Analizamos los recorridos de nuestros dos perfiles principales para identificar puntos críticos en su experiencia:
 
 * **Alberto:** Busca nuevas experiencias y salir de la monotonía. El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la página web le generó dudas antes de la visita.
-![UserJourney1](UserJourney1.png)
+![UserJourney1](P1/UserJourney1.png)
 
 
 * **Eva:** Busca desconectar y conocer personas afines a ella. Su mapa muestra una evolución positiva: tras una fase de búsqueda de planes en Granada, logra una inmersión total gracias a los eventos temáticos del local, transformando una cena individual en una experiencia social satisfactoria.
-![UserJourney2](UserJourneyMap2.png)
+![UserJourney2](P1/UserJourneyMap2.png)
 
 
 ### 1.e Usability Review
-[:page_facing_up: Ver Usuability Review](UsabilityreviewPuntuado.pdf)
+[:page_facing_up: Ver Usuability Review](P1/UsabilityreviewPuntuado.pdf)
 
 **Puntación obtenida por Buga Ramen: 64/100 (Moderate)** 
 Tras realizar el análisis hemos concluido que, aunque la página es funcional y cumple con los requisitos mínimos, presenta fallos de usabilidad que afectan a la experiencia del usuario.

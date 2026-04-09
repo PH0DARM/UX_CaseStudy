@@ -20,7 +20,9 @@ Miembros y nombre del equipo: DIU1_PAYA
  * :bust_in_silhouette:  Yaiza Perez Ocaña      — [:octocat: GitHub](https://github.com/yaizaperez)
 
 
+
 # Proceso de Diseño 
+
 <br>
 
 ## 1. UX User & Desk Research & Analisis 

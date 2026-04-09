@@ -1,4 +1,4 @@
-# PRÁCTICA 2 :ramen: Ideación y diseño
+# Práctica 2 :ramen: Ideación y diseño
 
 ## 1. Ideación
 

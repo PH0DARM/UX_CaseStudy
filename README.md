@@ -22,9 +22,6 @@ Miembros y nombre del equipo: DIU1_PAYA
 <br>
 
 # Proceso de Diseño 
-
----
-
 ## 1. UX User & Desk Research & Analisis 
 ### 1.a User Reseach Plan
 El objetivo de este plan de investigación es comprender cómo interactúan los usuarios con las plataformas web de restaurantes temáticos y detectar posibles problemas de usabilidad antes de diseñar nuestra propuesta.

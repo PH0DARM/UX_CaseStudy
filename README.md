@@ -21,11 +21,13 @@ Miembros y nombre del equipo: DIU1_PAYA
 
 ---
 
-# Práctica 1 :ramen:
-## 1.a User Reseach Plan
+# Proceso de Diseño 
+<br>
+
+## Paso 1. UX User & Desk Research & Analisis 
+### 1.a User Reseach Plan
 El objetivo de este plan de investigación es comprender cómo interactúan los usuarios con las plataformas web de restaurantes temáticos y detectar posibles problemas de usabilidad antes de diseñar nuestra propuesta.
 
-### Contexto y antecedentes
 El restaurante elegido como referencia para el análisis es _Buga Ramen_, una cadena de restauración japonesa presente en varias ciudades de España. Su popularidad y reconocimiento la convierten en un caso de estudio adecuado para analizar estrategias de diseño digital, identidad visual y experiencia de usuario aplicadas a restaurantes temáticos.
 
  - **Identidad Visual:** La web de Buga Ramen utiliza una paleta de colores muy llamativa y una estética fuertemente asociada a la cultura japonesa.
@@ -33,22 +35,9 @@ El restaurante elegido como referencia para el análisis es _Buga Ramen_, una ca
  - **Calidad de Producto:** La reputación del restaurante está asociada a la calidad de sus productos. Nuestro objetivo es trasladar esta percepción positiva también al diseño digital, creando una experiencia coherente entre el producto y la interfaz web.
 
 
-### Objetivos de investigación
-El objetivo principal de la investigación es comprender cómo interactúan los usuarios con plataformas digitales de restaurantes de este tipo, con el fin de diseñar una web intuitiva, accesible y agradable de utilizar.
+El **objetivo principal** de la investigación es comprender cómo interactúan los usuarios con plataformas digitales de restaurantes de este tipo, con el fin de diseñar una web intuitiva, accesible y agradable de utilizar.
 
-
-### Metodología
-Combinaremos métodos de análisis digital con técnicas de recopilación de información directa de los usuarios.
-
-En primer lugar, se realizará un **análisis del entorno digital** y de la presencia de la marca en redes sociales para identificar tendencias, opiniones de los clientes y oportunidades de mejora. 
-
-Posteriormente, vamos a desarrollar **personas** que representen a los principales tipos de usuarios del servicio, lo que permitirá comprender mejor sus motivaciones y necesidades.
-Además, para cada persona elaboraremos su **Journey Map** para analizar su recorrido con la marca, desde desde el momento en que surge la intención de visitar el restaurante hasta la finalización de la experiencia. 
-
-Finalmente,se complementará el estudio mediante **entrevistas y encuestas** a usuarios, con el objetivo de obtener información directa sobre sus expectativas, preferencias y posibles dificultades al interactuar con este tipo de plataformas.
-
-
-## 1.b Competitive Analysis
+### 1.b Competitive Analysis
 Hemos realizado un análisis comparativo de tres referentes del sector.
 ![Competitive Analysis](P1/CompetitorAnalysis.png)
 
@@ -57,7 +46,7 @@ Tras el analisis, observamos una clara oportunidad de mercado: **la mayoría de 
 Nuestra propuesta se diferenciará por combinar la inmersión visual de *Uzumaki* con la robustez técnica de *Shifu*, añadiendo la capa social de eventos que ninguna de estas plataformas ofrece actualmente
 
 
-## 1.c Personas 
+### 1.c Personas 
 Para entender a nuestro público, hemos desarrollado dos perfiles representativos. 
 
 Para representar a uno de los principales perfiles de usuarios, presentamos a **Alberto**, un joven interesado en el anime y los videojuegos.
@@ -68,7 +57,7 @@ Por otro lado, presentamos a **Eva**, profesora de latín interesada en activida
 ![Persona 2](P1/Persona2.png)
 
 
-## 1.d User Journey Map
+### 1.d User Journey Map
 Analizamos los recorridos de nuestros dos perfiles principales para identificar puntos críticos en su experiencia:
 
 * **Alberto:** Busca nuevas experiencias y salir de la monotonía. El mapa nos muestra que aunque la temática le atrae, la falta de claridad en la página web le generó dudas antes de la visita.
@@ -79,7 +68,7 @@ Analizamos los recorridos de nuestros dos perfiles principales para identificar 
 ![UserJourney2](UserJourneyMap2.png)
 
 
-## 1.e Usability Review
+### 1.e Usability Review
 [:page_facing_up: Ver Usuability Review](UsabilityreviewPuntuado.pdf)
 
 **Puntación obtenida por Buga Ramen: 64/100 (Moderate)** 
@@ -91,3 +80,59 @@ Esto nos da una **oportunidad de mejora**: podemos ofrecer la misma potencia vis
 
 ---
 
+<br>
+
+## Paso 2. UX Design 
+
+>>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+
+### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+![Método UX](img/feedback-capture-grid.png) 
+----
+
+>>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+
+
+ Interesante | Críticas     
+| ------------- | -------
+  Preguntas | Nuevas ideas
+  
+    
+>>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
+>>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+
+
+### 2.b ScopeCanvas
+![Método UX](img/ScopeCanvas.png)
+----
+
+>>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
+>>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+
+
+
+### 2.b User Flow (task) analysis 
+![Método UX](img/Sitemap.png) 
+-----
+
+>>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+
+
+### 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 
+----
+
+>>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+
+Término | Significado     
+| ------------- | -------
+  Login  | acceder a plataforma
+
+
+### 2.d Wireframes
+![Método UX](img/Wireframes.png) 
+-----
+
+>>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+
+<br>

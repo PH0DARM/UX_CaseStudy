@@ -23,7 +23,6 @@ Miembros y nombre del equipo: DIU1_PAYA
 
 # Proceso de Diseño 
 
-<br>
 
 ## 1. UX User & Desk Research & Analisis 
 ### 1.a User Reseach Plan
@@ -79,6 +78,7 @@ Tras realizar el análisis hemos concluido que, aunque la página es funcional y
 En particular, la jerarquía de información es confusa y la estética a veces sacrifica la legibilidad del contenido. 
 Esto nos da una **oportunidad de mejora**: podemos ofrecer la misma potencia visual pero con una arquitectura de información más clara y una navegación más intuitiva.
 
+---
 <br>
 
 ## 2. UX Design 

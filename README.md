@@ -19,12 +19,11 @@ Miembros y nombre del equipo: DIU1_PAYA
  * :bust_in_silhouette:  Pablo Hodar Molina     — [:octocat: GitHub](https://github.com/ph0darm)   
  * :bust_in_silhouette:  Yaiza Perez Ocaña      — [:octocat: GitHub](https://github.com/yaizaperez)
 
----
 
 # Proceso de Diseño 
 <br>
 
-## Paso 1. UX User & Desk Research & Analisis 
+## 1. UX User & Desk Research & Analisis 
 ### 1.a User Reseach Plan
 El objetivo de este plan de investigación es comprender cómo interactúan los usuarios con las plataformas web de restaurantes temáticos y detectar posibles problemas de usabilidad antes de diseñar nuestra propuesta.
 
@@ -78,11 +77,9 @@ Tras realizar el análisis hemos concluido que, aunque la página es funcional y
 En particular, la jerarquía de información es confusa y la estética a veces sacrifica la legibilidad del contenido. 
 Esto nos da una **oportunidad de mejora**: podemos ofrecer la misma potencia visual pero con una arquitectura de información más clara y una navegación más intuitiva.
 
----
-
 <br>
 
-## Paso 2. UX Design 
+## 2. UX Design 
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 

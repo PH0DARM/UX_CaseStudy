@@ -1,11 +1,11 @@
-# DIU 26 :ramen: Ramen & Noodles Pa'ya
+# DIU 26 :ramen: Ramen や Noodles Pa'ya
 **Grupo:** DIU1_PAYA | **Curso:** 2025/26  
 
 ---
 
 ## 0. My UX-Case Study
 ### Descripción del Proyecto
-**Ramen & Noodles Pa'ya** es una propuesta que se aleja del concepto de restaurante convencional en Granada. Nuestra plataforma web estará orientada a fomentar la creación de lazos y actividades sociales en Granada, tomando como base la gastronomía japonesa.
+**Ramen や Noodles Pa'ya** es una propuesta que se aleja del concepto de restaurante convencional en Granada. Nuestra plataforma web estará orientada a fomentar la creación de lazos y actividades sociales en Granada, tomando como base la gastronomía japonesa.
 
 La plataforma incluirá las funcionales habituales de la página web de un restaurante, como consultar la carta, hacer reservas para acudir al local, ver la ubicación de el restaurante o acceder a información de contacto como el número de telefono.
 

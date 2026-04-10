@@ -143,6 +143,8 @@ b)  Wireframe preliminar en FIGMA (posiciones fijas absolutas, y **elementos en 
 * Identificar cabeceras y menús, pero el contenido se  ajusta con "lorem ipsum"
 * las imágenes se ajustan con un rectángulo (tachado) con tamaño aproximado
 
+## 5. Conclusiones
+
  DEBE QUEDAR MUY CLARA LA JERARQUIA VISUAL CON FRAMES Y DESTACAR COMPONENTES PRINCIPALES
 c)  Una vez VALIDADO en clase, se hará una segunda versión con un **GRID LAYOUT con ajustes de diseño RESPONSIVE**(para ver su comportamiento en distintos dispositivos) 
 

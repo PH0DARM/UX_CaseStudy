@@ -102,7 +102,10 @@ Proponer una organización lógica de la navegación y elementos de diseño.En e
 ![SiteMap de la pagina](SiteMap.png)
 
 ## 3.2.2 Labeling
-  
+
+| Termino | Significado |
+|---|---|
+| Pagina de Inicio | Página principal que da acceso al resto de funcionalidades de la web |
   
 ## 4. Prototipo
 

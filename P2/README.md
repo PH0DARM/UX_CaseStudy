@@ -96,6 +96,8 @@ Mostramos el flujo de las tres tareas que consideramos más importantes:
 En este apartado realizaremos una organización de navegacion (menús) y etiquetas (**labeling**)
 
 Proponer una organización lógica de la navegación y elementos de diseño.En este paso, se genera el mapa (sitemap) junto con el etiquetado (labelling) del sitio (incluyendo iconos), que se puede usar posteriormente para internacionalización. 
+
+![SiteMap de la pagina](SiteMap.png)
   
   
 ## 4. Prototipo

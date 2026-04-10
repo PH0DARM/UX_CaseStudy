@@ -80,8 +80,6 @@ Vamos a identificar las tareas principales y su relevancia para los distintos us
 | Cerrar sesión | No usa | Moderada | Alta | Moderada | Baja |
 
 
-<br>
-
 #### User/Task Flow
 
 
@@ -91,17 +89,9 @@ Vamos a identificar las tareas principales y su relevancia para los distintos us
 En este apartado realizaremos una organización de navegacion (menús) y etiquetas (**labeling**)
 
 Proponer una organización lógica de la navegación y elementos de diseño.En este paso, se genera el mapa (sitemap) junto con el etiquetado (labelling) del sitio (incluyendo iconos), que se puede usar posteriormente para internacionalización. 
- ![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXfZnIuAA9QHCSqhqcAA56KJW0wxI-tzzCabXIEpjcuagW6nBKZ79IBmoCpXxLPHtkbCDO0BXf2Zirvhn9S5Pax34qMdkkxdcTSGQAljyOk6K19_fY1339_T-MWomk8lY6xItyM357BN0DtOZJKcmC5yGzRS?key=yHsxm-WHRmltKiyTZtLHHg) | ![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXee1ndmuqFmG4EP4qCIJTgoHHYtj98Xjsi5QnEWHmRTWZCBeU_28zG39WmWuP3HRPSY87InU65Tg-yKRThSf9g8nr1fDp7NOGCb8xw_FEuKsenL9noyzTtpaQeLisMnTccoUNj3Ypl0LgADxQl95nw3lDI?key=yHsxm-WHRmltKiyTZtLHHg) |
-
-Referencias y guías: 
-
-- A. Karafillis (2013) Efficiently Simplifying Navigation, Part 1: Information Architecture  [https://www.smashingmagazine.com/2013/12/efficiently-simplifying-navigation-information-architecture/](https://www.smashingmagazine.com/2013/12/efficiently-simplifying-navigation-information-architecture/)
-
-- Niki Tisza (2023) Label UX: Definition, best practices, examples, blog logrocket [https://blog.logrocket.com/ux-design/label-ux-definition/](https://blog.logrocket.com/ux-design/label-ux-definition/) 
-
   
   
-### 5. [PROTOTIPO]
+## 4. Prototipo
 
 Se harán bocetos **Lo-Fi PARA WEB** (tamaño 1440px, grid de 12 columnas) de las distintas pantallas del interfaz (las más relevantes). Se propone un proceso incremental: 
 
@@ -114,11 +104,6 @@ b)  Wireframe preliminar en FIGMA (posiciones fijas absolutas, y **elementos en 
 * las imágenes se ajustan con un rectángulo (tachado) con tamaño aproximado
 
  DEBE QUEDAR MUY CLARA LA JERARQUIA VISUAL CON FRAMES Y DESTACAR COMPONENTES PRINCIPALES
-
-|   |   |
-|---|---|
-|![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXdnqHVppCx7CPOGKuZqeT-BV32l45EUheFEhszsdyuRI8lcGepWLmnHACeAgOPnf9Vxn6vpWhHjXUZkKKk67ckOmqUMcbtQEDtufldWPx4Fc7TBfW23oV46761rgZk_xG8Rfv6F9ERRfW3mhIIIa0nScjtu?key=yHsxm-WHRmltKiyTZtLHHg)|![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXdAxRdex0RT15epXKRVbtC4CjmOIG1NBt3aCOkUwKjkGCTAxlgefdZgg1N5E_Xj7BhlDhVET4zmvJHd1a4iu7lbZHAYoh3oFQcMSkqOnNVdLJAfOnv4L1rylamHFgxko9tPT8yX5eDKoCfwJEL5SctM4wA?key=yHsxm-WHRmltKiyTZtLHHg)|
-
 c)  Una vez VALIDADO en clase, se hará una segunda versión con un **GRID LAYOUT con ajustes de diseño RESPONSIVE**(para ver su comportamiento en distintos dispositivos) 
 
   

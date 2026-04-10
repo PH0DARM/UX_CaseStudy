@@ -15,7 +15,7 @@ Para estructurar esta fase de ideación, comenzamos utilizando una **Malla recep
 
 Gracias a esta herramienta identificamos fortalezas importantes, como el atractivo de la temática anime y la diferenciación del restaurante dentro de la oferta gastronómica de Granada. Al mismo tiempo, detectamos oportunidades de mejora relacionadas con la dificultad para acceder a información clara sobre eventos, la gestión de reservas, la incertidumbre sobre el aforo y la falta de herramientas que favorezcan la interacción entre usuarios con gustos similares.
 
-![Feedback Capture Grid](FeedbackCaptureGrind.png)
+![Feedback Capture Grid](FeedbackCaptureGrid.png)
 
 
 ### 2.2 Empathy Mapping  

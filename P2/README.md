@@ -34,7 +34,6 @@ El análisis conjunto de la malla receptora y los mapas de empatía nos permiti�
 
 <br>
 
-
 ## 2. Propuesta de valor
 
 Nuestra propuesta de valor transforma la experiencia tradicional de un restaurante temático en una plataforma social y gastronómica centrada en la cultura anime y japonesa. Pa’ya no solo ofrece un espacio donde disfrutar de ramen y gastronomía oriental, sino también un entorno digital diseñado para facilitar la conexión entre usuarios.
@@ -52,7 +51,6 @@ En definitiva, Pa’ya evoluciona de restaurante temático a ecosistema digital 
 ![ScopeCanvas](Scope_canvas.png)
 
 <br>
-
 
 ## 3. Task analysis y arquitectura de la información
 

@@ -82,9 +82,9 @@ Vamos a identificar las tareas principales y su relevancia para los distintos us
 Mostramos el flujo de las tres tareas que consideramos más importantes:
 
 
-  **1) Consultar la carta y reservar mesa**
+  > **1) Consultar la carta y reservar mesa**
   ![Task Flow Consultar carta y reservar](taskFlow1.png)
-  **2) Consultar eventos temáticos y reservar plaza**
+    **2) Consultar eventos temáticos y reservar plaza**
   
   **3) Participar en el foro**
 

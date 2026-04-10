@@ -148,4 +148,5 @@ c)  Una vez VALIDADO en clase, se hará una segunda versión con un **GRID LAYOU
 
 ## 5. Conclusiones
 
-  Las Conclusiones...
+Con esta practica hemos mejorado nuestra comprension sobre las partes mas importantes sobre nuestra pagina web mediante el Feedback Capture Grid. Con esto hemos podido mejorar nuestro diseño de esta, para que se adapte mejor a cada situacion y maquina que la use.
+Nosotros queremos que la parte social sea tan importante como la parte de la comida por lo que hemos decidido añadir varias secciones las cuales se enfocan en eso como el foro y la seccion de valoraciones. Una vez definimos esto hicimos unos bocetos a mano para facilitar el trabajo y mas tarde pasarlo a figma de forma mas sencilla gracias a los prototipos y creando los prototipos.

@@ -81,22 +81,13 @@ Esto nos da una **oportunidad de mejora**: podemos ofrecer la misma potencia vis
 
 ## 2. UX Design 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
-----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Mediante el uso de una malla receptora de información, se logró identificar que el restaurante destaca en Granada por su temática anime y diferenciación, aunque presenta deficiencias críticas en la gestión de reservas y el acceso a información sobre eventos y aforo. Esta fase de análisis permitió detectar una oportunidad clave para desarrollar herramientas que mejoren la comunicación operativa y fomenten la interacción social entre usuarios con intereses comunes.
 
+![UserJourney2](P2/EmpathyCustomerMap1.png)
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+![UserJourney2](P2/EmpathyCustomerMap2.png)
 
 
 ### 2.b ScopeCanvas

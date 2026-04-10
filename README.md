@@ -85,9 +85,13 @@ Esto nos da una **oportunidad de mejora**: podemos ofrecer la misma potencia vis
 
 Mediante el uso de una malla receptora de información, se logró identificar que el restaurante destaca en Granada por su temática anime y diferenciación, aunque presenta deficiencias críticas en la gestión de reservas y el acceso a información sobre eventos y aforo. Esta fase de análisis permitió detectar una oportunidad clave para desarrollar herramientas que mejoren la comunicación operativa y fomenten la interacción social entre usuarios con intereses comunes.
 
-![UserJourney2](P2/EmpathyCustomerMap1.png)
+![FeedbackCaptureGrid](P2/FeedbackCaptureGrid.png)
 
-![UserJourney2](P2/EmpathyCustomerMap2.png)
+![EmpathyCustomerMap1](P2/EmpathyCustomerMap1.png)
+
+![EmpathyCustomerMap2](P2/EmpathyCustomerMap2.png)
+
+
 
 
 ### 2.b ScopeCanvas

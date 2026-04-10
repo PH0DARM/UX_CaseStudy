@@ -47,7 +47,7 @@ Además, la propuesta está diseñada para ser accesible y útil para distintos 
 
 En definitiva, Pa’ya evoluciona de restaurante temático a ecosistema digital de experiencia, socialización y comunidad, donde cada visita supone una oportunidad para descubrir nuevos sabores, participar en actividades y generar conexiones reales con otras personas.
 
-![ScopeCanvas](ScopeCanvas.png)
+![ScopeCanvas](Scope_canvas.png)
 
 
 ### 4. [TASK ANALYSIS Y ARQUITECTURA INFORMACION]

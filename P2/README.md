@@ -8,9 +8,9 @@ Tras la investigación realizada en la práctica anterior, decidimos replantear 
 A partir de los insights extraídos, hemos utilizado distintas herramientas de ideación para sintetizar la información y orientar el diseño hacia una solución más coherente con nuestro público objetivo.
 
 
-### 2.1 Feedback Capture Grid 
+### 1.1 Feedback Capture Grid 
 
-Para estructurar esta fase de ideación, comenzamos utilizando una **Malla receptora de información**, que nos permitió sintetizar la información obtenida en cuatro áreas clave: aspectos positivos del modelo actual, críticas constructivas, preguntas surgidas desde la perspectiva de los usuarios y posibles ideas de mejora planteadas por el equipo.
+Para estructurar esta fase de ideación, comenzamos utilizando una **malla receptora de información**, que nos permitió sintetizar la información obtenida en cuatro áreas clave: aspectos positivos del modelo actual, críticas constructivas, preguntas surgidas desde la perspectiva de los usuarios y posibles ideas de mejora planteadas por el equipo.
 
 
 Gracias a esta herramienta identificamos fortalezas importantes, como el atractivo de la temática anime y la diferenciación del restaurante dentro de la oferta gastronómica de Granada. Al mismo tiempo, detectamos oportunidades de mejora relacionadas con la dificultad para acceder a información clara sobre eventos, la gestión de reservas, la incertidumbre sobre el aforo y la falta de herramientas que favorezcan la interacción entre usuarios con gustos similares.
@@ -18,23 +18,20 @@ Gracias a esta herramienta identificamos fortalezas importantes, como el atracti
 ![Feedback Capture Grid](FeedbackCaptureGrid.png)
 
 
-### 2.2 Empathy Mapping  
+### 1.2 Empathy Mapping  
 
-Recabamos en un mapa de empatía (**empathy mapping**) el comportamiento de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. Es importante conocer la diferencia entre lo que dice y hace / piensa y siente, así como detectar los puntos claves (pains & gain) para superar los obstáculos. 
-    
-![Empathy mapping|250](https://www.digital.nsw.gov.au/sites/default/files/styles/wysiwyg_image/public/2022-09/empathy-mapping.png?itok=A0pnvTtm)
+Mediante los **mapas de empatía** profundizamos en las necesidades reales de los usuarios, elaborados a partir de nuestras personas ficticias: Alberto y Eva.
 
-
-Referencias y guías: 
-
-- Malla Receptora de Información IBM toolkit:  [https://www.ibm.com/design/thinking/page/toolkit/activity/feedback-grid](https://www.ibm.com/design/thinking/page/toolkit/activity/feedback-grid) 
-
-- Empathy mapping  [https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it](https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it) 
-
-- d.school. mini guía. una introducción al Design Thinking. [http://guiaiso50001.cl/guia/wp-content/uploads/2017/04/guia-proceso-creativo.pdf](http://guiaiso50001.cl/guia/wp-content/uploads/2017/04/guia-proceso-creativo.pdf) 
+![Empathy mapping 1](EmpathyCustomerMap1.png) 
 
 
-### 3.[PROPUESTA DE VALOR] SCOPE CANVAS
+![Empathy mapping 2](EmpathyCustomerMap2.png)
+
+
+El uso de ambos mapas nos permitió detectar pain points comunes, como la dificultad para encontrar plaza en eventos temáticos, la necesidad de reservas rápidas, la falta de tiempo en el ritmo de vida actual o la barrera social de no tener con quién acudir. A su vez, identificamos motivaciones compartidas, entre ellas descubrir nuevos sabores, conocer personas con intereses similares y formar parte de una comunidad activa en torno al anime y la cultura japonesa.
+
+
+## 2. Propuesta de valor
 
 Incluye una breve descripción para explicar en qué consiste vuestro proyecto y complementa con un [LeanUX Canvas](https://www.andrescabreraux.com/scope-canvas/)
 

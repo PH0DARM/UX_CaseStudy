@@ -97,7 +97,11 @@ En este apartado realizaremos una organización de navegacion (menús) y etiquet
 
 Proponer una organización lógica de la navegación y elementos de diseño.En este paso, se genera el mapa (sitemap) junto con el etiquetado (labelling) del sitio (incluyendo iconos), que se puede usar posteriormente para internacionalización. 
 
+## 3.2.1 SiteMap
+
 ![SiteMap de la pagina](SiteMap.png)
+
+## 3.2.2 Labeling
   
   
 ## 4. Prototipo

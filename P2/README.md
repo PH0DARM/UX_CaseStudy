@@ -2,10 +2,23 @@
 
 ## 1. Ideación
 
-Vamos a replantear nuestra propuesta a partir de la experiencia adquirida, y para ello,  vamos a sintetizar los hallazgos (insights) y propuesta de diseño usando alguna de estas herramientas, donde hay varias herramientas útiles: 
+Tras la investigación realizada en la práctica anterior, decidimos replantear nuestra propuesta de valor poniendo el foco no solo en la experiencia gastronómica, sino también en la dimensión social y temática que diferencia a Pa’ya.
 
 
-### 2.1. Empathy Mapping  
+A partir de los insights extraídos, hemos utilizado distintas herramientas de ideación para sintetizar la información y orientar el diseño hacia una solución más coherente con nuestro público objetivo.
+
+
+### 2.1 Feedback Capture Grid 
+
+Para estructurar esta fase de ideación, comenzamos utilizando una **Malla receptora de información**, que nos permitió sintetizar la información obtenida en cuatro áreas clave: aspectos positivos del modelo actual, críticas constructivas, preguntas surgidas desde la perspectiva de los usuarios y posibles ideas de mejora planteadas por el equipo.
+
+
+Gracias a esta herramienta identificamos fortalezas importantes, como el atractivo de la temática anime y la diferenciación del restaurante dentro de la oferta gastronómica de Granada. Al mismo tiempo, detectamos oportunidades de mejora relacionadas con la dificultad para acceder a información clara sobre eventos, la gestión de reservas, la incertidumbre sobre el aforo y la falta de herramientas que favorezcan la interacción entre usuarios con gustos similares.
+
+![Feedback Capture Grid](FeedbackCaptureGrind.png)
+
+
+### 2.2 Empathy Mapping  
 
 Recabamos en un mapa de empatía (**empathy mapping**) el comportamiento de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. Es importante conocer la diferencia entre lo que dice y hace / piensa y siente, así como detectar los puntos claves (pains & gain) para superar los obstáculos. 
     
@@ -19,16 +32,6 @@ Referencias y guías: 
 - Empathy mapping  [https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it](https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it) 
 
 - d.school. mini guía. una introducción al Design Thinking. [http://guiaiso50001.cl/guia/wp-content/uploads/2017/04/guia-proceso-creativo.pdf](http://guiaiso50001.cl/guia/wp-content/uploads/2017/04/guia-proceso-creativo.pdf) 
-  
-
-
-#### 2.2. Feedback Capture Grid 
-
-Recabamos en la malla receptora de información (**feedback capture grid**) la información obtenida de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. La técnica consiste en elaborar un cuadrante con 4 apartados: aspectos positivos actualmente existentes, críticas constructivas, preguntas de los usuarios (a partir de las personas ficticias), e ideas de mejora (a partir de la experiencia del equipo de desarrollo). La diferencia entre las preguntas de los usuarios y las ideas de mejora, es que un usuario no se plantea si se puede implementar o no la solución que propone.
-
-![Feedback Capture Grid|250](https://miro.medium.com/v2/resize:fit:1200/format:webp/0*ETuvlUembmAIwwij)
-
-
 
 
 ### 3.[PROPUESTA DE VALOR] SCOPE CANVAS

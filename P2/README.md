@@ -50,11 +50,32 @@ En definitiva, Pa’ya evoluciona de restaurante temático a ecosistema digital 
 ![ScopeCanvas](Scope_canvas.png)
 
 
-### 4. [TASK ANALYSIS Y ARQUITECTURA INFORMACION]
+## 3. Task analysis y arquitectura de la información
 
-#### 4.1. Análisis de tareas 
+### 3.1. Análisis de tareas 
 
-A continuación, vamos a identificar las tareas principales y su relevancia para los usuarios. Hay diferentes técnicas para realizar este análisis. Escoged la más adecuada para vuestro caso: 
+#### User Task Matrix
+Vamos a identificar las tareas principales y su relevancia para los distintos usuarios. 
+
+
+| Tarea | Usuario | Usuario Registrado | Trabajadores | Joven Otaku | Adulto No Conocedor |
+|---|---|---|---|---|---|
+| Ver la carta | Alta | Alta | Baja | Alta | Alta |
+| Opciones de filtrado de la carta | Moderada | Alta | Baja | Moderada | Alta |
+| Leer reseñas y recomendaciones | Moderada | Alta | Baja | Alta | Alta |
+| Acceder a datos del local | Moderada | Moderada | Alta | Baja | Alta |
+| Consultar eventos temáticos | Moderada | Alta | Moderada | Alta | Moderada |
+| Iniciar sesión | No usa | Alta | Alta | Alta | Baja |
+| Hacer reserva | Moderada | Alta | Baja | Alta | Alta |
+| Reservar plaza en eventos | No usa | Alta | Baja | Alta | Moderada |
+| Acceder al foro | Baja | Alta | Moderada | Alta | Baja |
+| Publicar en el foro | No usa | Moderada | Baja | Alta | No usa |
+| Gestionar cuenta | No usa | Moderada | Alta | Moderada | Baja |
+| Gestionar reservas | No usa | Baja | Alta | Baja | No usa |
+| Gestionar eventos y aforo | No usa | No usa | Alta | No usa | No usa |
+| Cerrar sesión | No usa | Moderada | Alta | Moderada | Baja |
+
+
 
 ![user flow design](https://asperbrothers.com/wp-content/uploads/2022/07/user_flow_design.png "user_flow_design")
 
@@ -74,7 +95,7 @@ Referencias y guías: 
 - The ultimate guide to User Flow Diagram   [https://bootcamp.uxdesign.cc/the-ultimate-guide-to-user-flow-diagram-b108d7de10d](https://bootcamp.uxdesign.cc/the-ultimate-guide-to-user-flow-diagram-b108d7de10d) 
 - 8 Tips for Creating Super Smooth User Flows for UX [https://blog.hubspot.com/service/user-flow](https://blog.hubspot.com/service/user-flow) 
 
-#### 4.2. Arquitectura de la información 
+### 3.2. Arquitectura de la información 
 
 En este apartado realizaremos una organización de navegacion (menús) y etiquetas (**labeling**)
 
@@ -89,7 +110,6 @@ Referencias y guías: 
 
   
   
-
 ### 5. [PROTOTIPO]
 
 Se harán bocetos **Lo-Fi PARA WEB** (tamaño 1440px, grid de 12 columnas) de las distintas pantallas del interfaz (las más relevantes). Se propone un proceso incremental: 

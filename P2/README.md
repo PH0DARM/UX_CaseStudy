@@ -28,17 +28,27 @@ Mediante los **mapas de empatía** profundizamos en las necesidades reales de lo
 ![Empathy mapping 2](EmpathyCustomerMap2.png)
 
 
-El uso de ambos mapas nos permitió detectar pain points comunes, como la dificultad para encontrar plaza en eventos temáticos, la necesidad de reservas rápidas, la falta de tiempo en el ritmo de vida actual o la barrera social de no tener con quién acudir. A su vez, identificamos motivaciones compartidas, entre ellas descubrir nuevos sabores, conocer personas con intereses similares y formar parte de una comunidad activa en torno al anime y la cultura japonesa.
+El uso de ambos mapas nos permitió detectar pain points comunes, como la dificultad para encontrar plaza en eventos temáticos, la necesidad de reservas rápidas, la falta de tiempo en el ritmo de vida actual o la barrera social de no tener con quién acudir. A su vez, identificamos motivaciones compartidas, entre ellas descubrir nuevos sabores, conocer personas afines y formar parte de una comunidad activa en torno al anime y la cultura japonesa.
+
+El análisis conjunto de la malla receptora y los mapas de empatía nos permitió validar que la propuesta debía ir más allá de la experiencia gastronómica tradicional. A partir de estos hallazgos, definimos una propuesta de valor centrada en la socialización, la cultura anime y la creación de comunidad, profundizando en funcionalidades que integran reservas inteligentes, eventos temáticos y una plataforma social para conectar a usuarios con intereses comunes.
 
 
 ## 2. Propuesta de valor
 
-Incluye una breve descripción para explicar en qué consiste vuestro proyecto y complementa con un [LeanUX Canvas](https://www.andrescabreraux.com/scope-canvas/)
+Nuestra propuesta de valor transforma la experiencia tradicional de un restaurante temático en una plataforma social y gastronómica centrada en la cultura anime y japonesa. Pa’ya no solo ofrece un espacio donde disfrutar de ramen y gastronomía oriental, sino también un entorno digital diseñado para facilitar la conexión entre usuarios.
+
+La solución integra reservas inteligentes, acceso a la carta digital, gestión de eventos temáticos y una plataforma social tipo foro, donde los usuarios pueden interactuar, compartir reseñas, recomendar platos, organizar planes y conocer nuevas personas. 
 
 
-![ScopeCanvas](https://www.bbvaapimarket.com/wp-content/uploads/2020/02/bbva-open4u-scope.jpg)
+Uno de los pilares fundamentales de la propuesta es la **creación de comunidad**, permitiendo que los usuarios no solo visiten el restaurante de forma habitual, sino que lo conviertan en un punto de encuentro para personas apasionadas del anime, la cultura japonesa y la gastronomía oriental. Los eventos temáticos, las dinámicas sociales y las funcionalidades colaborativas dentro del sitio web refuerzan este sentimiento de pertenencia y aumentan la recurrencia de visitas.
 
-<br>
+Además, la propuesta está diseñada para ser accesible y útil para distintos perfiles de usuario, desde jóvenes aficionados al anime hasta personas menos familiarizadas con todo ese mundo, ofreciendo una experiencia intuitiva, inmersiva y adaptable a diferentes edades y necesidades.
+
+
+En definitiva, Pa’ya evoluciona de restaurante temático a ecosistema digital de experiencia, socialización y comunidad, donde cada visita supone una oportunidad para descubrir nuevos sabores, participar en actividades y generar conexiones reales con otras personas.
+
+![ScopeCanvas](ScopeCanvas.png)
+
 
 ### 4. [TASK ANALYSIS Y ARQUITECTURA INFORMACION]
 

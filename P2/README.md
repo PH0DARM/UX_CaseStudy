@@ -32,6 +32,8 @@ El uso de ambos mapas nos permitió detectar pain points comunes, como la dificu
 
 El análisis conjunto de la malla receptora y los mapas de empatía nos permitió validar que la propuesta debía ir más allá de la experiencia gastronómica tradicional. A partir de estos hallazgos, definimos una propuesta de valor centrada en la socialización, la cultura anime y la creación de comunidad, profundizando en funcionalidades que integran reservas inteligentes, eventos temáticos y una plataforma social para conectar a usuarios con intereses comunes.
 
+<br>
+
 
 ## 2. Propuesta de valor
 
@@ -48,6 +50,8 @@ Además, la propuesta está diseñada para ser accesible y útil para distintos 
 En definitiva, Pa’ya evoluciona de restaurante temático a ecosistema digital de experiencia, socialización y comunidad, donde cada visita supone una oportunidad para descubrir nuevos sabores, participar en actividades y generar conexiones reales con otras personas.
 
 ![ScopeCanvas](Scope_canvas.png)
+
+<br>
 
 
 ## 3. Task analysis y arquitectura de la información
@@ -76,24 +80,11 @@ Vamos a identificar las tareas principales y su relevancia para los distintos us
 | Cerrar sesión | No usa | Moderada | Alta | Moderada | Baja |
 
 
+<br>
 
-![user flow design](https://asperbrothers.com/wp-content/uploads/2022/07/user_flow_design.png "user_flow_design")
+#### User/Task Flow
 
-Como es un diseño de contenido sencillo, **identificar claramente funciones principales:** 
 
-- CTA principal y funciones secundarias (configuración, acerca de, otros... ) 
-
-Recursos: 
-
-- FIGMA [https://www.figma.com/community/file/830510773896272856](https://www.figma.com/community/file/830510773896272856) 
-- FIGMA Flowmap https://www.figma.com/community/file/902730840015992414 
-- FlowMapp WebApp [https://www.flowmapp.com/](https://www.flowmapp.com/) (gratis para 20 elementos)
-
-Referencias y guías: 
-
-- UX task Analysis  [https://blog.uxtweak.com/ux-task-analysis/](https://blog.uxtweak.com/ux-task-analysis/)  
-- The ultimate guide to User Flow Diagram   [https://bootcamp.uxdesign.cc/the-ultimate-guide-to-user-flow-diagram-b108d7de10d](https://bootcamp.uxdesign.cc/the-ultimate-guide-to-user-flow-diagram-b108d7de10d) 
-- 8 Tips for Creating Super Smooth User Flows for UX [https://blog.hubspot.com/service/user-flow](https://blog.hubspot.com/service/user-flow) 
 
 ### 3.2. Arquitectura de la información 
 

@@ -54,9 +54,9 @@ En definitiva, Pa’ya evoluciona de restaurante temático a ecosistema digital 
 
 ## 3. Task analysis y arquitectura de la información
 
-### 3.1. Análisis de tareas 
+### 3.1 Análisis de tareas 
 
-#### - User Task Matrix
+#### User Task Matrix
 Vamos a identificar las tareas principales y su relevancia para los distintos usuarios. 
 
 
@@ -78,11 +78,11 @@ Vamos a identificar las tareas principales y su relevancia para los distintos us
 | Cerrar sesión | No usa | Moderada | Alta | Moderada | Baja |
 
 
-#### - User/Task Flow
+* #### User/Task Flow
 
 
 
-### 3.2. Arquitectura de la información 
+### 3.2 Arquitectura de la información 
 
 En este apartado realizaremos una organización de navegacion (menús) y etiquetas (**labeling**)
 

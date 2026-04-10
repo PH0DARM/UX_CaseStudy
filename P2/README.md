@@ -106,6 +106,30 @@ Proponer una organización lógica de la navegación y elementos de diseño.En e
 | Termino | Significado |
 |---|---|
 | Pagina de Inicio | Página principal que da acceso al resto de funcionalidades de la web |
+| Mi Cuenta | Página donde se muestra todo lo relacionado con la cuenta de usuario |
+| Iniciar Sesion | Página de acceso para usuarios registrados. Podrá incluir sus credenciales para acceder a funciones avanzadas |
+| Registrarse | Página de acceso para usuarios no registrados aun. Tendra que incluir las credenciales necesarias para crear la cuenta |
+| Perfil | Sección donde el usuario puede ver sus datos personales |
+| Cerrar Sesion | Permite cerrar la sesión a un usuario ya registrado con sesión iniciada |
+| Editar Perfil | Permite editar los datos del perfil del usuario |
+| Reseñas | Página donde se muestra todo lo relacionado con las reseñas |
+| Leer Reseñas | Permite ver todas las reseñas guardadas en el sistema |
+| Gestionar tus reseñas | Permite gestionar las reseñas echas por tu perfil |
+| ¿Sesion Iniciada? | Comprueba si tienes una sesion iniciada |
+| Eliminar Reseñas | Permite eliminar reseñas las cuales hayas creado |
+| Añadir Reseña | Permite crear una nueva reseña asociada a tu perfil |
+| Foro | Página donde se muestra todo lo relacionado con los foros |
+| Leer Foro | Permite leer lo que se habla en el foro |
+| Escribir en Foro | Permite que escribas con tu cuenta en el foro |
+| Reservas | Página donde se muestra todo lo relacionado con las reservas |
+| Hacer Reserva | Permite crear una reserva nueva a tu nombre |
+| Gestionar Reserva | Permite gestionar cualquiera de tus reservas |
+| Ver la Carta |  Página donde se muestra la carta |
+| Filtrar la Carta | Permite leer la carta |
+| Datos de el local | Página donde se muestra todo lo relacionado con la informacion de el local |
+| Telefono | Permite ver el numero de telefono |
+| Ubicación de el local | Permite ver donde esta el local |
+
   
 ## 4. Prototipo
 

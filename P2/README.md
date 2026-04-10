@@ -85,7 +85,7 @@ Mostramos el flujo de las tres tareas que consideramos más importantes:
 > **1) Consultar la carta y reservar mesa**
   ![Task Flow Consultar carta y reservar](taskFlow1.png)
   **2) Consultar eventos temáticos y reservar plaza**
-  ![Task Flow Consultar eventos y reservar](taskFlow1.png)
+  ![Task Flow Consultar eventos y reservar](taskFlow2.png)
   **3) Participar en el foro**
   ![Task Flow Foro](taskFlow1.png)
 

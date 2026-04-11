@@ -133,18 +133,13 @@ Proponer una organización lógica de la navegación y elementos de diseño.En e
   
 ## 4. Prototipo
 
-Se harán bocetos **Lo-Fi PARA WEB** (tamaño 1440px, grid de 12 columnas) de las distintas pantallas del interfaz (las más relevantes). Se propone un proceso incremental: 
+De esta forma hemos diseñado los layouts de las partes principales de nuestro sistema utilizando figma para hacer los wireframes
 
-a)  un **primer esbozo en PAPEL** que será evaluado  por profesor/a). Una vez clara la idea se procederá a hacer diseño en FIGMA en dos pasos. 
+![Reservas](Reserva.png)
 
-b)  Wireframe preliminar en FIGMA (posiciones fijas absolutas, y **elementos en jerarquía de frames**). 
+![Perfil](Perfil.png)
 
-*  Escoger **escala de grises** y **una  tipografía**. 
-* Identificar cabeceras y menús, pero el contenido se  ajusta con "lorem ipsum"
-* las imágenes se ajustan con un rectángulo (tachado) con tamaño aproximado
-
- DEBE QUEDAR MUY CLARA LA JERARQUIA VISUAL CON FRAMES Y DESTACAR COMPONENTES PRINCIPALES
-c)  Una vez VALIDADO en clase, se hará una segunda versión con un **GRID LAYOUT con ajustes de diseño RESPONSIVE**(para ver su comportamiento en distintos dispositivos) 
+![Carta](Carta.png)
 
 ## 5. Conclusiones
 

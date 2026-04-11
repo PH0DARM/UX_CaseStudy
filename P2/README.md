@@ -133,7 +133,7 @@ Proponer una organización lógica de la navegación y elementos de diseño.En e
   
 ## 4. Prototipo
 
-De esta forma hemos diseñado los layouts de las partes principales de nuestro sistema utilizando figma para hacer los wireframes
+Para materializar la arquitectura de información de Pa’ya, hemos desarrollado wireframes de baja fidelidad centrados en la jerarquía visual y la facilidad de navegación. Utilizando un sistema de rejillas por columnas en Figma/Framer, hemos estructurado los layouts de la carta digital, el motor de reservas y el perfil social, asegurando una coherencia estética y funcional en todos los dispositivos. Este enfoque nos permite validar los flujos de interacción —desde la selección de platos hasta la creación de lazos en la comunidad— priorizando la usabilidad y la disposición lógica de los elementos antes de avanzar hacia el diseño visual de alta fidelidad.
 
 ![Reservas](Reserva.png)
 

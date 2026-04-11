@@ -95,36 +95,53 @@ Mediante el uso de una malla receptora de información, se logró identificar qu
 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
-----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+Pa’ya evoluciona el restaurante temático hacia un ecosistema digital que fusiona gastronomía oriental con socialización real. Mediante reservas inteligentes, foros y eventos de anime, transformamos la cultura japonesa en un motor de comunidad accesible. Nuestra propuesta trasciende el plato para ofrecer una experiencia inmersiva donde cada visita genera conexiones auténticas. En definitiva, convertimos la pasión por el ramen en un punto de encuentro dinámico y recurrente.
 
-
+![scopeCanva](P2/Scope_canvas.png) 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
------
+Mostramos el flujo de las tres tareas que consideramos más importantes:
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+![scopeCanva](P2/taskFlow1.png) 
+
+![scopeCanva](P2/taskFlow2.png) 
+
+![scopeCanva](P2/taskFlow3.png) 
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
-----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+En este apartado realizaremos una organización de navegacion (menús) y etiquetas (labeling)
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+Proponer una organización lógica de la navegación y elementos de diseño.En este paso, se genera el mapa (sitemap) junto con el etiquetado (labelling) del sitio (incluyendo iconos), que se puede usar posteriormente para internacionalización. 
 
+| Tarea | Usuario | Usuario Registrado | Trabajadores | Joven Otaku | Adulto No Conocedor |
+|---|---|---|---|---|---|
+| Ver la carta | Alta | Alta | Baja | Alta | Alta |
+| Opciones de filtrado de la carta | Moderada | Alta | Baja | Moderada | Alta |
+| Leer reseñas y recomendaciones | Moderada | Alta | Baja | Alta | Alta |
+| Acceder a datos del local | Moderada | Moderada | Alta | Baja | Alta |
+| Consultar eventos temáticos | Moderada | Alta | Moderada | Alta | Moderada |
+| Iniciar sesión | No usa | Alta | Alta | Alta | Baja |
+| Hacer reserva | Moderada | Alta | Baja | Alta | Alta |
+| Reservar plaza en eventos | No usa | Alta | Baja | Alta | Moderada |
+| Acceder al foro | Baja | Alta | Moderada | Alta | Baja |
+| Publicar en el foro | No usa | Moderada | Baja | Alta | No usa |
+| Gestionar cuenta | No usa | Moderada | Alta | Moderada | Baja |
+| Gestionar reservas | No usa | Baja | Alta | Baja | No usa |
+| Gestionar eventos y aforo | No usa | No usa | Alta | No usa | No usa |
+| Cerrar sesión | No usa | Moderada | Alta | Moderada | Baja |
+
+
+![SiteMap](P2/SiteMap.png) 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
------
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+De esta forma hemos diseñado los layouts de las partes principales de nuestro sistema utilizando figma para hacer los wireframes
 
-<br>
+![Carta](P2/Carta.png) 
+
+![Reserva](P2/Reserva.png) 
+
+![Perfil](P2/Perfil.png) 

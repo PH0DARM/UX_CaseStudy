@@ -137,11 +137,23 @@ Proponer una organización lógica de la navegación y elementos de diseño.En e
 ![SiteMap](P2/SiteMap.png) 
 
 ### 2.d Wireframes
+En esta parte hemos desarrollado los wireframes Lo-Fi en Figma. Hemos definido los layouts más relevantes de nuestra interfaz. El objetivo principal en esta etapa ha sido hacer evidente la jerarquía visual, la organización espacial y el protagonismo de los componentes principales.
 
-De esta forma hemos diseñado los layouts de las partes principales de nuestro sistema utilizando figma para hacer los wireframes
 
-![Carta](P2/Carta.png) 
+* Página de inicio
+![Inicio](P2/inicio.png)
 
-![Reserva](P2/Reserva.png) 
+* Carta digital
+![Carta](P2/carta.png)
 
-![Perfil](P2/Perfil.png) 
+* Página de reservas
+![Reserva](P2/reservas.png) 
+
+* Página de próximos eventos
+![Eventos](P2/eventos.png)
+
+* El club de la comunidad Pa'ya
+![Comunidad](P2/comunidad.png)
+
+* Perfil de usuario
+![Perfil](P2/perfil.png) 

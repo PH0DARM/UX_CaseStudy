@@ -81,7 +81,7 @@ Esto nos da una **oportunidad de mejora**: podemos ofrecer la misma potencia vis
 
 ## 2. UX Design 
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a IDEACION: Feedback Capture Grid / Empathy map 
 
 Mediante el uso de una malla receptora de información, se logró identificar que el restaurante destaca en Granada por su temática anime y diferenciación, aunque presenta deficiencias críticas en la gestión de reservas y el acceso a información sobre eventos y aforo. Esta fase de análisis permitió detectar una oportunidad clave para desarrollar herramientas que mejoren la comunicación operativa y fomenten la interacción social entre usuarios con intereses comunes.
 
@@ -90,8 +90,6 @@ Mediante el uso de una malla receptora de información, se logró identificar qu
 ![EmpathyCustomerMap1](P2/EmpathyCustomerMap1.png)
 
 ![EmpathyCustomerMap2](P2/EmpathyCustomerMap2.png)
-
-
 
 
 ### 2.b ScopeCanvas
@@ -110,11 +108,13 @@ Mostramos el flujo de las tres tareas que consideramos más importantes:
 ![scopeCanva](P2/taskFlow3.png) 
 
 
-### 2.c IA: Sitemap + Labelling 
+### 2.c Sitemap + Labelling 
 
 En este apartado realizaremos una organización de navegacion (menús) y etiquetas (labeling)
 
-Proponer una organización lógica de la navegación y elementos de diseño.En este paso, se genera el mapa (sitemap) junto con el etiquetado (labelling) del sitio (incluyendo iconos), que se puede usar posteriormente para internacionalización. 
+
+![SiteMap](P2/SiteMap.png) 
+
 
 | Tarea | Usuario | Usuario Registrado | Trabajadores | Joven Otaku | Adulto No Conocedor |
 |---|---|---|---|---|---|
@@ -133,8 +133,6 @@ Proponer una organización lógica de la navegación y elementos de diseño.En e
 | Gestionar eventos y aforo | No usa | No usa | Alta | No usa | No usa |
 | Cerrar sesión | No usa | Moderada | Alta | Moderada | Baja |
 
-
-![SiteMap](P2/SiteMap.png) 
 
 ### 2.d Wireframes
 En esta parte hemos desarrollado los wireframes Lo-Fi en Figma. Hemos definido los layouts más relevantes de nuestra interfaz. El objetivo principal en esta etapa ha sido hacer evidente la jerarquía visual, la organización espacial y el protagonismo de los componentes principales.

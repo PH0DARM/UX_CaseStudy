@@ -90,12 +90,9 @@ Mostramos el flujo de las tres tareas que consideramos más importantes:
   ![Task Flow Foro](taskFlow3.png)
 
 
-
 ### 3.2 Arquitectura de la información 
+En este apartado se define la arquitectura de la información del sistema, organizando de forma lógica la navegación principal, los menús y el conjunto de etiquetas (labeling).
 
-En este apartado realizaremos una organización de navegacion (menús) y etiquetas (**labeling**)
-
-Proponer una organización lógica de la navegación y elementos de diseño.En este paso, se genera el mapa (sitemap) junto con el etiquetado (labelling) del sitio (incluyendo iconos), que se puede usar posteriormente para internacionalización. 
 
 ## 3.2.1 SiteMap
 
@@ -115,7 +112,6 @@ Proponer una organización lógica de la navegación y elementos de diseño.En e
 | Reseñas | Página donde se muestra todo lo relacionado con las reseñas |
 | Leer Reseñas | Permite ver todas las reseñas guardadas en el sistema |
 | Gestionar tus reseñas | Permite gestionar las reseñas echas por tu perfil |
-| ¿Sesion Iniciada? | Comprueba si tienes una sesion iniciada |
 | Eliminar Reseñas | Permite eliminar reseñas las cuales hayas creado |
 | Añadir Reseña | Permite crear una nueva reseña asociada a tu perfil |
 | Foro | Página donde se muestra todo lo relacionado con los foros |
@@ -132,16 +128,30 @@ Proponer una organización lógica de la navegación y elementos de diseño.En e
 
   
 ## 4. Prototipo
+Para materializar la arquitectura de información de Pa’ya, hemos desarrollado los wireframes Lo-Fi en Figma. Hemos definido los layouts más relevantes de nuestra interfaz. El objetivo principal en esta etapa ha sido hacer evidente la jerarquía visual, la organización espacial y el protagonismo de los componentes principales, facilitando así la posterior transición hacia el prototipo de media y alta fidelidad.
 
-Para materializar la arquitectura de información de Pa’ya, hemos desarrollado wireframes de baja fidelidad centrados en la jerarquía visual y la facilidad de navegación. Utilizando un sistema de rejillas por columnas en Figma/Framer, hemos estructurado los layouts de la carta digital, el motor de reservas y el perfil social, asegurando una coherencia estética y funcional en todos los dispositivos. Este enfoque nos permite validar los flujos de interacción —desde la selección de platos hasta la creación de lazos en la comunidad— priorizando la usabilidad y la disposición lógica de los elementos antes de avanzar hacia el diseño visual de alta fidelidad.
 
-![Reservas](Reserva.png)
+* Página de inicio
+![Inicio](inicio.png)
 
-![Perfil](Perfil.png)
+* Carta digital
+![Carta](carta.png)
 
-![Carta](Carta.png)
+* Página de reservas
+![Reserva](reservas.png) 
+
+* Página de próximos eventos
+![Eventos](eventos.png)
+
+* El club de la comunidad Pa'ya
+![Comunidad](comunidad.png)
+
+* Perfil de usuario
+![Perfil](perfil.png) 
+
 
 ## 5. Conclusiones
+Con esta práctica hemos mejorado nuestra comprensión sobre los aspectos más importantes de nuestra página web. A partir del análisis realizado, hemos podido refinar la propuesta para que se adapte mejor a distintos contextos de uso, dispositivos y perfiles de usuario, mejorando así la experiencia general.
+Nosotros queremos que la parte social sea tan importante como la parte gastronómica, ya que consideramos que la interacción entre usuarios aporta un valor diferencial al proyecto. Por ello se han incorporado varias secciones orientadas a fomentar la participación, como el foro y la zona de valoraciones, reforzando el sentimiento de comunidad y la implicación de los usuarios. 
 
-Con esta practica hemos mejorado nuestra comprension sobre las partes mas importantes sobre nuestra pagina web mediante el Feedback Capture Grid. Con esto hemos podido mejorar nuestro diseño de esta, para que se adapte mejor a cada situacion y maquina que la use.
-Nosotros queremos que la parte social sea tan importante como la parte de la comida por lo que hemos decidido añadir varias secciones las cuales se enfocan en eso como el foro y la seccion de valoraciones. Una vez definimos esto hicimos unos bocetos a mano para facilitar el trabajo y mas tarde pasarlo a figma de forma mas sencilla gracias a los prototipos y creando los prototipos.
+Una vez definimos la línea de diseño, hicimos unos bocetos iniciales a mano, lo que facilitó el proceso. Posteriormente, estos esquemas sirvieron como base para su traslado a Figma, donde se desarrollaron los wireframes y prototipos de forma más estructurada y eficiente.

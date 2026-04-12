@@ -96,7 +96,7 @@ En este apartado se define la arquitectura de la información del sistema, organ
 
 ## 3.2.1 SiteMap
 
-![SiteMap de la pagina](SiteMap.png)
+![SiteMap](sitemap.png)
 
 ## 3.2.2 Labeling
 

@@ -87,8 +87,11 @@ Mediante el uso de una malla receptora de información, se logró identificar qu
 
 ![FeedbackCaptureGrid](P2/FeedbackCaptureGrid.png)
 
+* Alberto
 ![EmpathyCustomerMap1](P2/EmpathyCustomerMap1.png)
 
+
+* Eva
 ![EmpathyCustomerMap2](P2/EmpathyCustomerMap2.png)
 
 

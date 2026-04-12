@@ -116,7 +116,7 @@ Mostramos el flujo de las tres tareas que consideramos más importantes:
 En este apartado realizaremos una organización de navegacion (menús) y etiquetas (labeling)
 
 
-![SiteMap](P2/SiteMap.png) 
+![SiteMap](P2/sitemap.png) 
 
 
 | Tarea | Usuario | Usuario Registrado | Trabajadores | Joven Otaku | Adulto No Conocedor |

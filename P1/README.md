@@ -37,7 +37,7 @@ La combinación de estos métodos permitirá obtener una visión completa del co
 
 ## 1.b Competitive Analysis
 Hemos realizado un análisis comparativo de tres referentes del sector.
-![Competitive Analysis](CompetitorAnalysis.png)
+![Competitive Analysis](competitor_analysis1.png)
 
 
 Tras el analisis, observamos una clara oportunidad de mercado: **la mayoría de los competidores fallan en la integración total de servicios o en la accesibilidad**. 

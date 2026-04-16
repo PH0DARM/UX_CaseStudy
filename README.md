@@ -38,7 +38,7 @@ El **objetivo principal** de la investigación es comprender cómo interactúan 
 
 ### 1.b Competitive Analysis
 Hemos realizado un análisis comparativo de tres referentes del sector.
-![Competitive Analysis](P1/CompetitorAnalysis.png)
+![Competitive Analysis](P1/competitor_analysis1.png)
 
 
 Tras el analisis, observamos una clara oportunidad de mercado: **la mayoría de los competidores fallan en la integración total de servicios o en la accesibilidad**. 

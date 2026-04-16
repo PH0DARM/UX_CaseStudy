@@ -146,6 +146,8 @@ Para materializar la arquitectura de información de Pa’ya, hemos desarrollado
 * El club de la comunidad Pa'ya
 ![Comunidad](comunidad.png)
 
+* Inicio de sesión
+![Inicio de sesión](inicio_sesion.png)
 * Perfil de usuario
 ![Perfil](perfil.png) 
 

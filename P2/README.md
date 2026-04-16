@@ -147,7 +147,7 @@ Para materializar la arquitectura de información de Pa’ya, hemos desarrollado
 ![Comunidad](comunidad.png)
 
 * Inicio de sesión
-![Inicio de sesión](inicio_sesion.png)
+![Inicio de sesión](inicioSesion.png)
 * Perfil de usuario
 ![Perfil](perfil.png) 
 

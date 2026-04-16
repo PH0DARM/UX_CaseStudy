@@ -31,10 +31,10 @@ El restaurante elegido como referencia para el análisis es _Buga Ramen_, una ca
  - **Identidad Visual:** La web de Buga Ramen utiliza una paleta de colores muy llamativa y una estética fuertemente asociada a la cultura japonesa.
    
  - **Calidad de Producto:** La reputación del restaurante está asociada a la calidad de sus productos. Nuestro objetivo es trasladar esta percepción positiva también al diseño digital, creando una experiencia coherente entre el producto y la interfaz web.
+ - 
+El **objetivo principal** de la investigación es comprender cómo interactúan los usuarios con plataformas digitales de restaurantes de este tipo, con el fin de diseñar una web intuitiva, accesible y agradable de utilizar.
 
 ![Research Plan](P1/ResearchPlan.png)
-
-El **objetivo principal** de la investigación es comprender cómo interactúan los usuarios con plataformas digitales de restaurantes de este tipo, con el fin de diseñar una web intuitiva, accesible y agradable de utilizar.
 
 ### 1.b Competitive Analysis
 Hemos realizado un análisis comparativo de tres referentes del sector.

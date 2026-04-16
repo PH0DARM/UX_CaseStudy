@@ -33,6 +33,7 @@ Finalmente,se complementará el estudio mediante **entrevistas y encuestas** a u
 
 La combinación de estos métodos permitirá obtener una visión completa del comportamiento de los usuarios y facilitará el desarrollo de nuestra propuesta de diseño centrada en mejorar la experiencia de uso de la plataforma web.
 
+![Research Plan](ResearchPlan.png)
 
 ## 1.b Competitive Analysis
 Hemos realizado un análisis comparativo de tres referentes del sector.

@@ -161,4 +161,7 @@ En esta parte hemos desarrollado los wireframes Lo-Fi en Figma. Hemos definido l
 ![Inicio de sesión](P2/inicioSesion.png)
 
 * Perfil de usuario
-![Perfil](P2/perfil.png) 
+![Perfil](P2/perfil.png)
+
+* Informacion del local
+![Informacion](P2/InformacionLocal.png) 

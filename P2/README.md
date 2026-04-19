@@ -148,8 +148,12 @@ Para materializar la arquitectura de información de Pa’ya, hemos desarrollado
 
 * Inicio de sesión
 ![Inicio de sesión](inicioSesion.png)
+
 * Perfil de usuario
-![Perfil](perfil.png) 
+![Perfil](perfil.png)
+
+* Informacion del Local
+![Informacion](InformacionLocal.png) 
 
 
 ## 5. Conclusiones

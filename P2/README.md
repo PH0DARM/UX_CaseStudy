@@ -132,28 +132,28 @@ Para materializar la arquitectura de información de Pa’ya, hemos desarrollado
 
 
 * Página de inicio
-![Inicio](inicio.png)
+![Inicio](inicio1.png)
 
 * Carta digital
-![Carta](carta.png)
+![Carta](carta1.png)
 
 * Página de reservas
-![Reserva](reservas.png) 
+![Reserva](reservas1.png) 
 
 * Página de próximos eventos
-![Eventos](eventos.png)
+![Eventos](eventos1.png)
 
 * El club de la comunidad Pa'ya
-![Comunidad](comunidad.png)
+![Comunidad](comunidad1.png)
 
 * Inicio de sesión
 ![Inicio de sesión](inicioSesion.png)
 
 * Perfil de usuario
-![Perfil](perfil.png)
+![Perfil](perfil1.png)
 
 * Informacion del Local
-![Informacion](InformacionLocal.png) 
+![Informacion](contacto1.png) 
 
 
 ## 5. Conclusiones

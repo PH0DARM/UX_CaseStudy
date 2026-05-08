@@ -13,7 +13,7 @@ Ahora bien, el elemento que nos diferenciará de los competidores será la promo
 
 Logotipo: 
 
-!Logo](P3/logo.png)
+[!Logo](P3/logo.png)
 
 Eslogan:
 Menos scroll más roll.

@@ -8,10 +8,10 @@
 ## Paso 3. Mi UX-Case Study (diseño)
 
 ### 3.a Moodboard
-![Moodboard](moodboard.png)
+![Moodboard](Moodboard.png)
 
 ### 3.b Landing Page
-![LandingPage](landingpage.png) 
+![LandingPage](LandingPage.png) 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 

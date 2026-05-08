@@ -13,7 +13,10 @@ Ahora bien, el elemento que nos diferenciará de los competidores será la promo
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+!Logo](P3/logo.png)
+
+Eslogan:
+Menos scroll más roll.
 
 Miembros y nombre del equipo: DIU1_PAYA
  * :bust_in_silhouette:  Pablo Hodar Molina     — [:octocat: GitHub](https://github.com/ph0darm)   

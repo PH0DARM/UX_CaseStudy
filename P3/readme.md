@@ -30,10 +30,10 @@ Se han seleccionado tonos que equilibran la frescura de los ingredientes con la 
 
 | Muestra | Color | Uso en la Interfaz |
 | :--- | :--- | :--- |
-| ![#1A4A3A](https://via.placeholder.com/15/1A4A3A?text=+) | **Verde Marino (#1A4A3A)** | Navegación, botones primarios y fondos de sección. |
-| ![#D35400](https://via.placeholder.com/15/D35400?text=+) | **Naranja Koi (#D35400)** | CTAs críticos, acentos visuales y fechas de eventos. |
-| ![#FDF5E6](https://via.placeholder.com/15/FDF5E6?text=+) | **Crema Hueso (#FDF5E6)** | Fondo general (Background) para evitar la fatiga visual. |
-| ![#333333](https://via.placeholder.com/15/333333?text=+) | **Gris Carbono (#333333)** | Textos principales y trazos de ilustraciones. |
+| #1A4A3A | **Verde Marino (#1A4A3A)** | Navegación, botones primarios y fondos de sección. |
+| #D35400 | **Naranja Koi (#D35400)** | CTAs críticos, acentos visuales y fechas de eventos. |
+| #FDF5E6 | **Crema Hueso (#FDF5E6)** | Fondo general (Background) para evitar la fatiga visual. |
+| #333333 | **Gris Carbono (#333333)** | Textos principales y trazos de ilustraciones. |
 
 ### 2.2 Tipografía
 * **Poppins (Bold/Regular):** Utilizada para todos los encabezados (H1-H4) y etiquetas de botones para transmitir modernidad y legibilidad.

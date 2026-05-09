@@ -248,3 +248,6 @@ El diseño se adapta de una grilla de 3 o 4 columnas en escritorio a formatos ve
 
 ### 3.d Mockup
 
+![mockup](P3/mockups.png)
+
+El mockup de alta fidelidad (Hi-Fi) de Ramen Pa’ya presenta un ecosistema digital completo diseñado para ofrecer una experiencia de usuario (UX) inmersiva que integra la gestión gastronómica con la interacción social. La interfaz se estructura a través de nueve pantallas clave que incluyen una Home con jerarquía visual clara basada en el lema "El sabor que nos une", un sistema de reservas optimizado con selectores de fecha y hora, y un perfil de usuario personalizado que utiliza avatares de estilo anime y métricas de actividad (puntos y reseñas). La arquitectura se complementa con una carta digital organizada por categorías (entrantes, calientes, sushi), una sección de eventos comunitarios, mapas de contacto detallados y formularios de registro/login con ilustraciones motivadoras, culminando en el Dōjin Club, un foro social con feed de noticias y tendencias diseñado para fomentar la fidelización.

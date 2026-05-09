@@ -86,4 +86,6 @@ El mockup de alta fidelidad (Hi-Fi) de Ramen Pa’ya presenta un ecosistema digi
 
 ### 3.e Conclusion
 
+La práctica permitió el desarrollo integral de una solución mediante la aplicación de metodologías de diseño UX/UI orientadas a satisfacer las necesidades de una comunidad específica. El proceso abarcó desde la creación de un moodboard estratégico para definir una identidad de marca coherente, hasta la estructuración de una arquitectura de información eficiente basada en sistemas de pestañas y formularios optimizados. Todo esto culminó en el diseño de componentes responsivos y de alta fidelidad, materializados en una landing page y mockups detallados que no solo garantizan la accesibilidad técnica, sino que logran transmitir con precisión la esencia del proyecto, ofreciendo una experiencia visual adaptada y funcional para el público objetivo.
+
 <br>

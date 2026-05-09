@@ -80,7 +80,7 @@ El diseño se adapta de una grilla de 3 o 4 columnas en escritorio a formatos ve
 
 
 ### 3.d Mockup
-!Mockup](mockups.png) 
+![Mockup](mockups.png) 
 
 
 

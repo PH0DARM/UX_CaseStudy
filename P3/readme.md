@@ -80,11 +80,9 @@ El diseño se adapta de una grilla de 3 o 4 columnas en escritorio a formatos ve
 
 
 ### 3.d Mockup
-![Método UX](img/mockup.png) 
-----
+!Mockup](mockups.png) 
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
->>>
+
 
 ### 3.e Conclusion
 

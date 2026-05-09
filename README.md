@@ -167,4 +167,84 @@ En esta parte hemos desarrollado los wireframes Lo-Fi en Figma. Hemos definido l
 ![Perfil](P2/perfil.png)
 
 * Informacion del local
-![Informacion](P2/InformacionLocal.png) 
+![Informacion](P2/InformacionLocal.png)
+
+## 3. Mi UX-Case Study (diseño)
+
+### 3.a Moodboard
+
+Esta marca busca fusionar la tradición japonesa con la energía vibrante del pop art y el anime para proyectar una identidad joven, fresca y cercana. A través del uso estratégico del verde y el naranja, la propuesta intenta alejarse del concepto de comida rápida convencional, posicionándose como un espacio con alma e historia que celebra la cultura y conecta genuinamente con los gustos de su comunidad.
+
+![Moodboard](P3/Moodboard.png)
+
+### 3.b Landing Page
+
+La landing page utiliza el ramen como eje central para promover una experiencia social auténtica bajo el lema "El sabor que nos une". A través de un diseño limpio y directo, la marca busca proyectar transparencia, calidad y pasión, eliminando barreras con el cliente para invitarlo a formar parte de una comunidad. El objetivo final es ofrecer un espacio acogedor donde la tradición y la modernidad convergen, garantizando además una navegación sencilla y una funcionalidad impecable.
+
+![LandingPage](P3/LandingPage.png)
+
+### 3.c Guidelines
+# Guía de Arquitectura y Componentes: Ramen Pa'ya (V3)
+
+## 1. Concepto y Propuesta de Valor
+**Ramen Pa'ya** es una experiencia híbrida que combina la gastronomía japonesa auténtica con una comunidad activa de fans del anime. Bajo el lema **"Menos scroll, más roll"**, la interfaz prioriza la conexión real entre usuarios y una facilidad de uso excepcional.
+
+## 2. Identidad Visual
+
+### 2.1 Paleta de Colores
+Se han seleccionado tonos que equilibran la frescura de los ingredientes con la calidez de la cultura japonesa:
+
+| Muestra | Color | Uso en la Interfaz |
+| :--- | :--- | :--- |
+| #1A4A3A | **Verde Marino (#1A4A3A)** | Navegación, botones primarios y fondos de sección. |
+| #D35400 | **Naranja Koi (#D35400)** | CTAs críticos, acentos visuales y fechas de eventos. |
+| #FDF5E6 | **Crema Hueso (#FDF5E6)** | Fondo general (Background) para evitar la fatiga visual. |
+| #333333 | **Gris Carbono (#333333)** | Textos principales y trazos de ilustraciones. |
+
+### 2.2 Tipografía
+* **Poppins (Bold/Regular):** Utilizada para todos los encabezados (H1-H4) y etiquetas de botones para transmitir modernidad y legibilidad.
+* **Noto Sans JP:** Empleada en textos de párrafo y contenido secundario para aportar un toque cultural japonés y optimizar la lectura de caracteres especiales.
+
+## 3. Layout Global y Navegación
+La estructura se basa en tres áreas constantes para garantizar la consistencia:
+
+1.  **Navbar (Sticky):** Contiene el logotipo, enlaces centrales (Carta, Reservas, Eventos, Comunidad, Contacto) y el acceso a "Mi Cuenta".
+2.  **Área de Contenido:** Espacio dinámico para las diferentes secciones.
+3.  **Footer:** Información legal, políticas de privacidad y copyright.
+
+## 4. Anatomía de Páginas y Componentes
+
+### 4.1 Página de Inicio (Home)
+Presenta un patrón de **Hero Section** con texto descriptivo a la izquierda e imagen de impacto a la derecha. El botón **"Ver la carta"** destaca como el CTA primario. Incluye también una fila de tarjetas para **Eventos Destacados**.
+
+### 4.2 Carta Digital (Navigation Tabs)
+
+Utiliza un sistema de pestañas para la categorización eficiente del menú:
+
+| Componente | Comportamiento |
+| :--- | :--- |
+| **Tabs de Categoría** | Filtro rápido (Entrantes, Ramen, etc.) que refresca el contenido sin recargar la página. |
+| **List Item (Plato)** | Contenedor horizontal con imagen, título y descripción. |
+
+### 4.3 Formulario de Reserva
+Diseñado con campos de gran tamaño para facilitar la interacción:
+* **Input de Número:** Para la selección de comensales.
+* **Date & Time Picker:** Selectores específicos para fecha y hora (intervalos de 30 min).
+* **Botón de Acción:** De ancho completo para optimizar el uso en dispositivos móviles.
+
+### 4.4 Dōjin Club (Community Feed)
+Espacio de interacción social que combina un **Post Composer** (para publicar texto e imágenes) con un **Feed de Actividad** y una barra lateral de tendencias.
+
+### 4.5 Perfil de Usuario (Dashboard)
+Organizado mediante widgets que muestran el avatar, métricas rápidas (puntos, reseñas, visitas) y un historial de actividad reciente.
+
+## 5. Estados de Componentes
+* **Hover State:** Las tarjetas se elevan con una sombra sutil y los botones oscurecen su color un 10%.
+* **Empty States:** Ilustraciones estilo anime con mensajes motivadores cuando no hay contenido disponible.
+* **Loading State:** Spinners personalizados con la forma de un cuenco de ramen girando.
+
+## 6. Adaptabilidad (Responsive Design)
+El diseño se adapta de una grilla de 3 o 4 columnas en escritorio a formatos verticales optimizados para dispositivos móviles.
+
+### 3.d Mockup
+

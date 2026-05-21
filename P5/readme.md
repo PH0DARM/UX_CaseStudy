@@ -36,11 +36,11 @@
 | User4's name             | H / 18        | Estudiante    | Media       | Racional     | Web        | B 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
------
-
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
+Puntos en común con la otra página:
+- Ver la carta
+- Aviso legal
+- Descripción del plato
+- Volver al inicio
 
 
 ### 4.c Cuestionario SUS

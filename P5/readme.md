@@ -54,7 +54,7 @@ Puntos en común con la otra página:
 - Creo que me haria falta ayuda de un expecialista para ser capaz de utilizar el sistema.
 - Encontre el sistema bien integrado.
 - Habia muchas inconsistencias en el sistema.
--Me imagino a la mayoria de gente aprendiendo a usar este sistema de forma muy rapida.
+- Me imagino a la mayoria de gente aprendiendo a usar este sistema de forma muy rapida.
 - Encuentro el sistema muy incomodo de usar.
 - Me senti muy seguro utilizando el sistema.
 - Tuve que aprender muchas cosas antes de poder utilizar de forma correcta el sistema

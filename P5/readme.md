@@ -47,6 +47,18 @@ Puntos en común con la otra página:
 ![Método UX](img/Survey.png) 
 ----
 
+
+- Me gustaria usar esta pagina de forma frecuente.
+- Encontre este sistema innecesariamente complejo.
+- El sistema me parecio facil de usar.
+- Creo que me haria falta ayuda de un expecialista para ser capaz de utilizar el sistema.
+- Encontre el sistema bien integrado.
+- Habia muchas inconsistencias en el sistema.
+-Me imagino a la mayoria de gente aprendiendo a usar este sistema de forma muy rapida.
+- Encuentro el sistema muy incomodo de usar.
+- Me senti muy seguro utilizando el sistema.
+- Tuve que aprender muchas cosas antes de poder utilizar de forma correcta el sistema
+
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)

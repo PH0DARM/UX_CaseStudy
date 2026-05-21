@@ -27,8 +27,8 @@
 | User1's name               | H / 18        | Estudiante    | Media       | Introvertido | Web.       | A 
 | User2's name               | H / 18        | Estudiante    | Media       | Timido       | Web        | A 
 | User2's name               | H / 18        | Estudiante    | Media       | Timido       | Web        | A 
-| Patricia Ocaña Arroyo      | M / 55        | Farmaceútica  | Media       | Emocional    | web        | A y B 
-| Jose Luis García Sorroche  | H / 54        | Guardia Civil | Media       | Racional     | web        | A y B
+| Patricia Ocaña Arroyo      | M / 55        | Farmaceútica  | Media       | Emocional    | web        | A  
+| Jose Luis García Sorroche  | H / 54        | Guardia Civil | Media       | Racional     | web        | A 
 | María Medina Mesa          | M / 86        | Ama de casa   | Baja        | Emocional    | web        | B 
 | Alejandro Madrid Maldonado | H / 21        | Estudiante    | Media       | Racional     | Web        | B 
 | User4's name               | H / 18        | Estudiante    | Media       | Racional     | Web        | B 

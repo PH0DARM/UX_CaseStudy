@@ -24,7 +24,7 @@
 
 | Usuarios                   | Sexo/Edad     | Ocupación     |  Exp.TIC    | Personalidad | Plataforma | Caso
 | -------------------------- | ------------- | ------------- | ----------- | -----------  | ---------- | ----
-| User1's name               | H / 18        | Estudiante    | Media       | Introvertido | Web.       | A 
+| Minerva                | M / 22        | Estudiante    | Alta       | Introvertido | Web.       | A 
 | User2's name               | H / 18        | Estudiante    | Media       | Timido       | Web        | A 
 | User2's name               | H / 18        | Estudiante    | Media       | Timido       | Web        | A 
 | Patricia Ocaña Arroyo      | M / 55        | Farmaceútica  | Media       | Emocional    | web        | A  

@@ -24,16 +24,16 @@
 
 | Usuarios                   | Sexo/Edad     | Ocupación     |  Exp.TIC    | Personalidad | Plataforma | Caso
 | -------------------------- | ------------- | ------------- | ----------- | -----------  | ---------- | ----
-| Minerva                | M / 22        | Estudiante    | Alta       | Introvertido | Web.       | A 
-| User2's name               | H / 18        | Estudiante    | Media       | Timido       | Web        | A 
-| User2's name               | H / 18        | Estudiante    | Media       | Timido       | Web        | A 
-| Patricia Ocaña Arroyo      | M / 55        | Farmaceútica  | Media       | Emocional    | web        | A  
-| Jose Luis García Sorroche  | H / 54        | Guardia Civil | Media       | Racional     | web        | A 
-| María Medina Mesa          | M / 86        | Ama de casa   | Baja        | Emocional    | web        | B 
-| Alejandro Madrid Maldonado | H / 21        | Estudiante    | Media       | Racional     | Web        | B 
-| User4's name               | H / 18        | Estudiante    | Media       | Racional     | Web        | B 
-| User4's name               | H / 18        | Estudiante    | Media       | Racional     | Web        | B 
-| User4's name               | H / 18        | Estudiante    | Media       | Racional     | Web        | B 
+| P01                | M / 22        | Estudiante    | Alta       | Introvertido | Web.       | A 
+| P02               | H / 18        | Estudiante    | Media       | Timido       | Web        | A 
+| P03               | H / 18        | Estudiante    | Media       | Timido       | Web        | A 
+| P04      | M / 55        | Farmaceútica  | Media       | Emocional    | web        | A  
+| P05  | H / 54        | Guardia Civil | Media       | Racional     | web        | A 
+| P06          | M / 86        | Ama de casa   | Baja        | Emocional    | web        | B 
+| P07 | H / 21        | Estudiante    | Media       | Racional     | Web        | B 
+| P08               | H / 18        | Estudiante    | Media       | Racional     | Web        | B 
+| P09               | H / 18        | Estudiante    | Media       | Racional     | Web        | B 
+| P10               | H / 18        | Estudiante    | Media       | Racional     | Web        | B 
 
 ### 4.b Diseño de las pruebas 
 Puntos en común con la otra página:

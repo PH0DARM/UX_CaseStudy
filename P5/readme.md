@@ -95,16 +95,13 @@ El análisis del cuestionario SUS concluye que el Caso A es el ganador indiscuti
 ### 4.d A/B Testing
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
+Para esta prueba de Eye Tracking usamos la aplicación de GazeMapping, se delimitaron los Puntos de Interés (POI) críticos vinculados a nuestras tareas (el acceso a "La Carta" y el botón de "Inicio" / Logotipo). A los usuarios se les guio para realizar búsquedas visuales dirigidas hacia estas zonas.
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+A continuación, se exponen de forma comparativa los mapas de calor obtenidos para cada participante durante la realización de las dos pruebas fijadas.
 
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P01_1.png) | ![U1 Inicio](eye_tracking/P01_2.png) |
 
 
 ### 4.f Usability Report de B

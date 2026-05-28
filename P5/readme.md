@@ -74,17 +74,25 @@ Se trata de pruebas de corta duración que pueden ser supervisadas o no supervis
 - Me senti muy seguro utilizando el sistema.
 - Tuve que aprender muchas cosas antes de poder utilizar de forma correcta el sistema
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+| Usuarios  | Metodo     | SUS Score     |  Evaluacion Linguistica     
+| --------- | ---------- | ------------- | ----------- 
+| P01       |     A      | 92.5          | Excelente       
+| P02       |     A      | 100.0         | Excelente       
+| P03       |     A      | 87.5          | Excelente        
+| P04       |     A      | 97.5          | Excelente       
+| P05       |     A      | 60.0          | Suficiente        
+| P06       |     B      | 67.5          | Suficiente      
+| P07       |     B      | 25.0          | Muy Deficiente       
+| P08       |     B      | 42.5          | Deficiente       
+| P09       |     B      | 60.0          | Suficiente       
+| P10       |     B      | 50.0          | Suficiente 
 
+- Media Final del caso A: 87.5
+- Media Final del caso B: 49.0
+
+El análisis del cuestionario SUS concluye que el Caso A es el ganador indiscutible con una media excelente de 87.5, demostrando ser una interfaz intuitiva y altamente eficiente para resolver tareas básicas como localizar la carta o regresar al inicio, mientras que el Caso B resulta deficiente con una media de 49.0 debido a problemas críticos de navegación e inconsistencias que frustraron incluso a usuarios experimentados. Asimismo, los datos revelan una marcada brecha digital en ambos escenarios: las puntuaciones caen notablemente en los perfiles de la tercera edad con baja experiencia tecnológica (como el 60.0 de P05 en el Caso A y el alarmante 25.0 de P07 en el Caso B).
 
 ### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
-
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)

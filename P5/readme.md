@@ -170,14 +170,3 @@ A continuación, se exponen de forma comparativa los mapas de calor obtenidos pa
 
 [Usability Report](Usability-Report-template.md)
 
-| Herramienta |Pagina               | Resultado     
-| ----------- | ------------------- | -------------- 
-| Lighthouse  |  Creadores          | 4.0     
-| WAVE AIM    |  Principal          | 4.0           
-| WAVE AIM    | Votaciones del mes  | 5.0               
-| WAVE AIM    |   Salón de la Fama  | 4.0              
-| WAVE AIM    |  Creadores          | 6.0   
-| WAVE AIM    |  Perfil de Creador  | 5.8
-
-
-

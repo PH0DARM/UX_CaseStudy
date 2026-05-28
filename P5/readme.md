@@ -96,17 +96,16 @@ En conclusión, el análisis confirma que el Caso A ofrece una experiencia de us
 <br>
 
 ### 5.d A/B Testing
-
-A continuacion se realiza una comparacion directa entre ambos sistemas
+A continuación realizamos una comparación directa entre ambos sistemas:
 
 | Metrica     | Caso A PAYA | Caso B Rescue     
 | ----------- | ----------  | -------------- 
 | Media SUS   |      87.5   | 49.0              
-| Eval Lingui |  Excelente  | Deficiente               
+| Eval Lingüística |  Excelente  | Deficiente               
 | Max Score   |     100.0   | 67.5               
 | Min Score   |     60.0    | 25.0    
 
-El análisis del cuestionario SUS concluye que el Caso A es el ganador indiscutible con una media excelente de 87.5, demostrando ser una interfaz intuitiva y altamente eficiente para resolver tareas básicas como localizar la carta o regresar al inicio, mientras que el Caso B resulta deficiente con una media de 49.0 debido a problemas críticos de navegación e inconsistencias que frustraron incluso a usuarios experimentados
+El análisis del cuestionario SUS concluye que el Caso A es el ganador indiscutible con una media excelente de 87.5, demostrando ser una interfaz intuitiva y altamente eficiente para resolver tareas básicas como localizar la carta o regresar al inicio, mientras que el Caso B resulta deficiente con una media de 49.0 debido a problemas críticos de navegación e inconsistencias que frustraron incluso a usuarios experimentados.
 
 <br>
 

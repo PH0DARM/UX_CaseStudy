@@ -1,7 +1,4 @@
-# DIU - Practica 5, entregables
-
->>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
->>> Se publicará la lista de grupos y los respectivos GitHub
+# Practica 5 - entregables
 
 - Users. Elección y características de los usuarios reclutados
 - Diseño de las pruebas
@@ -14,26 +11,31 @@
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
+Caso asignado (caso B): [DIU3.RESCUE](https://github.com/Practicas-DIU3-RESCUE)
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Para llevar a cabo las pruebas de usabilidad y el análisis comparativo entre nuestra propuesta (Caso A) y el caso asignado (Caso B), se ha seleccionado un grupo de usuarios con perfiles diversos.
+
+El proceso de reclutamiento se basa en una estrategia de muestreo mixto que combina la co-evaluación por pares (intra-testing con compañeros de clase) y pruebas con usuarios externos:
+
+  * Reclutamiento de Co-evaluación (Grupo de clase / Intra-testing): Se han seleccionado 3 participantes de nuestro propio grupo de clase. Al compartir el mismo contexto, su función principal será la evaluación del Caso A (nuestra propia propuesta).
+
+  * Reclutamiento de Usuarios Externos: Se han reclutado participantes adicionales ajenos a la asignatura (familiares, amigos o usuarios potenciales).
+
+A continuación, se detalla la asignación de cada participante:
 
 
-
-| Usuarios                   | Sexo/Edad     | Ocupación     |  Exp.TIC    | Personalidad | Plataforma | Caso
-| -------------------------- | ------------- | ------------- | ----------- | -----------  | ---------- | ----
-| P01                | M / 22        | Estudiante    | Alta       | Introvertido | Web.       | A 
-| P02               | H / 18        | Estudiante    | Media       | Timido       | Web        | A 
-| P03               | H / 18        | Estudiante    | Media       | Timido       | Web        | A 
-| P04      | M / 55        | Farmaceútica  | Media       | Emocional    | web        | A  
-| P05  | H / 54        | Guardia Civil | Media       | Racional     | web        | A 
-| P06          | M / 86        | Ama de casa   | Baja        | Emocional    | web        | B 
-| P07 | H / 21        | Estudiante    | Media       | Racional     | Web        | B 
-| P08               | H / 18        | Estudiante    | Media       | Racional     | Web        | B 
-| P09               | H / 18        | Estudiante    | Media       | Racional     | Web        | B 
-| P10               | H / 18        | Estudiante    | Media       | Racional     | Web        | B 
+| Usuarios  | Sexo/Edad  | Ocupación     |  Exp.TIC    | Caso
+| --------- | ---------- | ------------- | ----------- | -----
+| P01       | M / 22     | Estudiante    | Alta        | A 
+| P02       | M / 20     | Estudiante    | Alta        | A 
+| P03       | H / 21     | Estudiante    | Alta        | A 
+| P04       | M / 19     | Estudiante    | Media       | A  
+| P05       | H / 92     | Jubilado      | Baja        | A 
+| P06       | H / 20     | Estudiante    | Media       | B 
+| P07       | M / 84     | Jubilada      | Baja        | B 
+| P08       | M / 56     | Farmaceútica  | Media       | B 
+| P09       | H / 54     | Policía       | Media       | B 
+| P10       | M / 22     | Estudiante    | Alta        | B 
 
 ### 4.b Diseño de las pruebas 
 Puntos en común con la otra página:

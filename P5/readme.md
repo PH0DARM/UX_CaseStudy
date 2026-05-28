@@ -168,7 +168,7 @@ A continuación, se exponen de forma comparativa los mapas de calor obtenidos pa
 
 ### 5.f Usability Report de B
 
-![Usability Report](Usability-Report-template.md)
+[Usability Report](Usability-Report-template.md)
 
 | Herramienta |Pagina               | Resultado     
 | ----------- | ------------------- | -------------- 

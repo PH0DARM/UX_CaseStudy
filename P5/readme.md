@@ -1,16 +1,8 @@
-# Practica 5 - entregables
+# Practica 5 
 
-- Users. Elección y características de los usuarios reclutados
-- Diseño de las pruebas
-- Realización del Cuestionario SUS para usuarios y casos A y B.
-- Tabla A/B Testing con resultados para A y B
-- Eye Tracking para B
-- Usability Report del Caso B, con toda la información recabada del caso B
+## Paso 5. Pruebas de Evaluación 
 
-
-## Paso 4. Pruebas de Evaluación 
-
-### 4.a Reclutamiento de usuarios 
+### 5.a Reclutamiento de usuarios 
 Caso asignado (caso B): [DIU3.RESCUE](https://github.com/Practicas-DIU3-RESCUE)
 
 Para llevar a cabo las pruebas de usabilidad y el análisis comparativo entre nuestra propuesta (Caso A) y el caso asignado (Caso B), se ha seleccionado un grupo de usuarios con perfiles diversos.
@@ -39,7 +31,7 @@ A continuación, se detalla la asignación de cada participante:
 
 <br>
 
-### 4.b Diseño de las pruebas 
+### 5.b Diseño de las pruebas 
 Se trata de pruebas de corta duración que pueden ser supervisadas o no supervisadas. Hemos diseñado dos tareas específicas que cada usuario deberá resolver en el caso que le haya sido asignado:
 
 **Tarea 1: Visualización y consulta de la carta**
@@ -58,7 +50,7 @@ Se trata de pruebas de corta duración que pueden ser supervisadas o no supervis
 
 <br>
 
-### 4.c Cuestionario SUS
+### 5.c Cuestionario SUS
 
 - Me gustaria usar esta pagina de forma frecuente.
 - Encontre este sistema innecesariamente complejo.
@@ -89,7 +81,7 @@ Se trata de pruebas de corta duración que pueden ser supervisadas o no supervis
 
 El test expone una marcada brecha digital, ya que los perfiles jóvenes y con alta experiencia TIC completaron las tareas con fluidez, mientras que los usuarios de la tercera edad con competencias bajas experimentaron una severa frustración, hundiendo las puntuaciones.
 
-### 4.d A/B Testing
+### 5.d A/B Testing
 
 A continuacion se realiza una comparacion directa entre ambos sistemas
 
@@ -102,7 +94,7 @@ A continuacion se realiza una comparacion directa entre ambos sistemas
 
 El análisis del cuestionario SUS concluye que el Caso A es el ganador indiscutible con una media excelente de 87.5, demostrando ser una interfaz intuitiva y altamente eficiente para resolver tareas básicas como localizar la carta o regresar al inicio, mientras que el Caso B resulta deficiente con una media de 49.0 debido a problemas críticos de navegación e inconsistencias que frustraron incluso a usuarios experimentados
 
-### 4.e Aplicación del método Eye Tracking 
+### 5.e Aplicación del método Eye Tracking 
 Para esta prueba de Eye Tracking usamos la aplicación de GazeMapping, se definieron los Puntos de Interés (POI) vinculados a nuestras tareas (el acceso a "La Carta" y el botón de "Inicio" / Logotipo). A los usuarios se les guió para realizar búsquedas visuales dirigidas hacia estas zonas.
 
 A continuación, se exponen de forma comparativa los mapas de calor obtenidos para cada participante durante la realización de las dos pruebas fijadas.
@@ -158,7 +150,7 @@ A continuación, se exponen de forma comparativa los mapas de calor obtenidos pa
 | ![U1 Carta](eye_tracking/P10_1.png) | ![U1 Inicio](eye_tracking/P10_2.png) |
 
 
-### 4.f Usability Report de B
+### 5.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 

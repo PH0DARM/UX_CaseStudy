@@ -51,17 +51,20 @@ Se trata de pruebas de corta duración que pueden ser supervisadas o no supervis
 <br>
 
 ### 5.c Cuestionario SUS
+Para medir la percepción subjetiva de la usabilidad de ambos sistemas, hemos usado el System Usability Scale (SUS), un instrumento estandarizado que consta de 10 preguntas con respuestas en una escala de 5 puntos (desde "Totalmente en desacuerdo" hasta "Totalmente de acuerdo").
 
-- Me gustaria usar esta pagina de forma frecuente.
-- Encontre este sistema innecesariamente complejo.
-- El sistema me parecio facil de usar.
-- Creo que me haria falta ayuda de un expecialista para ser capaz de utilizar el sistema.
-- Encontre el sistema bien integrado.
-- Habia muchas inconsistencias en el sistema.
-- Me imagino a la mayoria de gente aprendiendo a usar este sistema de forma muy rapida.
-- Encuentro el sistema muy incomodo de usar.
-- Me senti muy seguro utilizando el sistema.
-- Tuve que aprender muchas cosas antes de poder utilizar de forma correcta el sistema
+El cuestionario fue desarrollado de forma online utilizando la plataforma Tally. Para su construcción, tomamos como base la plantilla sugerida y la ampliamos integrando al inicio las preguntas de perfil demográfico, lo que nos ha permitido contextualizar las respuestas de manera precisa.
+
+[Acceso al Cuestionario](https://tally.so/r/EkN5AB)
+
+#### Procesamiento de los datos y resultados obtenidos
+Para la fase de análisis, los datos de las respuestas de los usuarios se recopilaron desde Tally y se procesaron manualmente aplicando el algoritmo de cálculo estandarizado de la escala SUS detallado en la metodología de [UsabilityGeek](https://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/):
+
+ * Para las preguntas impares (afirmaciones positivas): Se resta 1 a la puntuación otorgada por el usuario (X - 1).
+ * Para las preguntas pares (afirmaciones negativas): Se resta la puntuación otorgada por el usuario al número 5 (5 - X).
+ * Puntuación final: Se suman los valores obtenidos en las 10 preguntas y el resultado se multiplica por 2.5 para normalizar la puntuación en un rango de 0 a 100.
+
+Tras realizar este cálculo para cada uno de los participantes obtuvimos la siguiente tabla:
 
 | Usuarios  | Metodo     | SUS Score     |  Evaluacion Linguistica     
 | --------- | ---------- | ------------- | ----------- 
@@ -79,7 +82,16 @@ Se trata de pruebas de corta duración que pueden ser supervisadas o no supervis
 - Media Final del caso A: 87.5
 - Media Final del caso B: 49.0
 
-El test expone una marcada brecha digital, ya que los perfiles jóvenes y con alta experiencia TIC completaron las tareas con fluidez, mientras que los usuarios de la tercera edad con competencias bajas experimentaron una severa frustración, hundiendo las puntuaciones.
+#### Análisis y conclusiones
+Los resultados obtenidos muestran diferencias muy significativas entre ambos sistemas evaluados. El Caso A alcanzó una puntuación media SUS de 87.5, situándose dentro del rango de “excelente usabilidad”, mientras que el Caso B obtuvo una media de 49.0, una valoración claramente inferior a la media recomendada en la escala SUS.
+
+Al relacionar estos resultados con el perfil demográfico y el nivel de experiencia tecnológica de los participantes, se observa una clara influencia de las competencias digitales en la interacción con la interfaz. Los usuarios jóvenes y con mayor experiencia TIC completaron las tareas con rapidez y seguridad, percibiendo el sistema como intuitivo y fácil de utilizar. Esto se refleja especialmente en las puntuaciones elevadas obtenidas por el Caso A.
+
+Sin embargo, en el Caso B se observaron mayores dificultades de uso en varios perfiles de usuarios, independientemente de su nivel de experiencia tecnológica. Entre los principales problemas detectados destacan la falta de claridad en algunos elementos de navegación, la escasa intuición de determinadas funciones y la ausencia de mecanismos de orientación suficientemente visibles. Estas dificultades provocaron momentos de confusión y aumentaron el tiempo necesario para completar las tareas propuestas.
+
+Aunque los usuarios con menor experiencia tecnológica fueron quienes encontraron más barreras durante la interacción, algunos participantes con experiencia media e incluso alta también manifestaron problemas de usabilidad en el Caso B, lo que evidencia deficiencias generales en el diseño de la interfaz y no únicamente limitaciones derivadas del perfil de los usuarios.
+
+En conclusión, el análisis confirma que el Caso A ofrece una experiencia de uso más accesible, intuitiva y consistente que el Caso B. Además, pone de manifiesto la importancia de diseñar interfaces centradas en la diversidad de usuarios, priorizando la claridad visual, la orientación durante la navegación y la simplicidad en la interacción para garantizar una experiencia satisfactoria para todos los perfiles.
 
 <br>
 

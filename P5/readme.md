@@ -81,6 +81,8 @@ Se trata de pruebas de corta duración que pueden ser supervisadas o no supervis
 
 El test expone una marcada brecha digital, ya que los perfiles jóvenes y con alta experiencia TIC completaron las tareas con fluidez, mientras que los usuarios de la tercera edad con competencias bajas experimentaron una severa frustración, hundiendo las puntuaciones.
 
+<br>
+
 ### 5.d A/B Testing
 
 A continuacion se realiza una comparacion directa entre ambos sistemas
@@ -93,6 +95,8 @@ A continuacion se realiza una comparacion directa entre ambos sistemas
 | Min Score   |     60.0    | 25.0    
 
 El análisis del cuestionario SUS concluye que el Caso A es el ganador indiscutible con una media excelente de 87.5, demostrando ser una interfaz intuitiva y altamente eficiente para resolver tareas básicas como localizar la carta o regresar al inicio, mientras que el Caso B resulta deficiente con una media de 49.0 debido a problemas críticos de navegación e inconsistencias que frustraron incluso a usuarios experimentados
+
+<br>
 
 ### 5.e Aplicación del método Eye Tracking 
 Para esta prueba de Eye Tracking usamos la aplicación de GazeMapping, se definieron los Puntos de Interés (POI) vinculados a nuestras tareas (el acceso a "La Carta" y el botón de "Inicio" / Logotipo). A los usuarios se les guió para realizar búsquedas visuales dirigidas hacia estas zonas.
@@ -149,6 +153,7 @@ A continuación, se exponen de forma comparativa los mapas de calor obtenidos pa
 | :---: | :---: |
 | ![U1 Carta](eye_tracking/P10_1.png) | ![U1 Inicio](eye_tracking/P10_2.png) |
 
+<br>
 
 ### 5.f Usability Report de B
 ![Método UX](img/usability-report.png) 

@@ -171,11 +171,12 @@ A continuación, se exponen de forma comparativa los mapas de calor obtenidos pa
 
 | Herramienta |Pagina               | Resultado     
 | ----------- | ------------------- | -------------- 
-| Media SUS   |  Principal          | 4.0           
-| Eval Lingui | Votaciones del mes  | 5.0               
-| Max Score   |   Salón de la Fama  | 4.0              
-| Min Score   |  Creadores          | 6.0   
-| Min Score   |  Perfil de Creador  | 5.8
+| Lighthouse  |  Creadores          | 4.0     
+| WAVE AIM    |  Principal          | 4.0           
+| WAVE AIM    | Votaciones del mes  | 5.0               
+| WAVE AIM    |   Salón de la Fama  | 4.0              
+| WAVE AIM    |  Creadores          | 6.0   
+| WAVE AIM    |  Perfil de Creador  | 5.8
 
 
 

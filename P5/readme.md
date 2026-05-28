@@ -99,9 +99,55 @@ Para esta prueba de Eye Tracking usamos la aplicación de GazeMapping, se delimi
 
 A continuación, se exponen de forma comparativa los mapas de calor obtenidos para cada participante durante la realización de las dos pruebas fijadas.
 
+**Participante 1**
 | Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
 | :---: | :---: |
 | ![U1 Carta](eye_tracking/P01_1.png) | ![U1 Inicio](eye_tracking/P01_2.png) |
+
+**Participante 2**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P02_1.png) | ![U1 Inicio](eye_tracking/P02_2.png) |
+
+**Participante 3**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P03_1.png) | ![U1 Inicio](eye_tracking/P03_2.png) |
+
+**Participante 4**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P04_1.png) | ![U1 Inicio](eye_tracking/P04_2.png) |
+
+**Participante 5**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P05_1.png) | ![U1 Inicio](eye_tracking/P05_2.png) |
+
+**Participante 6**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P06_1.png) | ![U1 Inicio](eye_tracking/P06_2.png) |
+
+**Participante 7**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P07_1.png) | ![U1 Inicio](eye_tracking/P07_2.png) |
+
+**Participante 8**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P08_1.png) | ![U1 Inicio](eye_tracking/P08_2.png) |
+
+**Participante 9**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P09_1.png) | ![U1 Inicio](eye_tracking/P09_2.png) |
+
+**Participante 10**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P10_1.png) | ![U1 Inicio](eye_tracking/P10_2.png) |
 
 
 ### 4.f Usability Report de B

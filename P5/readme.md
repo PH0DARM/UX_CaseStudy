@@ -37,23 +37,26 @@ A continuación, se detalla la asignación de cada participante:
 | P09       | H / 54     | Policía       | Media       | B 
 | P10       | M / 22     | Estudiante    | Alta        | B 
 
+<br>
+
 ### 4.b Diseño de las pruebas 
 Se trata de pruebas de corta duración que pueden ser supervisadas o no supervisadas. Hemos diseñado dos tareas específicas que cada usuario deberá resolver en el caso que le haya sido asignado:
 
 **Tarea 1: Visualización y consulta de la carta**
- * Objetivo: Evaluar la facilidad para encontrar el menú o catálogo de servicios/productos de la página.
+ * Objetivo: Evaluar la facilidad para encontrar el menú de productos de la página.
 
  * Acción del usuario: El participante deberá navegar por la interfaz hasta localizar y abrir la sección de "La Carta".
 
  * Métricas a observar: Tiempo empleado, claridad en el etiquetado del menú de navegación y número de clics necesarios.
 
 **Tarea 2: Retorno a la página de inicio**
- * Objetivo: Validar los mecanismos de orientación y la consistencia de la navegación estructural de la web.
+ * Objetivo: Validar los mecanismos de orientación y la consistencia de la navegación de la web.
 
- * Acción del usuario: Una vez dentro de una sección interna (o tras realizar la Tarea 1), el participante deberá regresar a la pantalla principal del sitio.
+ * Acción del usuario: Una vez realizada la Tarea 1, el participante deberá regresar a la pantalla principal del sitio.
 
  * Métricas a observar: Uso del logotipo como enlace de retorno vs. uso del botón "Inicio" en el menú, y si el usuario se siente desorientado en el proceso.
 
+<br>
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 

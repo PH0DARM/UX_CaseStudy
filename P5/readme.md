@@ -95,7 +95,7 @@ El análisis del cuestionario SUS concluye que el Caso A es el ganador indiscuti
 ### 4.d A/B Testing
 
 ### 4.e Aplicación del método Eye Tracking 
-Para esta prueba de Eye Tracking usamos la aplicación de GazeMapping, se delimitaron los Puntos de Interés (POI) críticos vinculados a nuestras tareas (el acceso a "La Carta" y el botón de "Inicio" / Logotipo). A los usuarios se les guio para realizar búsquedas visuales dirigidas hacia estas zonas.
+Para esta prueba de Eye Tracking usamos la aplicación de GazeMapping, se definieron los Puntos de Interés (POI) vinculados a nuestras tareas (el acceso a "La Carta" y el botón de "Inicio" / Logotipo). A los usuarios se les guió para realizar búsquedas visuales dirigidas hacia estas zonas.
 
 A continuación, se exponen de forma comparativa los mapas de calor obtenidos para cada participante durante la realización de las dos pruebas fijadas.
 

@@ -168,19 +168,14 @@ A continuación, se exponen de forma comparativa los mapas de calor obtenidos pa
 <br>
 
 ### 5.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
-<br>
-
-
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona
->>>
+| Herramienta |Pagina               | Resultado     
+| ----------- | ------------------- | -------------- 
+| Media SUS   |  Principal          | 4.0           
+| Eval Lingui | Votaciones del mes  | 5.0               
+| Max Score   |   Salón de la Fama  | 4.0              
+| Min Score   |  Creadores          | 6.0   
+| Min Score   |  Perfil de Creador  | 5.8
 
 
 

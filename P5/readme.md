@@ -127,7 +127,7 @@ A continuación, se exponen de forma comparativa los mapas de calor obtenidos pa
 **Participante 6**
 | Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
 | :---: | :---: |
-| ![U1 Carta](eye_tracking/P06_1.png) | ![U1 Inicio](eye_tracking/P06_2.png) |
+| ![U1 Carta](eye_tracking/P06_1.png) | ![U1 Inicio](eye_tracking/p06_2.png) |
 
 **Participante 7**
 | Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |

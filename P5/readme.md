@@ -59,9 +59,6 @@ Se trata de pruebas de corta duración que pueden ser supervisadas o no supervis
 <br>
 
 ### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-----
-
 
 - Me gustaria usar esta pagina de forma frecuente.
 - Encontre este sistema innecesariamente complejo.
@@ -90,9 +87,20 @@ Se trata de pruebas de corta duración que pueden ser supervisadas o no supervis
 - Media Final del caso A: 87.5
 - Media Final del caso B: 49.0
 
-El análisis del cuestionario SUS concluye que el Caso A es el ganador indiscutible con una media excelente de 87.5, demostrando ser una interfaz intuitiva y altamente eficiente para resolver tareas básicas como localizar la carta o regresar al inicio, mientras que el Caso B resulta deficiente con una media de 49.0 debido a problemas críticos de navegación e inconsistencias que frustraron incluso a usuarios experimentados. Asimismo, los datos revelan una marcada brecha digital en ambos escenarios: las puntuaciones caen notablemente en los perfiles de la tercera edad con baja experiencia tecnológica (como el 60.0 de P05 en el Caso A y el alarmante 25.0 de P07 en el Caso B).
+El test expone una marcada brecha digital, ya que los perfiles jóvenes y con alta experiencia TIC completaron las tareas con fluidez, mientras que los usuarios de la tercera edad con competencias bajas experimentaron una severa frustración, hundiendo las puntuaciones.
 
 ### 4.d A/B Testing
+
+A continuacion se realiza una comparacion directa entre ambos sistemas
+
+| Metrica     | Caso A PAYA | Caso B Rescue     
+| ----------- | ----------  | -------------- 
+| Media SUS   |      87.5   | 49.0              
+| Eval Lingui |  Excelente  | Deficiente               
+| Max Score   |     100.0   | 67.5               
+| Min Score   |     60.0    | 25.0    
+
+El análisis del cuestionario SUS concluye que el Caso A es el ganador indiscutible con una media excelente de 87.5, demostrando ser una interfaz intuitiva y altamente eficiente para resolver tareas básicas como localizar la carta o regresar al inicio, mientras que el Caso B resulta deficiente con una media de 49.0 debido a problemas críticos de navegación e inconsistencias que frustraron incluso a usuarios experimentados
 
 ### 4.e Aplicación del método Eye Tracking 
 Para esta prueba de Eye Tracking usamos la aplicación de GazeMapping, se definieron los Puntos de Interés (POI) vinculados a nuestras tareas (el acceso a "La Carta" y el botón de "Inicio" / Logotipo). A los usuarios se les guió para realizar búsquedas visuales dirigidas hacia estas zonas.

@@ -128,12 +128,18 @@ Recomendación: Verificar manualmente con un lector de pantalla que cada uno de 
 
 ## 5. Conclusiones y Declaración de Conformidad
 
-Resume el estado actual:
+El sitio web cumple parcialmente con el nivel AA de las WCAG 2.1. Aunque la puntuación automatizada de Lighthouse arroja un notable 90/100, la auditoría detallada desvela barreras que impiden una conformidad total.
 
-- **¿Es el sitio accesible?** (Ej: "El sitio cumple parcialmente con el nivel AA, pero presenta barreras críticas en el proceso de compra").
-- **Próximos pasos:** Lista de 3 acciones inmediatas para mejorar la puntuación.
+La solución de diseño web en una sola página (One-Page) cuenta con una buena base semántica, pero adolece de problemas críticos en la percepción del color (textos corporativos rojos que se pierden en el fondo oscuro) y fallos de operabilidad por teclado (ausencia de indicador de foco). Además, la presencia de enlaces interactivos que no conducen a un contenido real o secundario frustra la experiencia del usuario que depende de tecnologías asistivas.
 
+Próximos Pasos (Acciones Inmediatas)
+Para solventar las barreras identificadas y consolidar el nivel AA, se deben priorizar las siguientes tres acciones de forma urgente:
 
+Garantizar la Navegación por Teclado: Implementar mediante CSS las reglas de :focus-visible en todos los elementos interactivos (botones de compra y votación) para asegurar que el foco sea perfectamente visible.
+
+Corregir la Paleta de Contraste: Modificar el código de color de los eslóganes y textos críticos bajo fondo oscuro, sustituyendo el rojo corporativo actual y el gris atenuado por variantes que superen el ratio mínimo exigido por el nivel AA.
+
+Complertar la pagina: Completar los enlaces de la pagina para que estos tengan una redireccion y no haya enlaces los cuales no redirijan a ningun lado ya que esto para un usuario puede ser frustante.
 
 
 

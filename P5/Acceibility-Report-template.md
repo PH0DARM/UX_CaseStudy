@@ -116,10 +116,6 @@ Recomendación: Verificar manualmente con un lector de pantalla que cada uno de 
 
 ## 4. Tabla de Hallazgos y Prioridades
 
-## 4. Tabla de Hallazgos y Prioridades
-
-## 4. Tabla de Hallazgos y Prioridades (Análisis POUR)
-
 | ID | Principio POUR | Prioridad | Páginas Afectadas | Criterio WCAG | Error Detectado | Recomendación Técnica |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **ACC-01** | Perceptible | 🔴 Alta | Inicio (General) | 1.4.3 Contraste (AA) | 5 errores de contraste en texto rojo corporativo y descripciones gris medio sobre fondo oscuro. | Cambiar el texto rojo por un tono más claro/brillante, o usar blanco (`#FFFFFF`). Aumentar el brillo de los textos grises pequeños. |

@@ -2,31 +2,26 @@
 
 <img src="https://img.uxcel.com/cdn-cgi/image/format=auto/practices/wcag-principles-overview-1742315821212/a-1742315821212-2x.jpg" alt="usability Download png" style="height:200px" />
 
+Cabe destacar como aviisamos en clase que para la usabilidad como los integrantes de Rescue no tenian en el repositorio la pagina lanzada, tuvimos que hacerlo con unos mockups incompletos los cuales tenian subidos, sin embargo con como para el estudio de accesibilidad necesitamos poder acceder a la pagina usaremos el lanzamiento que estos hicieron de la pagina mas tarde por lo que no coincidira la accesibilidad con la usabilidad.
+
 ## 1. Ficha Técnica del Informe
 
 Antes de entrar en detalles, define el alcance.
 
-- **Nombre del proyecto:** (Diseño A o Diseño B).
-- **Normativa de referencia:** WCAG 2.1 o 2.2 (Nivel AA).
-- **Herramientas utilizadas:** (Ej: Lighthouse, WAVE, axe DevTools).
-- **Fecha de la auditoría:** El estado de la web cambia, es vital poner fecha.
-
-
-
-NOTA: El marco normativo para la web, el estándar es el **WCAG (Web Content Accessibility Guidelines)**.
-
-- **Nivel de conformidad:** Generalmente se busca el **AA** (el estándar legal para sitios públicos y empresas), Versión  **WCAG 2.1 o 2.2**. Referencia: norma **UNE-EN 301549** 
-
-
+- **Nombre del proyecto:** Diseño B DIU3.RESCUE
+- **Normativa de referencia:** WCAG 2.1 — Nivel AA / Norma UNE-EN 301549
+- **Herramientas utilizadas:** Lighthouse, WAVE.
+- **Fecha de la auditoría:** 29 de mayo de 2026
 
 ## 2. Puntuaciones Globales (Métricas Automáticas)
 
-Presenta una visión general rápida. Usa los "scores" que te dan las herramientas.
+### Lighthouse de la àgina principal
 
-- **Lighthouse Accessibility Score:** (Ej: 85/100).
-- **WAVE Summary:** Número de errores críticos, alertas y errores de contraste.
+| Métrica          | Resultado          |
+| ---------------- | ------------------ |
+| Accesibilidad    | 90/100             |
 
-
+Un 90 en la categoría de Accesibilidad de Lighthouse significa que tu web está en la zona verde (excelente), lo que demuestra el diseño cumplen con la gran mayoría de los estándares internacionales para que personas con discapacidades (visuales, motoras o cognitivas) puedan navegar sin barreras. Esto implica que el sitio cuenta con un buen contraste de color, etiquetas HTML semánticas correctas y compatibilidad con lectores de pantalla o navegación por teclado. Sin embargo hay algun aspecto a mejorar como que los elementos de encabezado no aparecen en orden secuencial descendente.
 
 ## 3. Análisis por Principios (POUR)
 

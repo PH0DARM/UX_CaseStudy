@@ -118,16 +118,17 @@ Recomendación: Verificar manualmente con un lector de pantalla que cada uno de 
 
 ## 4. Tabla de Hallazgos y Prioridades
 
-| ID | Prioridad | Páginas afectadas | Criterio WCAG | Error detectado | Recomendación técnica |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **ACC-01** | 🔴 Alta | Carta, Pedir Online | 1.4.3 Contraste | Texto sobre tarjetas rojas y grises sin contraste suficiente sobre el fondo oscuro. | Cambiar texto a un tono más claro/brillante, o fondo a `#FFFFFF`. |
-| **ACC-02** | 🔴 Alta | Todas | 1.1.1 Contenido no textual | Elemento interactivo / campo de texto en cabecera sin etiqueta descriptiva (`label`). | Añadir `aria-label="Iniciar sesión"` o `aria-label="Buscar"` según corresponda. |
-| **ACC-03** | 🟠 Media | Reseñas | 1.3.1 / 3.3.2 | Campos de formulario y opiniones sin etiquetas explícitas o con saltos de jerarquía en títulos. | Añadir la etiqueta `<label>` asociada a cada input y reestructurar títulos secuencialmente. |
-| **ACC-04** | 🟠 Media | Todas | 2.4.6 Encabezados | Títulos visuales no marcados en orden secuencial descendente (`<h1>` / `<h2>` / `<h3>`). | Implementar una jerarquía estricta de headings en el HTML sin saltarse niveles intermedios. |
-| **ACC-05** | 🟠 Media | Todas | 1.3.1 Info y relaciones | Estructura sin regiones semánticas principales ni landmarks definidos (`<main>`, `<nav>`, `<footer_>`). | Añadir las etiquetas nativas de landmarks de HTML5 para delimitar las zonas de la página. |
-| **ACC-06** | 🟡 Baja | Pedir Online | 2.4.4 Propósito de enlaces | Enlace redundante o vacío en logotipos superiores de cabecera sin texto descriptivo. | Eliminar el enlace duplicado adyacente o añadir un atributo `aria-label` explícito. |
-| **ACC-07** | 🟡 Baja | Reserva | 3.2.4 Identificación consistente | Selector de hora configurado en formato AM/PM para una interfaz española. | Cambiar las opciones de selección del componente nativo a formato horario de 24h. |
-| **ACC-08** | 🟡 Baja | Todas | 3.2.4 Identificación consistente | Presencia de 3 bloques de texto subrayados en el cuerpo de la web que no son enlaces. | Eliminar el subrayado decorativo de los textos no enlazados para evitar confusión. |
+## 4. Tabla de Hallazgos y Prioridades (Análisis POUR)
+
+| ID | Principio POUR | Prioridad | Páginas Afectadas | Criterio WCAG | Error Detectado | Recomendación Técnica |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **ACC-01** | Perceptible | 🔴 Alta | Inicio (General) | 1.4.3 Contraste (AA) | 5 errores de contraste en texto rojo corporativo y descripciones gris medio sobre fondo oscuro. | Cambiar el texto rojo por un tono más claro/brillante, o usar blanco (`#FFFFFF`). Aumentar el brillo de los textos grises pequeños. |
+| **ACC-02** | Perceptible | 🔴 Alta | Cabecera | 1.1.1 Contenido no textual (A) | 1 error crítico. Icono interactivo o campo de texto en la zona superior carece de etiqueta/descripción. | Añadir un atributo `aria-label` en el HTML que describa la función exacta (ej. `aria-label="Iniciar sesión"`). |
+| **ACC-03** | Perceptible | 🟡 Media | Inicio (General) | 1.3.1 Información y relaciones (A) | Saltos de jerarquía incorrectos en los encabezados (alertas amarillas en WAVE). | Corregir las etiquetas HTML para que sigan un orden numérico estricto y lógico (`<h1>` -> `<h2>` -> `<h3>`) sin saltar niveles. |
+| **ACC-04** | Operable | 🟡 Media | Cabecera | 2.4.4 Propósito de los enlaces (A) | Enlaces vacíos o redundantes. Los logotipos o menús actúan como enlaces duplicados hacia el inicio. | Eliminar enlaces duplicados adyacentes o unificar el logotipo y el texto bajo un único contenedor interactivo. |
+| **ACC-05** | Operable | 🔴 Alta | General (Botones) | 2.4.7 Foco visible (AA) | Los botones "¡Que gane la mejor!" y "Pedir ahora" no muestran un contorno de alto contraste al navegar con teclado. | Asegurar por CSS un anillo de enfoque claro y llamativo al recibir el foco usando las pseudoclases `:focus` o `:focus-visible`. |
+| **ACC-06** | Comprensible | 🟢 Baja | Todas (Navegación) | 3.2.3 Navegación consistente (AA) | Necesidad de asegurar consistencia en el menú superior y botones para no romper la carga cognitiva. | Mantener exactamente el mismo orden, diseño y nomenclatura en el Header y Footer a lo largo de todo el sitio web. |
+| **ACC-07** | Robusto | 🟡 Media | Elementos Dinámicos | 4.1.2 Nombre, función, valor (A) | Uso elevado de elementos dinámicos (15 etiquetas ARIA) con riesgo de desactualización si se programan mal. | Verificar manualmente con lector de pantalla que los atributos (como `aria-expanded` o `aria-live`) cambien de estado correctamente. |
 
 ## 5. Conclusiones y Declaración de Conformidad
 

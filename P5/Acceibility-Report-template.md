@@ -73,61 +73,61 @@ Recomendación: Corregir las etiquetas HTML para que sigan un orden numérico es
 
 ### B. Operable
 
-- **Hallazgo:** "Indicador de foco invisible en el menú".
-- **Impacto:** Un usuario que navega con teclado no sabe dónde está situado.
-- **Solución:** Definir un estilo CSS para `:focus` con alto contraste.
+Hallazgo ACC-04 — Enlaces vacíos o redundantes (Suspicious/Broken link)
+Asociado a 1 de las alertas de WAVE en la cabecera, se detecta que los logotipos superiores o elementos del menú actúan como enlaces hacia la misma página de inicio sin una separación ni descripción clara.
 
+Criterio WCAG: 2.4.4 — Propósito de los enlaces (Nivel A).
+
+Impacto: Usuarios que navegan con teclado o lectores de pantalla pasarán dos veces por el mismo destino de forma repetitiva, ralentizando su navegación y generando confusión.
+
+Recomendación: Eliminar los enlaces duplicados adyacentes o unificar el logotipo y el texto bajo un único contenedor interactivo con un destino claro.
+
+Hallazgo ACC-05 — Ausencia de indicador de foco visual (Focus Visible sospechoso)
+Al evaluar el diseño general, los botones como "¡Que gane la mejor!" y "Pedir ahora" no muestran en sus estados por defecto un contorno de alto contraste preparado para la selección mediante teclado.
+
+Criterio WCAG: 2.4.7 — Foco visible (Nivel AA).
+
+Impacto: Un usuario que navegue sin ratón utilizando la tecla Tab no sabrá visualmente en qué botón o sección de la pantalla está posicionado en cada momento.
+
+Recomendación: Asegurar por CSS que todos los elementos interactivos muestren un anillo de enfoque claro y llamativo al recibir el foco (usando :focus o :focus-visible con un color contrastado como el blanco).
 
 
 ### C. Comprensible
 
-- **Hallazgo:** "Los mensajes de error de formulario no son claros".
-- **Impacto:** El usuario no sabe cómo corregir el campo para avanzar.
-- **Solución:** Vincular el error con el input mediante `aria-describedby`.
+Hallazgo ACC-09 — Consistencia en la navegación y etiquetas
+La estructura de navegación superior ("Inicio", "Pide y Vota", "Salón de la Fama") y los botones de acción deben mantener un comportamiento predecible en todo el sitio web.
 
+Criterio WCAG: 3.2.3 — Navegación consistente (Nivel AA).
+
+Impacto: Si al cambiar de sección el menú se mueve de lugar o los botones cambian drásticamente su diseño o nombre para realizar la misma acción, se rompe la carga cognitiva del usuario, generando desorientación.
+
+Recomendación: Mantener exactamente el mismo orden, diseño y nomenclatura en el encabezado (Header) y pie de página (Footer) en todas las páginas del proyecto.
 
 
 ### D. Robusto
 
-- **Hallazgo:** "IDs duplicados en el código HTML".
-- **Impacto:** Los lectores de pantalla pueden saltarse contenido o confundir elementos.
-- **Solución:** Validar el HTML y asegurar identificadores únicos.
+WAVE detectó un uso elevado de elementos dinámicos (15 etiquetas ARIA). Estas etiquetas sirven para explicar a las tecnologías asistivas qué hace un componente cuando cambian cosas en la pantalla sin recargar la página.
 
+Criterio WCAG: 4.1.2 — Nombre, función, valor (Nivel A).
 
+Impacto: Si estos atributos ARIA están mal programados, quedan desactualizados o apuntan a elementos incorrectos, el lector de pantalla le dará información falsa a un usuario invidente sobre el estado real de la web (por ejemplo, anunciará que un menú está "cerrado" cuando en realidad visualmente ya está "abierto").
 
-El informe deberá organizar los resultados en esta 4 categorias: 
-
-| **Categoría**    | **Qué analizar (Ejemplos)**                                  |
-| ---------------- | ------------------------------------------------------------ |
-| **Perceptible**  | Contraste de colores, texto alternativo en imágenes (`alt`), subtítulos. |
-| **Operable**     | Navegación por teclado, tiempo suficiente para leer, evitar destellos. |
-| **Comprensible** | Idioma de la página definido, formularios claros, errores fáciles de corregir. |
-| **Robusto**      | Código limpio (HTML válido) para que los lectores de pantalla funcionen. |
-
-Un ejemplo de resultado sería: 
-
-* **Perceptible:**  
-  * Error detectado: **Falta de contraste en el botón de reservar**.
-  * **Criterio WCAG incumplido:** "Criterio 1.4.3 - Contraste mínimo".
-  * **Impacto:** "Los usuarios con visión baja no pueden identificar la acción principal".
-  * **Recomendación de mejora:** "Cambiar el color del texto de gris claro a negro (#000000)".
-
-El informe debería dar una **valoracion general de accesibilidad** e incluir al menos **2-3 resultados identificados y clasificados adecuadamente**. 
-
-
-
-
+Recomendación: Verificar manualmente con un lector de pantalla que cada uno de los 15 atributos ARIA (como aria-expanded, aria-hidden o aria-live) cambie su estado correctamente en el código cuando el usuario interactúe con la web.
 
 ## 4. Tabla de Hallazgos y Prioridades
 
-Organiza los errores técnicos de forma que el equipo sepa qué arreglar primero.
+## 4. Tabla de Hallazgos y Prioridades
 
-| **ID**     | **Prioridad** | **Criterio WCAG**          | **Error detectado**                  | **Recomendación Técnica**     |
-| ---------- | ------------- | -------------------------- | ------------------------------------ | ----------------------------- |
-| **ACC-01** | **Crítica**   | 1.4.3 Contraste            | Texto gris sobre fondo blanco.       | Cambiar a color #333333.      |
-| **ACC-02** | **Alta**      | 1.1.1 Contenido no textual | Icono de "Cerrar" sin etiqueta.      | Añadir `aria-label="Cerrar"`. |
-| **ACC-03** | **Media**     | 2.4.1 Evitar bloques       | No hay enlace "Saltar al contenido". | Implementar un *Skip Link*.   |
-
+| ID | Prioridad | Páginas afectadas | Criterio WCAG | Error detectado | Recomendación técnica |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **ACC-01** | 🔴 Alta | Carta, Pedir Online | 1.4.3 Contraste | Texto sobre tarjetas rojas y grises sin contraste suficiente sobre el fondo oscuro. | Cambiar texto a un tono más claro/brillante, o fondo a `#FFFFFF`. |
+| **ACC-02** | 🔴 Alta | Todas | 1.1.1 Contenido no textual | Elemento interactivo / campo de texto en cabecera sin etiqueta descriptiva (`label`). | Añadir `aria-label="Iniciar sesión"` o `aria-label="Buscar"` según corresponda. |
+| **ACC-03** | 🟠 Media | Reseñas | 1.3.1 / 3.3.2 | Campos de formulario y opiniones sin etiquetas explícitas o con saltos de jerarquía en títulos. | Añadir la etiqueta `<label>` asociada a cada input y reestructurar títulos secuencialmente. |
+| **ACC-04** | 🟠 Media | Todas | 2.4.6 Encabezados | Títulos visuales no marcados en orden secuencial descendente (`<h1>` / `<h2>` / `<h3>`). | Implementar una jerarquía estricta de headings en el HTML sin saltarse niveles intermedios. |
+| **ACC-05** | 🟠 Media | Todas | 1.3.1 Info y relaciones | Estructura sin regiones semánticas principales ni landmarks definidos (`<main>`, `<nav>`, `<footer_>`). | Añadir las etiquetas nativas de landmarks de HTML5 para delimitar las zonas de la página. |
+| **ACC-06** | 🟡 Baja | Pedir Online | 2.4.4 Propósito de enlaces | Enlace redundante o vacío en logotipos superiores de cabecera sin texto descriptivo. | Eliminar el enlace duplicado adyacente o añadir un atributo `aria-label` explícito. |
+| **ACC-07** | 🟡 Baja | Reserva | 3.2.4 Identificación consistente | Selector de hora configurado en formato AM/PM para una interfaz española. | Cambiar las opciones de selección del componente nativo a formato horario de 24h. |
+| **ACC-08** | 🟡 Baja | Todas | 3.2.4 Identificación consistente | Presencia de 3 bloques de texto subrayados en el cuerpo de la web que no son enlaces. | Eliminar el subrayado decorativo de los textos no enlazados para evitar confusión. |
 
 ## 5. Conclusiones y Declaración de Conformidad
 

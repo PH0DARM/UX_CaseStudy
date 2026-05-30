@@ -87,18 +87,13 @@ En conjunto, el análisis por ítems confirma que los principales problemas de D
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
-[Presenta la evidencia visual del comportamiento del usuario]
 
 - **Heatmaps (Mapas de calor):** Incluye las capturas de GazeMapping. Comenta si los usuarios miraron los **POI** (Puntos de Interés) definidos.
 - **Zonas de Silencio:** Identifica elementos importantes que fueron totalmente ignorados.
 - **Hallazgo clave:** Ejemplo: "El 80% de los usuarios ignoró el botón de CTA debido a su ubicación en el margen inferior".
 
 ## 5. Auditoría de Accesibilidad
-
-Sintetiza el cumplimiento técnico y normativo.
-
-- **Puntuación Automática:** (Lighthouse/WAVE).
-- **Principales barreras:** Lista los errores críticos (contraste, falta de etiquetas, etc.) y cómo afectan a los usuarios con discapacidad.
+[Enlace al informe de accesibilidad](Accesibility-Report-template.md)
 
 ## 6. Conclusiones y Recomendaciones (Actionable Insights)
 

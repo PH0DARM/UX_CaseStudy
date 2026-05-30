@@ -93,7 +93,7 @@ En conjunto, el análisis por ítems confirma que los principales problemas de D
 - **Hallazgo clave:** Ejemplo: "El 80% de los usuarios ignoró el botón de CTA debido a su ubicación en el margen inferior".
 
 ## 5. Auditoría de Accesibilidad
-[Enlace al informe de accesibilidad](Accesibility-Report-template.md)
+[Enlace al informe de accesibilidad](Acceibility-Report-template.md)
 
 ## 6. Conclusiones y Recomendaciones (Actionable Insights)
 

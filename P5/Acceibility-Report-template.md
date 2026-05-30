@@ -1,4 +1,4 @@
-# Accesibility Report (template)
+# Accesibility Report
 
 <img src="https://img.uxcel.com/cdn-cgi/image/format=auto/practices/wcag-principles-overview-1742315821212/a-1742315821212-2x.jpg" alt="usability Download png" style="height:200px" />
 

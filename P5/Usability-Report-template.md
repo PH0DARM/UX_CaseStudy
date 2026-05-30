@@ -1,42 +1,53 @@
 # Usability Report
 
+### Evaluación de usabilidad del proyecto DIU3.RESCUE
+[Enlace a GITHUB del proyecto](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
 
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="height:150px" />
-
-### Evaluación de usabilidad del proyecto  [NOMBRE PROYECTO]
-
-[Fecha]
-
-[img Proyecto]
-
-[Enlace a GITHUB del proyecto]
-
-### Realizado por:  
-
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
- 
-
+Informe realizado por Equipo DIU1.PA'YA 
 
 ## 1 RESUMEN EJECUTIVO  (Executive Summary)
 
-[ Es la sección más importante para los interesados (stakeholders). Debe ocupar una sola página] .
+### Objetivo
+El objetivo de este informe es evaluar la usabilidad del sistema DIU3.RESCUE mediante la aplicación de diferentes técnicas de evaluación centradas en el usuario. Se pretende identificar problemas de navegación, accesibilidad y experiencia de usuario que puedan afectar a la interacción con la plataforma.
 
-- **Objetivo:** ¿Qué evaluamos y por qué?
-- **Metodología:** Breve mención del A/B Testing, SUS y Eye Tracking.
-- **Principales Hallazgos:** Los 3 puntos más críticos encontrados.
-- **Resultado Global:** Puntuación SUS media y si el diseño es "Aceptable" o no.
+### Metodología
+La evaluación se llevó a cabo utilizando tres técnicas complementarias:
+ - Cuestionario System Usability Scale (SUS) para medir la percepción subjetiva de usabilidad.
+ - Análisis Eye Tracking mediante GazeMapping para estudiar la atención visual de los usuarios.
+ - Auditoría de accesibilidad basada en herramientas automáticas y revisión manual.
 
+### Principales Hallazgos
+ - Los usuarios encontraron dificultades para orientarse durante la navegación y localizar determinadas funcionalidades.
+ - Algunos elementos importantes de la interfaz recibieron poca atención visual durante las pruebas.
+ - La puntuación SUS obtenida refleja una percepción de usabilidad inferior a la recomendada para aplicaciones con una buena experiencia de usuario.
+  
+### Resultado Global
+DIU3.RESCUE obtuvo una puntuación media SUS de 49.0 puntos. Según la interpretación estándar de la escala SUS, este resultado indica una usabilidad deficiente y pone de manifiesto la necesidad de realizar mejoras en distintos aspectos de la interfaz.
 
 ## 2. Metodología y Reclutamiento
 
-[Describe el "cómo"]
+### Perfil de los participantes
+La evaluación se realizó con usuarios de diferentes edades, ocupaciones y niveles de experiencia tecnológica. Los participantes presentaban perfiles variados, desde estudiantes universitarios con alta experiencia digital hasta personas de edad avanzada con competencias tecnológicas más limitadas.
 
-- **Perfil de los participantes:** Resumen de la tabla demográfica (edad media, nivel digital).
-- **Escenario de la prueba:** Descripción de las tareas que realizaron los usuarios.
-- **Herramientas:** Mención de **GazeMapping**, Tally y herramientas de accesibilidad.
+Esta diversidad permitió analizar el comportamiento de distintos tipos de usuarios ante las funcionalidades ofrecidas por el sistema.
+
+### Escenario de la prueba
+Los participantes realizaron dos tareas principales:
+
+#### Tarea 1. Consulta de la carta
+El usuario debía localizar y acceder a la sección correspondiente al menú de productos.
+
+#### Tarea 2. Retorno a la página principal
+Una vez finalizada la tarea anterior, el usuario debía regresar a la página de inicio utilizando los mecanismos de navegación disponibles.
+
+
+Durante las pruebas se observaron tiempos de ejecución, errores de navegación, dudas de orientación y comportamiento visual.
+
+### Herramientas
+ - Tally para la recogida de respuestas del cuestionario SUS.
+ - GazeMapping para la obtención de mapas de calor y análisis visual.
+ - Lighthouse y WAVE (Web Accessibility Evaluation Tool) como herramientas de evaluación de accesibilidad.
+
 
 ## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 

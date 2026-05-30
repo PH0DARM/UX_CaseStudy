@@ -1,9 +1,7 @@
 # Usability Report
 
 ### Evaluación de usabilidad del proyecto DIU3.RESCUE
-[Enlace a GITHUB del proyecto](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
-
-Informe realizado por Equipo DIU1.PA'YA 
+[Enlace a GITHUB del proyecto DIU3.RESCUE](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy). Informe realizado por Equipo DIU1.PA'YA 
 
 ## 1 RESUMEN EJECUTIVO  (Executive Summary)
 

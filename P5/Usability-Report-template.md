@@ -140,9 +140,8 @@ Los resultados obtenidos muestran problemas relacionados con la visibilidad de d
 | **Prioridad**      | **Hallazgo**                                                 | **Recomendación de Mejora**                                  |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **🔴Alta (Crítica)** | **Etiquetado confuso de la Carta** El mapa de calor muestra una búsqueda visual dispersa debido a que la carta está oculta bajo el nombre no intuitivo de "Paseo de la Fama" | Cambiar el nombre del enlace del menú a etiquetas claras y convencionales como "Carta" o "Menú", garantizando su localización directa con un solo clic. |
-| **🔴Alta (Crítica)** | **Etiquetado confuso de la Carta** El mapa de calor muestra una búsqueda visual dispersa debido a que la carta está oculta bajo el nombre no intuitivo de "Paseo de la Fama" | Cambiar el nombre del enlace del menú a etiquetas claras y convencionales como "Carta" o "Menú", garantizando su localización directa con un solo clic. |
-| **Media**          | Ej. Los usuarios no ven el botón de registro rápidamente.        | Cambiar el color del CTA a uno de mayor contraste según WCAG. |
-| **Baja**           | Ej. El logo no redirige a la home.                               | Añadir el enlace estándar al logotipo en la cabecera.        |
+| **🟢 Baja** | **Dependencia de navegación implícita** Al consultar secciones internas la barra de menú desaparece | Mantener el menú de navegación principal siempre visible en la zona superior y asegurar el enlace estándar hacia el inicio en el logotipo. |
+
 
 
 

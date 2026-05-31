@@ -251,3 +251,19 @@ El diseño se adapta de una grilla de 3 o 4 columnas en escritorio a formatos ve
 ![mockup](P3/mockups.png)
 
 El mockup de alta fidelidad (Hi-Fi) de Ramen Pa’ya presenta un ecosistema digital completo diseñado para ofrecer una experiencia de usuario (UX) inmersiva que integra la gestión gastronómica con la interacción social. La interfaz se estructura a través de nueve pantallas clave que incluyen una Home con jerarquía visual clara basada en el lema "El sabor que nos une", un sistema de reservas optimizado con selectores de fecha y hora, y un perfil de usuario personalizado que utiliza avatares de estilo anime y métricas de actividad (puntos y reseñas). La arquitectura se complementa con una carta digital organizada por categorías (entrantes, calientes, sushi), una sección de eventos comunitarios, mapas de contacto detallados y formularios de registro/login con ilustraciones motivadoras, culminando en el Dōjin Club, un foro social con feed de noticias y tendencias diseñado para fomentar la fidelización.
+
+## 4. Exportación + Documentación
+
+### 4.a Exportación a HTML/React
+Este apartado representa la transición del diseño al código real, donde la interfaz de la aplicación se materializa en un entorno web operativo utilizando HTML y React. Este proceso traslada con éxito toda la lógica y funcionalidad del sitio —desde la navegación por la carta del restaurante hasta la interactividad de los formularios y el foro—, asegurando que la experiencia del usuario sea tan fluida y funcional como se proyectó en los prototipos.
+
+[Enlace exportado](https://bot-excel-33662561.figma.site)
+
+### 4.b Documentación con Storybook
+En esta sección se detalla la creación de una biblioteca de componentes aislada y modular utilizando Storybook para gestionar el sistema de diseño de Ramen Pa'ya. A través de esta herramienta, se organizan y testean de forma independiente tanto los elementos atómicos (botones, campos de formulario) como las páginas completas, lo que permite verificar la consistencia visual, la interactividad y la accesibilidad de la plataforma de manera controlada antes de su despliegue final.
+
+### 4.c Puntos fuertes y débiles
+El análisis del diseño revela como puntos fuertes una identidad visual sumamente inmersiva gracias a la integración del concepto "Ramen + Anime/Manga" y una gran cohesión en la paleta cromática, tipografías y componentes; en contraposición, se identifican como puntos débiles la excesiva longitud de la pantalla de la carta (que exige demasiado scroll), problemas potenciales de legibilidad en la sección de reservas debido al contraste sobre el fondo fotográfico, y un exceso de espacio vertical en los formularios de inicio de sesión y registro.
+
+### 4.d Conclusiones
+Como balance de cierre, el proyecto demuestra que la sinergia entre un código web totalmente operativo y una documentación de componentes rigurosa es la clave del éxito del desarrollo. Este enfoque dual no solo garantiza que el producto actual respete fielmente la visión de diseño original, sino que establece una infraestructura técnica sólida que asegura la mantenibilidad, escalabilidad y eficiencia de la aplicación de cara a futuras actualizaciones.

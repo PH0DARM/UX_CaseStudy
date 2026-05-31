@@ -405,3 +405,23 @@ Estos son los mapas de calor obtenidos para cada participante durante la realiza
 ### 5.f Usability Report de B
 Finalmente, elaboramos un Usability Report específico sobre el Caso B (DIU3.RESCUE), integrando los resultados obtenidos mediante cuestionarios SUS, pruebas A/B, Eye Tracking y auditoría de accesibilidad. El informe recoge los principales problemas detectados y propone recomendaciones orientadas a mejorar la navegación, la claridad visual y la experiencia general de usuario.
 [Usability Report](P5/Usability-Report-template.md)
+
+<br>
+
+## 6.Conclusiones finales de las practicas
+
+El desarrollo del caso de estudio de Ramen Pa'ya nos ha demostrado que el Diseño de Interfaces y la Experiencia de Usuario van mucho más allá de hacer una web visualmente atractiva; es un proceso metodológico completo.
+
+Los aprendizajes fundamentales de este proceso se resumen en los siguientes puntos:
+
+La investigación define el éxito del diseño: Herramientas como el Competitive Analysis, la creación de Personas y los User Journey Maps nos han enseñado que no podemos diseñar a ciegas. Identificar las frustraciones reales de los usuarios (como la falta de comunidad en otros restaurantes) es lo que permite crear una propuesta de valor verdaderamente innovadora.
+
+La importancia de la iteración y la jerarquía visual: Pasar de Wireframes de baja fidelidad a un Mockup final, y establecer unas Guidelines claras (tipografía, paleta de colores, componentes), nos ha enseñado a estructurar la información para que sea intuitiva. Hemos aprendido que cada elemento en la pantalla debe tener un propósito claro.
+
+El puente entre el diseño y el código es vital: La exportación a HTML/React y la creación de una biblioteca en Storybook nos ha dejado una lección crucial: el diseño no sirve de nada si no es viable técnicamente. Documentar componentes asegura que el trabajo escale y que el equipo de desarrollo respete la visión original.
+
+Los datos matan a las suposiciones (Testing): Las pruebas de evaluación han sido la prueba de fuego. Usar herramientas estandarizadas como el cuestionario SUS, el A/B Testing y el Eye Tracking nos ha enseñado a medir la usabilidad de forma objetiva. Descubrir que nuestro diseño obtenía un 87.5 frente al 49.0 del caso B demuestra la utilidad de aplicar una buena metodología.
+
+El diseño nunca está terminado (Autocrítica): Hemos aprendido a detectar nuestros propios fallos de diseño basándonos en el uso real. Reconocer problemas como el exceso de scroll en la carta o los fallos de contraste en las fotos no es un fracaso, sino el primer paso para la siguiente iteración de mejora.
+
+En resumen: Estas prácticas nos han enseñado a dominar el ciclo de vida completo de un producto digital. Hemos aprendido a empatizar con el usuario, estructurar soluciones lógicas, prototipar con precisión, documentar para el desarrollo y, lo más importante, validar nuestras decisiones con usuarios reales y datos objetivo

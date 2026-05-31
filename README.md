@@ -160,7 +160,7 @@ En esta parte hemos desarrollado los wireframes Lo-Fi en Figma. Hemos definido l
 * El club de la comunidad Pa'ya
 ![Comunidad](P2/comunidad.png)
 
-*Inicio de sesión
+* Inicio de sesión
 ![Inicio de sesión](P2/inicioSesion.png)
 
 * Perfil de usuario

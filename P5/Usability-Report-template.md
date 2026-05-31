@@ -139,8 +139,10 @@ Los resultados obtenidos muestran problemas relacionados con la visibilidad de d
 
 | **Prioridad**      | **Hallazgo**                                                 | **Recomendación de Mejora**                                  |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **🔴Alta (Crítica)** | **Etiquetado confuso de la Carta** El mapa de calor muestra una búsqueda visual dispersa debido a que la carta está oculta bajo el nombre no intuitivo de "Paseo de la Fama" | Cambiar el nombre del enlace del menú a etiquetas claras y convencionales como "Carta" o "Menú", garantizando su localización directa con un solo clic. |
-| **🟢 Baja** | **Dependencia de navegación implícita** Al consultar secciones internas la barra de menú desaparece | Mantener el menú de navegación principal siempre visible en la zona superior y asegurar el enlace estándar hacia el inicio en el logotipo. |
+| **🔴Alta (Crítica)** | **Etiquetado confuso de la Carta** Los mapas de calor muestran una búsqueda visual dispersa debido a que la carta aparece bajo el nombre "Paseo de la Fama" | Cambiar el nombre del enlace del menú a etiquetas claras y reconocibles como "Carta" o "Menú", garantizando su localización directa con un solo clic. |
+| **🔴Alta (Crítica)** | **Elevada complejidad percibida y baja fidelización** Los resultados SUS reflejan una percepción general de complejidad y una baja predisposición de los usuarios a utilizar nuevamente la plataforma. | Simplificar la estructura visual de la página, reducir elementos secundarios y priorizar visualmente las funcionalidades principales para hacer la navegación más clara e intuitiva. |
+| **🟡 Media** | **Sensación de inconsistencia entre funcionalidades** Varios usuarios percibieron desconexión entre las distintas secciones de la web | Mantener coherencia en botones, tarjetas, menús y flujos de navegación para transmitir una experiencia más uniforme y predecible. |
+| **🟢 Baja** | **Dependencia de navegación implícita** Al consultar páginas internas la barra de menú desaparece | Mantener el menú de navegación principal siempre visible en la zona superior y asegurar el enlace estándar hacia el inicio en el logotipo. |
 
 
 

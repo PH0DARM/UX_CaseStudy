@@ -167,6 +167,6 @@ A continuación, se exponen de forma comparativa los mapas de calor obtenidos pa
 <br>
 
 ### 5.f Usability Report de B
-
+Elaboramos un Usability Report sobre el Caso B, integrando los resultados obtenidos mediante cuestionarios SUS, pruebas A/B, Eye Tracking y auditoría de accesibilidad. El informe recoge los principales problemas detectados y propone recomendaciones orientadas a mejorar la navegación, la claridad visual y la experiencia general de usuario.
 [Usability Report](Usability-Report-template.md)
 

@@ -13,13 +13,13 @@ A través de esta herramienta, se han organizado y testeado de manera independie
 
 ## 4.c Puntos fuertes y debiles
 
-Puntos Fuertes
+### Puntos Fuertes
 
 El enfoque "Ramen + Cultura Anime/Manga" está perfectamente integrado. El uso de ilustraciones de fondo en el login, el foro "Dōjin Club", los talleres de manga y el avatar de perfil crean una experiencia inmersiva muy atractiva para el público objetivo.
 
 La paleta cromática se mantiene unificada en todas las pantallas. La tipografía y el estilo de las tarjetas (cards) dan mucha cohesión al diseño, permitiendo que se adapte a la vision de todo tipo de publicos.
 
-Puntos Debiles
+### Puntos Debiles
 
 La pantalla de la carta es extremadamente larga. Si el usuario está abajo del todo (en bebidas) y quiere volver a entrantes, tendrá que hacer muchísimo scroll.
 

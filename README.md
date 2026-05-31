@@ -169,6 +169,9 @@ En esta parte hemos desarrollado los wireframes Lo-Fi en Figma. Hemos definido l
 * Informacion del local
 ![Informacion](P2/InformacionLocal.png)
 
+---
+<br>
+
 ## 3. Mi UX-Case Study (diseño)
 
 ### 3.a Moodboard
@@ -252,6 +255,9 @@ El diseño se adapta de una grilla de 3 o 4 columnas en escritorio a formatos ve
 
 El mockup de alta fidelidad (Hi-Fi) de Ramen Pa’ya presenta un ecosistema digital completo diseñado para ofrecer una experiencia de usuario (UX) inmersiva que integra la gestión gastronómica con la interacción social. La interfaz se estructura a través de nueve pantallas clave que incluyen una Home con jerarquía visual clara basada en el lema "El sabor que nos une", un sistema de reservas optimizado con selectores de fecha y hora, y un perfil de usuario personalizado que utiliza avatares de estilo anime y métricas de actividad (puntos y reseñas). La arquitectura se complementa con una carta digital organizada por categorías (entrantes, calientes, sushi), una sección de eventos comunitarios, mapas de contacto detallados y formularios de registro/login con ilustraciones motivadoras, culminando en el Dōjin Club, un foro social con feed de noticias y tendencias diseñado para fomentar la fidelización.
 
+---
+<br>
+
 ## 4. Exportación + Documentación
 
 ### 4.a Exportación a HTML/React
@@ -267,3 +273,135 @@ El análisis del diseño revela como puntos fuertes una identidad visual sumamen
 
 ### 4.d Conclusiones
 Como balance de cierre, el proyecto demuestra que la sinergia entre un código web totalmente operativo y una documentación de componentes rigurosa es la clave del éxito del desarrollo. Este enfoque dual no solo garantiza que el producto actual respete fielmente la visión de diseño original, sino que establece una infraestructura técnica sólida que asegura la mantenibilidad, escalabilidad y eficiencia de la aplicación de cara a futuras actualizaciones.
+
+---
+<br>
+
+## 5. Pruebas de Evaluación 
+
+### 5.a Reclutamiento de usuarios 
+Caso asignado (caso B): [DIU3.RESCUE](https://github.com/Practicas-DIU3-RESCUE)
+
+Las pruebas de evaluación se realizaron con un grupo de usuarios de perfiles variados, combinando participantes del entorno académico y usuarios externos ajenos a la asignatura. La muestra incluyó personas de diferentes edades, ocupaciones y niveles de experiencia tecnológica, permitiendo analizar el comportamiento de usuarios con competencias digitales tanto altas como bajas.
+
+A continuación, se detalla la asignación de cada participante:
+
+
+| Usuarios  | Sexo/Edad  | Ocupación     |  Exp.TIC    | Caso
+| --------- | ---------- | ------------- | ----------- | -----
+| P01       | M / 22     | Estudiante    | Alta        | A 
+| P02       | M / 20     | Estudiante    | Alta        | A 
+| P03       | H / 21     | Estudiante    | Alta        | A 
+| P04       | M / 19     | Estudiante    | Media       | A  
+| P05       | H / 92     | Jubilado      | Baja        | A 
+| P06       | H / 20     | Estudiante    | Media       | B 
+| P07       | M / 84     | Jubilada      | Baja        | B 
+| P08       | M / 56     | Farmaceútica  | Media       | B 
+| P09       | H / 54     | Policía       | Media       | B 
+| P10       | M / 22     | Estudiante    | Alta        | B 
+
+<br>
+
+### 5.b Diseño de las pruebas 
+Se diseñaron dos tareas principales para evaluar la navegación y orientación dentro de la interfaz. La primera consistía en localizar la sección correspondiente a la carta o menú del sitio web, mientras que la segunda requería regresar a la página principal tras completar la tarea anterior. Durante las pruebas se analizaron aspectos como el tiempo empleado, el número de clics necesarios y las dificultades de navegación encontradas por los participantes.
+
+<br>
+
+### 5.c Cuestionario SUS
+Para medir la percepción subjetiva de la usabilidad de ambos sistemas, hemos usado el System Usability Scale (SUS), un instrumento estandarizado que consta de 10 preguntas con respuestas en una escala de 5 puntos (desde "Totalmente en desacuerdo" hasta "Totalmente de acuerdo").
+
+#### Procesamiento de los datos y resultados obtenidos
+
+| Usuarios  | Metodo     | SUS Score     |  Evaluacion Linguistica     
+| --------- | ---------- | ------------- | ----------- 
+| P01       |     A      | 92.5          | Excelente       
+| P02       |     A      | 100.0         | Excelente       
+| P03       |     A      | 87.5          | Excelente        
+| P04       |     A      | 97.5          | Excelente       
+| P05       |     A      | 60.0          | Suficiente        
+| P06       |     B      | 67.5          | Suficiente      
+| P07       |     B      | 25.0          | Muy Deficiente       
+| P08       |     B      | 42.5          | Deficiente       
+| P09       |     B      | 60.0          | Suficiente       
+| P10       |     B      | 50.0          | Suficiente 
+
+- Media Final del caso A: 87.5
+- Media Final del caso B: 49.0
+
+#### Análisis y conclusiones
+El análisis de los resultados mostró que el Caso B presentó problemas relacionados con la claridad de navegación, la complejidad percibida y la orientación dentro de la interfaz. Estas dificultades afectaron especialmente a usuarios con menor experiencia tecnológica, aunque también se observaron incidencias en perfiles con experiencia media y alta.
+
+<br>
+
+### 5.d A/B Testing
+
+| Metrica     | Caso A PAYA | Caso B Rescue     
+| ----------- | ----------  | -------------- 
+| Media SUS   |      87.5   | 49.0              
+| Eval Lingüística |  Excelente  | Deficiente               
+| Max Score   |     100.0   | 67.5               
+| Min Score   |     60.0    | 25.0    
+
+La comparación directa entre ambos sistemas evidenció diferencias significativas en términos de usabilidad. El Caso A ofreció una experiencia más intuitiva, eficiente y consistente, mientras que el Caso B mostró problemas de navegación e inconsistencias que dificultaron la realización de las tareas propuestas.
+
+<br>
+
+### 5.e Aplicación del método Eye Tracking 
+
+Estos son los mapas de calor obtenidos para cada participante durante la realización de las dos pruebas fijadas.
+
+**Participante 1**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](P5/eye_tracking/P01_1.png) | ![U1 Inicio](P5/eye_tracking/P01_2.png) |
+
+**Participante 2**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](P5/eye_tracking/P02_1.png) | ![U1 Inicio](P5/eye_tracking/P02_2.png) |
+
+**Participante 3**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](P5/eye_tracking/P03_1.png) | ![U1 Inicio](P5/eye_tracking/P03_2.png) |
+
+**Participante 4**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](P5/eye_tracking/P04_1.png) | ![U1 Inicio](P5/eye_tracking/P04_2.png) |
+
+**Participante 5**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](P5/eye_tracking/P05_1.png) | ![U1 Inicio](P5/eye_tracking/P05_2.png) |
+
+**Participante 6**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](P5/eye_tracking/P06_1.png) | ![U1 Inicio](P5/eye_tracking/p06_2.png) |
+
+**Participante 7**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](P5/eye_tracking/P07_1.png) | ![U1 Inicio](P5/eye_tracking/P07_2.png) |
+
+**Participante 8**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](P5/eye_tracking/P08_1.png) | ![U1 Inicio](P5/eye_tracking/P08_2.png) |
+
+**Participante 9**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](P5/eye_tracking/P09_1.png) | ![U1 Inicio](P5/eye_tracking/P09_2.png) |
+
+**Participante 10**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](P5/eye_tracking/P10_1.png) | ![U1 Inicio](P5/eye_tracking/P10_2.png) |
+
+<br>
+
+### 5.f Usability Report de B
+Finalmente, elaboramos un Usability Report específico sobre el Caso B (DIU3.RESCUE), integrando los resultados obtenidos mediante cuestionarios SUS, pruebas A/B, Eye Tracking y auditoría de accesibilidad. El informe recoge los principales problemas detectados y propone recomendaciones orientadas a mejorar la navegación, la claridad visual y la experiencia general de usuario.
+[Usability Report](P5/Usability-Report-template.md)

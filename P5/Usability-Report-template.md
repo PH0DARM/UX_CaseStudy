@@ -87,21 +87,60 @@ En conjunto, el análisis por ítems confirma que los principales problemas de D
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
+**Participante 6**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P06_1.png) | ![U1 Inicio](eye_tracking/p06_2.png) |
 
-- **Heatmaps (Mapas de calor):** Incluye las capturas de GazeMapping. Comenta si los usuarios miraron los **POI** (Puntos de Interés) definidos.
-- **Zonas de Silencio:** Identifica elementos importantes que fueron totalmente ignorados.
-- **Hallazgo clave:** Ejemplo: "El 80% de los usuarios ignoró el botón de CTA debido a su ubicación en el margen inferior".
+**Participante 7**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P07_1.png) | ![U1 Inicio](eye_tracking/P07_2.png) |
+
+**Participante 8**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P08_1.png) | ![U1 Inicio](eye_tracking/P08_2.png) |
+
+**Participante 9**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P09_1.png) | ![U1 Inicio](eye_tracking/P09_2.png) |
+
+**Participante 10**
+| Prueba 1: Buscar la Carta | Prueba 2: Volver al Inicio |
+| :---: | :---: |
+| ![U1 Carta](eye_tracking/P10_1.png) | ![U1 Inicio](eye_tracking/P10_2.png) |
+
+### Hallazgos principales
+
+#### Tarea 1: Localización de la carta
+En esta prueba hemos observado que la mayoría de los usuarios necesitó explorar diferentes áreas de la página antes de identificar el acceso a la carta. El mapa de calor presenta numerosas zonas de alta intensidad distribuidas por toda la interfaz, evidenciando una búsqueda visual extensa en lugar de una localización directa del elemento objetivo.
+
+Uno de los factores que parece haber contribuido a esta dificultad es la denominación utilizada para acceder a la carta. Los usuarios esperaban encontrar una opción etiquetada explícitamente como "Carta" o "Menú", pero la funcionalidad aparece bajo el nombre "Paseo de la Fama", una denominación poco intuitiva para quienes visitan la página por primera vez.
+
+Como consecuencia, la mayoría de los usuarios necesitaron más de un clic para completar la tarea, lo que sugiere que la arquitectura de la información y el etiquetado de los elementos de navegación no comunican adecuadamente el contenido que contienen.
+
+#### Tarea 2: Retorno a la página de inicio
+Durante la segunda prueba se observó un patrón de comportamiento mucho más claro. La mayoría de los participantes intentó regresar a la página principal pulsando sobre el logo, siguiendo una convención ampliamente extendida en el diseño web.
+
+No obstante, la ausencia del menú de navegación en esta página provocó que algunos usuarios tardaran más de lo esperado en completar la tarea. Aquellos participantes que no asociaron inmediatamente el logotipo con la función de retorno al inicio mostraron dudas sobre cómo volver a la página principal y realizaron exploraciones adicionales de la interfaz antes de encontrar una solución.
+
+Este comportamiento sugiere que el sistema depende excesivamente de convenciones implícitas conocidas solamente por usuarios experimentados.
+
+#### Conclusión del análisis Eye Tracking
+
+Los resultados obtenidos muestran problemas relacionados con la visibilidad de determinadas funcionalidades, la nomenclatura utilizada en algunos apartados y la orientación durante la navegación. La dispersión observada en los mapas de calor, especialmente durante la primera tarea, indica que los usuarios deben dedicar un esfuerzo cognitivo elevado para localizar acciones que deberían ser fácilmente identificables. Una mejora en el etiquetado de las opciones, junto con una estructura de navegación más clara y consistente, contribuiría significativamente a reducir los tiempos de búsqueda y aumentar la eficiencia de uso del sistema.
 
 ## 5. Auditoría de Accesibilidad
 [Enlace al informe de accesibilidad](Acceibility-Report-template.md)
 
 ## 6. Conclusiones y Recomendaciones (Actionable Insights)
 
-No te limites a decir qué está mal; di cómo arreglarlo. Clasifica las recomendaciones por prioridad:
-
 | **Prioridad**      | **Hallazgo**                                                 | **Recomendación de Mejora**                                  |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Alta (Crítica)** | Ej. El SUS indica alta complejidad y el Eye Tracking muestra confusión en el menú. | Simplificar la arquitectura de información y aumentar el tamaño de las fuentes. |
+| **🔴Alta (Crítica)** | **Etiquetado confuso de la Carta** El mapa de calor muestra una búsqueda visual dispersa debido a que la carta está oculta bajo el nombre no intuitivo de "Paseo de la Fama" | Cambiar el nombre del enlace del menú a etiquetas claras y convencionales como "Carta" o "Menú", garantizando su localización directa con un solo clic. |
+| **🔴Alta (Crítica)** | **Etiquetado confuso de la Carta** El mapa de calor muestra una búsqueda visual dispersa debido a que la carta está oculta bajo el nombre no intuitivo de "Paseo de la Fama" | Cambiar el nombre del enlace del menú a etiquetas claras y convencionales como "Carta" o "Menú", garantizando su localización directa con un solo clic. |
 | **Media**          | Ej. Los usuarios no ven el botón de registro rápidamente.        | Cambiar el color del CTA a uno de mayor contraste según WCAG. |
 | **Baja**           | Ej. El logo no redirige a la home.                               | Añadir el enlace estándar al logotipo en la cabecera.        |
 
